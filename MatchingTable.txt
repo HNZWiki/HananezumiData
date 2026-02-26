@@ -1,0 +1,684 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -3516290372352487147
+	string m_Name = "MatchingTable"
+	MatchingPair pairs
+		Array Array
+		int size = 96
+			[0]
+			MatchingPair data
+				UInt8 combination = 21
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 50
+			[1]
+			MatchingPair data
+				UInt8 combination = 21
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 50
+			[2]
+			MatchingPair data
+				UInt8 combination = 22
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 50
+			[3]
+			MatchingPair data
+				UInt8 combination = 22
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[4]
+			MatchingPair data
+				UInt8 combination = 23
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 25
+			[5]
+			MatchingPair data
+				UInt8 combination = 23
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 25
+			[6]
+			MatchingPair data
+				UInt8 combination = 23
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[7]
+			MatchingPair data
+				UInt8 combination = 24
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 50
+			[8]
+			MatchingPair data
+				UInt8 combination = 24
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[9]
+			MatchingPair data
+				UInt8 combination = 25
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 25
+			[10]
+			MatchingPair data
+				UInt8 combination = 25
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 25
+			[11]
+			MatchingPair data
+				UInt8 combination = 25
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[12]
+			MatchingPair data
+				UInt8 combination = 26
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 50
+			[13]
+			MatchingPair data
+				UInt8 combination = 26
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[14]
+			MatchingPair data
+				UInt8 combination = 27
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 25
+			[15]
+			MatchingPair data
+				UInt8 combination = 27
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[16]
+			MatchingPair data
+				UInt8 combination = 27
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 25
+			[17]
+			MatchingPair data
+				UInt8 combination = 28
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 50
+			[18]
+			MatchingPair data
+				UInt8 combination = 28
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[19]
+			MatchingPair data
+				UInt8 combination = 29
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 50
+			[20]
+			MatchingPair data
+				UInt8 combination = 29
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50
+			[21]
+			MatchingPair data
+				UInt8 combination = 42
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[22]
+			MatchingPair data
+				UInt8 combination = 42
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[23]
+			MatchingPair data
+				UInt8 combination = 43
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[24]
+			MatchingPair data
+				UInt8 combination = 43
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 50
+			[25]
+			MatchingPair data
+				UInt8 combination = 44
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[26]
+			MatchingPair data
+				UInt8 combination = 44
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[27]
+			MatchingPair data
+				UInt8 combination = 45
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[28]
+			MatchingPair data
+				UInt8 combination = 45
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 50
+			[29]
+			MatchingPair data
+				UInt8 combination = 46
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[30]
+			MatchingPair data
+				UInt8 combination = 46
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[31]
+			MatchingPair data
+				UInt8 combination = 47
+				FlowerColor color
+					UInt8 color = 1
+					UInt8 isSpecial = 0
+				int probability = 20
+			[32]
+			MatchingPair data
+				UInt8 combination = 47
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 40
+			[33]
+			MatchingPair data
+				UInt8 combination = 47
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 40
+			[34]
+			MatchingPair data
+				UInt8 combination = 48
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[35]
+			MatchingPair data
+				UInt8 combination = 48
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[36]
+			MatchingPair data
+				UInt8 combination = 49
+				FlowerColor color
+					UInt8 color = 2
+					UInt8 isSpecial = 0
+				int probability = 50
+			[37]
+			MatchingPair data
+				UInt8 combination = 49
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50
+			[38]
+			MatchingPair data
+				UInt8 combination = 63
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 50
+			[39]
+			MatchingPair data
+				UInt8 combination = 63
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 50
+			[40]
+			MatchingPair data
+				UInt8 combination = 64
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 50
+			[41]
+			MatchingPair data
+				UInt8 combination = 64
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[42]
+			MatchingPair data
+				UInt8 combination = 65
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 25
+			[43]
+			MatchingPair data
+				UInt8 combination = 65
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 25
+			[44]
+			MatchingPair data
+				UInt8 combination = 65
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50
+			[45]
+			MatchingPair data
+				UInt8 combination = 66
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 50
+			[46]
+			MatchingPair data
+				UInt8 combination = 66
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[47]
+			MatchingPair data
+				UInt8 combination = 67
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 50
+			[48]
+			MatchingPair data
+				UInt8 combination = 67
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 50
+			[49]
+			MatchingPair data
+				UInt8 combination = 68
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 50
+			[50]
+			MatchingPair data
+				UInt8 combination = 68
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[51]
+			MatchingPair data
+				UInt8 combination = 69
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 50
+			[52]
+			MatchingPair data
+				UInt8 combination = 69
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50
+			[53]
+			MatchingPair data
+				UInt8 combination = 84
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[54]
+			MatchingPair data
+				UInt8 combination = 84
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[55]
+			MatchingPair data
+				UInt8 combination = 85
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[56]
+			MatchingPair data
+				UInt8 combination = 85
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 50
+			[57]
+			MatchingPair data
+				UInt8 combination = 86
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[58]
+			MatchingPair data
+				UInt8 combination = 86
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[59]
+			MatchingPair data
+				UInt8 combination = 87
+				FlowerColor color
+					UInt8 color = 3
+					UInt8 isSpecial = 0
+				int probability = 20
+			[60]
+			MatchingPair data
+				UInt8 combination = 87
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 40
+			[61]
+			MatchingPair data
+				UInt8 combination = 87
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 40
+			[62]
+			MatchingPair data
+				UInt8 combination = 88
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[63]
+			MatchingPair data
+				UInt8 combination = 88
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[64]
+			MatchingPair data
+				UInt8 combination = 89
+				FlowerColor color
+					UInt8 color = 4
+					UInt8 isSpecial = 0
+				int probability = 50
+			[65]
+			MatchingPair data
+				UInt8 combination = 89
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50
+			[66]
+			MatchingPair data
+				UInt8 combination = 105
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 50
+			[67]
+			MatchingPair data
+				UInt8 combination = 105
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 50
+			[68]
+			MatchingPair data
+				UInt8 combination = 106
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 50
+			[69]
+			MatchingPair data
+				UInt8 combination = 106
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[70]
+			MatchingPair data
+				UInt8 combination = 107
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 50
+			[71]
+			MatchingPair data
+				UInt8 combination = 107
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 50
+			[72]
+			MatchingPair data
+				UInt8 combination = 108
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 50
+			[73]
+			MatchingPair data
+				UInt8 combination = 108
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[74]
+			MatchingPair data
+				UInt8 combination = 109
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 50
+			[75]
+			MatchingPair data
+				UInt8 combination = 109
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50
+			[76]
+			MatchingPair data
+				UInt8 combination = 126
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[77]
+			MatchingPair data
+				UInt8 combination = 126
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[78]
+			MatchingPair data
+				UInt8 combination = 127
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 20
+			[79]
+			MatchingPair data
+				UInt8 combination = 127
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 40
+			[80]
+			MatchingPair data
+				UInt8 combination = 127
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 40
+			[81]
+			MatchingPair data
+				UInt8 combination = 128
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[82]
+			MatchingPair data
+				UInt8 combination = 128
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[83]
+			MatchingPair data
+				UInt8 combination = 129
+				FlowerColor color
+					UInt8 color = 6
+					UInt8 isSpecial = 0
+				int probability = 50
+			[84]
+			MatchingPair data
+				UInt8 combination = 129
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50
+			[85]
+			MatchingPair data
+				UInt8 combination = 147
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 100
+			[86]
+			MatchingPair data
+				UInt8 combination = 148
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 50
+			[87]
+			MatchingPair data
+				UInt8 combination = 148
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[88]
+			MatchingPair data
+				UInt8 combination = 149
+				FlowerColor color
+					UInt8 color = 5
+					UInt8 isSpecial = 0
+				int probability = 20
+			[89]
+			MatchingPair data
+				UInt8 combination = 149
+				FlowerColor color
+					UInt8 color = 7
+					UInt8 isSpecial = 0
+				int probability = 40
+			[90]
+			MatchingPair data
+				UInt8 combination = 149
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 40
+			[91]
+			MatchingPair data
+				UInt8 combination = 168
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 100
+			[92]
+			MatchingPair data
+				UInt8 combination = 169
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[93]
+			MatchingPair data
+				UInt8 combination = 169
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50
+			[94]
+			MatchingPair data
+				UInt8 combination = 189
+				FlowerColor color
+					UInt8 color = 8
+					UInt8 isSpecial = 0
+				int probability = 50
+			[95]
+			MatchingPair data
+				UInt8 combination = 189
+				FlowerColor color
+					UInt8 color = 9
+					UInt8 isSpecial = 0
+				int probability = 50

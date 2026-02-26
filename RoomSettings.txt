@@ -1,0 +1,52 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -5967138355356085410
+	string m_Name = "RoomSettings"
+	RoomData dataList
+		Array Array
+		int size = 4
+			[0]
+			RoomData data
+				Vector3f dishPosition
+					float x = -2.6
+					float y = 0
+					float z = 0.5
+				Vector3f charaPosition
+					float x = 0.69
+					float y = 0
+					float z = 0
+			[1]
+			RoomData data
+				Vector3f dishPosition
+					float x = -1.35
+					float y = 0
+					float z = -1.09
+				Vector3f charaPosition
+					float x = 0
+					float y = 0
+					float z = 0
+			[2]
+			RoomData data
+				Vector3f dishPosition
+					float x = -1.35
+					float y = 0
+					float z = -1.09
+				Vector3f charaPosition
+					float x = 0
+					float y = 0
+					float z = 0
+			[3]
+			RoomData data
+				Vector3f dishPosition
+					float x = -2.15
+					float y = 0
+					float z = 1.28
+				Vector3f charaPosition
+					float x = 0
+					float y = 0
+					float z = 1.74
