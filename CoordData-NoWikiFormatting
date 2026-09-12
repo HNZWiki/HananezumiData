@@ -1,10 +1,10 @@
 Legend:
 * FlowerVariationOds data: denotes what the section is defining; think of it as the subsection title
 * ID (first one): flower variation internal ID number
-* int flowerId: plant species internal ID number
+* Species: plant species internal ID number
 * Int8 color: 1-9 (mostly) for solid colors, 10+ for hybrids
 * probability: related to the color's chance to grow from seed? hybrids are all 0
-* HW hash (originally "LocalizationHash languageHash"), SInt64 longHash, int intHash: hash codes for the variation's hedgehog words (see GameData.txt)
+* HW hash (originally "LocalizationHash languageHash"), SInt64 longHash, int intHash: hash codes for the variation's hedgehog words; can ignore this
 * int receivePrice: how many gold petals to receive the variation on a gift hedgehog
 
 
