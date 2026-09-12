@@ -21,12 +21,8 @@ As of initial posting (09/11/2026) not all themes have data checked off.
 
 * Variation internal ID: 0
 ** Species: (hydrangea) 0
-** Color:
-***UInt8 color = (red) 1
-***Hyb?: N
-* Probability: 200
-	HW hash:SInt64 longHash = 3455143295771901115int intHash =-1830881893
-	int recievePrice = 2
+** Color: (red) 1
+*** Hyb?: N
 
 * theme: (Passion Red) 0
 **AP: 85
@@ -93,12 +89,8 @@ Number: 1
 FlowerVariationOds data
 * Variation internal ID: 1
 ** Species: (hydrangea) 0
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
-* Probability: 200
-	HW hash:SInt64 longHash = 1528234338119971391int intHash = 499308159
-	int recievePrice = 2
 
 * theme: (Passion Red) 0
 **AP: 30
@@ -161,12 +153,8 @@ Number: 2
 FlowerVariationOds data
 * Variation internal ID: 2
 ** Species: (hydrangea) 0
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
-* Probability: 200
-	HW hash:SInt64 longHash = 3648378787633298505int intHash = 1434443465
-	int recievePrice = 2
 
 * theme: (Cool Blue) 2
 **AP: ✔90
@@ -229,12 +217,8 @@ Number: 3
 FlowerVariationOds data
 * Variation internal ID: 3
 ** Species: (hydrangea) 0
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
-* Probability: 200
-	HW hash:SInt64 longHash = 6053897200445584005int intHash =-1718668763
-	int recievePrice = 2
 
 * theme: (Cool Blue) 2
 **AP: 3
@@ -293,12 +277,8 @@ Number: 4
 FlowerVariationOds data
 * Variation internal ID: 4
 ** Species: (hydrangea) 0
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
-* Probability: 100
-	HW hash:SInt64 longHash =-213041986089371347int intHash = 1354416365
-	int recievePrice = 2
 
 * theme: (Pure white) 6
 **AP: 88
@@ -351,8 +331,7 @@ Number: 5
 FlowerVariationOds data
 * Variation internal ID: 5
 ** Species: chrysanthemum 1
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5826913512963836457int intHash =-1378823401
@@ -431,12 +410,8 @@ Number: 6
 FlowerVariationOds data
 * Variation internal ID: 6
 ** Species: chrysanthemum 1
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
-* Probability: 200
-	HW hash:SInt64 longHash = 8241636830722991300int intHash =-1578220668
-	int recievePrice = 2
 
 * theme: (Passion Red) 0
 **AP: 30
@@ -513,12 +488,8 @@ Number: 7
 FlowerVariationOds data
 * Variation internal ID: 7
 ** Species: chrysanthemum 1
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
-* Probability: 200
-	HW hash:SInt64 longHash = 134270197612043408int intHash =-1870510928
-	int recievePrice = 2
 
 * theme: (Cool Blue) 2
 **AP: 50
@@ -603,12 +574,8 @@ Number: 8
 FlowerVariationOds data
 * Variation internal ID: 8
 ** Species: chrysanthemum 1
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
-* Probability: 200
-	HW hash:SInt64 longHash = 671040782945671433int intHash = 418920425
-	int recievePrice = 2
 
 * theme: (Fresh Yellow) 4
 **AP: 89
@@ -761,8 +728,7 @@ Number: 10
 FlowerVariationOds data
 * Variation internal ID: 10
 ** Species: chrysanthemum 1
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5825853583754241053int intHash = 1909899427
@@ -913,8 +879,7 @@ Number: 12
 FlowerVariationOds data
 * Variation internal ID: 12
 ** Species: cosmos 2
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3365762286812534188int intHash =-1742215660
@@ -983,8 +948,7 @@ Number: 13
 FlowerVariationOds data
 * Variation internal ID: 13
 ** Species: cosmos 2
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 758735015334929751int intHash = 11755511
@@ -1061,8 +1025,7 @@ Number: 14
 FlowerVariationOds data
 * Variation internal ID: 14
 ** Species: cosmos 2
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-1902406875280523452int intHash = 1442742116
@@ -1219,8 +1182,7 @@ Number: 16
 FlowerVariationOds data
 * Variation internal ID: 16
 ** Species: cosmos 2
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3362049232398965306int intHash = 371605414
@@ -1303,8 +1265,7 @@ Number: 17
 FlowerVariationOds data
 * Variation internal ID: 17
 ** Species: cosmos 2
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1460074512792005865int intHash = 952660681
@@ -1459,8 +1420,7 @@ Number: 19
 FlowerVariationOds data
 * Variation internal ID: 19
 ** Species: narcissus 3
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5289334039865737290int intHash = 1077399350
@@ -1531,8 +1491,7 @@ Number: 20
 FlowerVariationOds data
 * Variation internal ID: 20
 ** Species: narcissus 3
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4303009088264019269int intHash = 1553150107
@@ -1611,8 +1570,7 @@ Number: 21
 FlowerVariationOds data
 * Variation internal ID: 21
 ** Species: tulips 4
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1399737309519589037int intHash =-2140132627
@@ -1687,8 +1645,7 @@ Number: 22
 FlowerVariationOds data
 * Variation internal ID: 22
 ** Species: tulips 4
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2613660276424635487int intHash = 1706589951
@@ -1769,8 +1726,7 @@ Number: 23
 FlowerVariationOds data
 * Variation internal ID: 23
 ** Species: tulips 4
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7543158839910525137int intHash = 709268015
@@ -1925,8 +1881,7 @@ Number: 25
 FlowerVariationOds data
 * Variation internal ID: 25
 ** Species: tulips 4
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-7929262742509387344int intHash = 143248208
@@ -2009,8 +1964,7 @@ Number: 26
 FlowerVariationOds data
 * Variation internal ID: 26
 ** Species: tulips 4
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3368176814348085544int intHash = 68838680
@@ -2233,8 +2187,7 @@ Number: 29
 FlowerVariationOds data
 * Variation internal ID: 29
 ** Species: (camellia)  5
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2156465025802621354int intHash =-1735077226
@@ -2311,8 +2264,7 @@ Number: 30
 FlowerVariationOds data
 * Variation internal ID: 30
 ** Species: (camellia)  5
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3357966223613579727int intHash = 1656584145
@@ -2391,8 +2343,7 @@ Number: 31
 FlowerVariationOds data
 * Variation internal ID: 31
 ** Species: (camellia)  5
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3026055750196499868int intHash = 1663641340
@@ -2473,8 +2424,7 @@ Number: 32
 FlowerVariationOds data
 * Variation internal ID: 32
 ** Species: hibiscus 6
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1453593991263845356int intHash =-1225995764
@@ -2535,8 +2485,7 @@ Number: 33
 FlowerVariationOds data
 * Variation internal ID: 33
 ** Species: hibiscus 6
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8210631116560574401int intHash = 1802013759
@@ -2595,8 +2544,7 @@ Number: 34
 FlowerVariationOds data
 * Variation internal ID: 34
 ** Species: hibiscus 6
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2740063201028180833int intHash =-938091873
@@ -2715,8 +2663,7 @@ Number: 36
 FlowerVariationOds data
 * Variation internal ID: 36
 ** Species: hibiscus 6
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5385643209115676059int intHash =-1433384251
@@ -2773,8 +2720,7 @@ Number: 37
 FlowerVariationOds data
 * Variation internal ID: 37
 ** Species: (cluster amaryllis) 7
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8591877463726377187int intHash = 1885083811
@@ -2839,8 +2785,7 @@ Number: 38
 FlowerVariationOds data
 * Variation internal ID: 38
 ** Species: (cluster amaryllis) 7
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 1599521174522542726int intHash =-517564954
@@ -2907,8 +2852,7 @@ Number: 39
 FlowerVariationOds data
 * Variation internal ID: 39
 ** Species: (cluster amaryllis) 7
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6213310542909943426int intHash =-1077350818
@@ -3041,8 +2985,7 @@ Number: 41
 FlowerVariationOds data
 * Variation internal ID: 41
 ** Species: (cluster amaryllis) 7
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 50
 	HW hash:SInt64 longHash = 6557654706136254928int intHash =-1886383152
@@ -3107,8 +3050,7 @@ Number: 42
 FlowerVariationOds data
 * Variation internal ID: 42
 ** Species: sunflower 8
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 8658837721875533512int intHash = 1340489096
@@ -3179,8 +3121,7 @@ Number: 43
 FlowerVariationOds data
 * Variation internal ID: 43
 ** Species: sunflower 8
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6762443632552970926int intHash = 201997458
@@ -3253,8 +3194,7 @@ Number: 44
 FlowerVariationOds data
 * Variation internal ID: 44
 ** Species: sunflower 8
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 50
 	HW hash:SInt64 longHash = 70523600073443039int intHash = 742644735
@@ -3383,8 +3323,7 @@ Number: 46
 FlowerVariationOds data
 * Variation internal ID: 46
 ** Species: (primula) 9
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8642230500610204693int intHash = 294273035
@@ -3447,8 +3386,7 @@ Number: 47
 FlowerVariationOds data
 * Variation internal ID: 47
 ** Species: (primula) 9
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3124773600487440175int intHash = 458222191
@@ -3509,8 +3447,7 @@ Number: 48
 FlowerVariationOds data
 * Variation internal ID: 48
 ** Species: (primula) 9
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6331615104457687112int intHash =-186678168
@@ -3583,8 +3520,7 @@ Number: 49
 FlowerVariationOds data
 * Variation internal ID: 49
 ** Species: (primula) 9
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5513234431495845501int intHash =-1167792861
@@ -3725,8 +3661,7 @@ Number: 51
 FlowerVariationOds data
 * Variation internal ID: 51
 ** Species: (primula) 9
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 78454262232802938int intHash = 999265818
@@ -3803,8 +3738,7 @@ Number: 52
 FlowerVariationOds data
 * Variation internal ID: 52
 ** Species: (lantana) 10
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2397144292871159750int intHash =-1748996186
@@ -3869,8 +3803,7 @@ Number: 53
 FlowerVariationOds data
 * Variation internal ID: 53
 ** Species: (lantana) 10
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3437890249620148188int intHash =-667397020
@@ -3933,8 +3866,7 @@ Number: 54
 FlowerVariationOds data
 * Variation internal ID: 54
 ** Species: (lantana) 10
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1520024284795525904int intHash =-200610064
@@ -3995,8 +3927,7 @@ Number: 55
 FlowerVariationOds data
 * Variation internal ID: 55
 ** Species: (lantana) 10
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1059185899241872744int intHash =-1470325256
@@ -4117,8 +4048,7 @@ Number: 57
 FlowerVariationOds data
 * Variation internal ID: 57
 ** Species: (lantana) 10
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4196887597723392977int intHash = 2130920337
@@ -4169,8 +4099,7 @@ Number: 58
 FlowerVariationOds data
 * Variation internal ID: 58
 ** Species: (gentiana) 11
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3375684276096436192int intHash =-453071072
@@ -4243,8 +4172,7 @@ Number: 59
 FlowerVariationOds data
 * Variation internal ID: 59
 ** Species: (gentiana) 11
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1469707334171114611int intHash =-148024781
@@ -4315,8 +4243,7 @@ Number: 60
 FlowerVariationOds data
 * Variation internal ID: 60
 ** Species: (gentiana) 11
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8772142325524767327int intHash =-56511711
@@ -4383,8 +4310,7 @@ Number: 61
 FlowerVariationOds data
 * Variation internal ID: 61
 ** Species: (gentiana) 11
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3369333496931889456int intHash = 1967239120
@@ -4449,8 +4375,7 @@ Number: 62
 FlowerVariationOds data
 * Variation internal ID: 62
 ** Species: rose 12 (rose)
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8156320134705255144int intHash = 1438422344
@@ -4533,8 +4458,7 @@ Number: 63
 FlowerVariationOds data
 * Variation internal ID: 63
 ** Species: rose 12 (rose)
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6281825072959699259int intHash =-1529120805
@@ -4623,8 +4547,7 @@ Number: 64
 FlowerVariationOds data
 * Variation internal ID: 64
 ** Species: rose 12 (rose)
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 50
 	HW hash:SInt64 longHash = 3472476560642886149int intHash = 557498053
@@ -4709,8 +4632,7 @@ Number: 65
 FlowerVariationOds data
 * Variation internal ID: 65
 ** Species: rose 12 (rose)
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3382242862964202332int intHash =-667455996
@@ -4795,8 +4717,7 @@ Number: 66
 FlowerVariationOds data
 * Variation internal ID: 66
 ** Species: rose 12 (rose)
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1165274554602386781int intHash = 596198877
@@ -4989,8 +4910,7 @@ Number: 68
 FlowerVariationOds data
 * Variation internal ID: 68
 ** Species: rose 12 (rose)
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3372593552558609131int intHash =-754812171
@@ -5243,8 +5163,7 @@ Number: 71
 FlowerVariationOds data
 * Variation internal ID: 71
 ** Species: hyacinth 14
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6202158139894718220int intHash = 254906452
@@ -5319,8 +5238,7 @@ Number: 72
 FlowerVariationOds data
 * Variation internal ID: 72
 ** Species: hyacinth 14
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-490908811871558099int intHash =-805149011
@@ -5391,8 +5309,7 @@ Number: 73
 FlowerVariationOds data
 * Variation internal ID: 73
 ** Species: hyacinth 14
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8591877463726377187int intHash = 1885083811
@@ -5465,8 +5382,7 @@ Number: 74
 FlowerVariationOds data
 * Variation internal ID: 74
 ** Species: hyacinth 14
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1528234338119971391int intHash = 499308159
@@ -5537,8 +5453,7 @@ Number: 75
 FlowerVariationOds data
 * Variation internal ID: 75
 ** Species: hyacinth 14
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8170300516296961245int intHash =-1317018659
@@ -5689,8 +5604,7 @@ Number: 77
 FlowerVariationOds data
 * Variation internal ID: 77
 ** Species: hyacinth 14
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 8989169093397818702int intHash =-2025345842
@@ -5835,8 +5749,7 @@ Number: 79
 FlowerVariationOds data
 * Variation internal ID: 79
 ** Species: (carnation1) 15
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5453463319216217917int intHash =-730867581
@@ -5923,8 +5836,7 @@ Number: 80
 FlowerVariationOds data
 * Variation internal ID: 80
 ** Species: (carnation1) 15
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8164721594292769481int intHash = 550490185
@@ -6007,8 +5919,7 @@ Number: 81
 FlowerVariationOds data
 * Variation internal ID: 81
 ** Species: (carnation1) 15
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 50
 	HW hash:SInt64 longHash =-9092839323460933268int intHash = 120402508
@@ -6091,8 +6002,7 @@ Number: 82
 FlowerVariationOds data
 * Variation internal ID: 82
 ** Species: (carnation1) 15
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1518836493123934511int intHash =-358111217
@@ -6265,8 +6175,7 @@ Number: 84
 FlowerVariationOds data
 * Variation internal ID: 84
 ** Species: (carnation1) 15
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4708891679984764867int intHash =-1151017565
@@ -6431,8 +6340,7 @@ Number: 86
 FlowerVariationOds data
 * Variation internal ID: 86
 ** Species: canola flower/16
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8185157739849001298int intHash =-567682670
@@ -6505,8 +6413,7 @@ Number: 87
 FlowerVariationOds data
 * Variation internal ID: 87
 ** Species: white clover 18
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 6745321719894087513int intHash =-892523975
@@ -6579,8 +6486,7 @@ Number: 88
 FlowerVariationOds data
 * Variation internal ID: 88
 ** Species: white clover 18
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2997227289611929166int intHash = 494821650
@@ -6649,8 +6555,7 @@ Number: 89
 FlowerVariationOds data
 * Variation internal ID: 89
 ** Species: (dandelion) 19
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4862512826198739776int intHash = 2040289568
@@ -6725,8 +6630,7 @@ Number: 90
 FlowerVariationOds data
 * Variation internal ID: 90
 ** Species: (dandelion) 19
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-4199767403696591899int intHash = 1089731301
@@ -6799,8 +6703,7 @@ Number: 91
 FlowerVariationOds data
 * Variation internal ID: 91
 ** Species: azalea 20
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6458127378555814906int intHash = 759983942
@@ -6867,8 +6770,7 @@ Number: 92
 FlowerVariationOds data
 * Variation internal ID: 92
 ** Species: azalea 20
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1342863971055020201int intHash = 1976523561
@@ -6931,8 +6833,7 @@ Number: 93
 FlowerVariationOds data
 * Variation internal ID: 93
 ** Species: azalea 20
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-9128336690918639384int intHash =-1116184600
@@ -6987,8 +6888,7 @@ Number: 94
 FlowerVariationOds data
 * Variation internal ID: 94
 ** Species: azalea 20
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3748002003090618198int intHash =-430627830
@@ -7107,8 +7007,7 @@ Number: 96
 FlowerVariationOds data
 * Variation internal ID: 96
 ** Species: azalea 20
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1236050118096326201int intHash =-1698632583
@@ -7169,8 +7068,7 @@ Number: 97
 FlowerVariationOds data
 * Variation internal ID: 97
 ** Species: fluff (21)
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2750200491895971344int intHash =-1831454512
@@ -7235,8 +7133,7 @@ Number: 98
 FlowerVariationOds data
 * Variation internal ID: 98
 ** Species: morning glory 22
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6483263313879642227int intHash =-528497043
@@ -7301,8 +7198,7 @@ Number: 99
 FlowerVariationOds data
 * Variation internal ID: 99
 ** Species: morning glory 22
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1809536141533610908int intHash =-906477628
@@ -7365,8 +7261,7 @@ Number: 100
 FlowerVariationOds data
 * Variation internal ID: 100
 ** Species: morning glory 22
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2214235581857510345int intHash =-356130569
@@ -7429,8 +7324,7 @@ Number: 101
 FlowerVariationOds data
 * Variation internal ID: 101
 ** Species: morning glory 22
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4197171271723471415int intHash =-2130388553
@@ -7487,8 +7381,7 @@ Number: 102
 FlowerVariationOds data
 * Variation internal ID: 102
 ** Species: morning glory 22
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 7410962754201009616int intHash =-177054448
@@ -7545,8 +7438,7 @@ Number: 103
 FlowerVariationOds data
 * Variation internal ID: 103
 ** Species: bellflower 23
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3442487307732400079int intHash =-2071382831
@@ -7615,8 +7507,7 @@ Number: 104
 FlowerVariationOds data
 * Variation internal ID: 104
 ** Species: bellflower 23
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7054335726687413131int intHash =-1858567179
@@ -7681,8 +7572,7 @@ Number: 105
 FlowerVariationOds data
 * Variation internal ID: 105
 ** Species: bellflower 23
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7551300688887329138int intHash = 46572270
@@ -7745,8 +7635,7 @@ Number: 106
 FlowerVariationOds data
 * Variation internal ID: 106
 ** Species: (zinnia) 24
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8367340696615735697int intHash =-1229691919
@@ -7837,8 +7726,7 @@ Number: 107
 FlowerVariationOds data
 * Variation internal ID: 107
 ** Species: (zinnia) 24
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-847390272873074347int intHash =-637842411
@@ -7929,8 +7817,7 @@ Number: 108
 FlowerVariationOds data
 * Variation internal ID: 108
 ** Species: (zinnia) 24
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4270636240672693016int intHash =-1058583144
@@ -8013,8 +7900,7 @@ Number: 109
 FlowerVariationOds data
 * Variation internal ID: 109
 ** Species: (zinnia) 24
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5791915764660936135int intHash =-1015714247
@@ -8183,8 +8069,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 111
 ** Species: (zinnia) 24
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3108467843043720195int intHash = 1834403651
@@ -8359,8 +8244,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 113
 ** Species: (plumeria) 25
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7867708316100584424int intHash =-1976945912
@@ -8427,8 +8311,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 114
 ** Species: (plumeria) 25
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3606857370364750047int intHash =-563036799
@@ -8499,8 +8382,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 115
 ** Species: (plumeria) 25
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7900914433347044855int intHash =-574733449
@@ -8563,8 +8445,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 116
 ** Species: (plumeria) 25
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1121727513215554217int intHash =-1427953481
@@ -8627,8 +8508,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 	* ID:/ 117
 ** Species: petunia (26)
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8569920141355566392int intHash = 1293127336
@@ -8709,8 +8589,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 118
 ** Species: petunia (26)
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1979418566843321734int intHash =-1995852602
@@ -8785,8 +8664,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 119
 ** Species: petunia (26)
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1297394550700865273int intHash =-1988975833
@@ -8875,8 +8753,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 120
 ** Species: petunia (26)
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7790380260129358099int intHash =-756255571
@@ -8953,8 +8830,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 121
 ** Species: petunia (26)
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6612032625366811732int intHash =-1062852052
@@ -9107,8 +8983,7 @@ FlowerVariationOds data
 FlowerVariationOds data
 * Variation internal ID: 123
 ** Species: petunia (26)
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1655887675830743735int intHash = 584803337
@@ -9255,8 +9130,7 @@ Number: 125
 FlowerVariationOds data
 * Variation internal ID: 125
 ** Species: (lily) 27
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3382242862964202332int intHash =-667455996
@@ -9331,8 +9205,7 @@ Number: 126
 FlowerVariationOds data
 * Variation internal ID: 126
 ** Species: (lily) 27
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1435521318622426024int intHash = 2087928936
@@ -9417,8 +9290,7 @@ Number: 127
 FlowerVariationOds data
 * Variation internal ID: 127
 ** Species: (lily) 27
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 671040782945671433int intHash = 418920425
@@ -9495,8 +9367,7 @@ Number: 128
 FlowerVariationOds data
 * Variation internal ID: 128
 ** Species: (lily) 27
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-490908811871558099int intHash =-805149011
@@ -9643,8 +9514,7 @@ Number: 130
 FlowerVariationOds data
 * Variation internal ID: 130
 ** Species: (lily) 27
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3372593552558609131int intHash =-754812171
@@ -9807,8 +9677,7 @@ Number: 132
 FlowerVariationOds data
 * Variation internal ID: 132
 ** Species: (lavender) 28
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 1460074512792005865int intHash = 952660681
@@ -9871,8 +9740,7 @@ Number: 133
 FlowerVariationOds data
 * Variation internal ID: 133
 ** Species: (lavender) 28
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1340829863113645045int intHash = 1046494507
@@ -9931,8 +9799,7 @@ Number: 134
 FlowerVariationOds data
 * Variation internal ID: 134
 ** Species: (lavender) 28
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-7551870235910742436int intHash =-54712452
@@ -9989,8 +9856,7 @@ Number: 135
 FlowerVariationOds data
 * Variation internal ID: 135
 ** Species: cockscomb 32
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1031666303272022690int intHash =-947849758
@@ -10061,8 +9927,7 @@ Number: 136
 FlowerVariationOds data
 * Variation internal ID: 136
 ** Species: cockscomb 32
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2174423046564951859int intHash = 568075891
@@ -10135,8 +10000,7 @@ Number: 137
 FlowerVariationOds data
 * Variation internal ID: 137
 ** Species: cockscomb 32
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1752182866516142871int intHash = 15314071
@@ -10345,8 +10209,7 @@ Number: 140
 FlowerVariationOds data
 * Variation internal ID: 140
 ** Species: pansy 33
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 781169705119764506int intHash = 1943703290
@@ -10457,8 +10320,7 @@ Number: 141
 FlowerVariationOds data
 * Variation internal ID: 141
 ** Species: pansy 33
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 6310565267127046076int intHash =-1345478340
@@ -10563,8 +10425,7 @@ Number: 142
 FlowerVariationOds data
 * Variation internal ID: 142
 ** Species: pansy 33
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3369707334534555256int intHash =-1811595832
@@ -10673,8 +10534,7 @@ Number: 143
 FlowerVariationOds data
 * Variation internal ID: 143
 ** Species: pansy 33
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1297394550700865273int intHash =-1988975833
@@ -10781,8 +10641,7 @@ Number: 144
 FlowerVariationOds data
 * Variation internal ID: 144
 ** Species: pansy 33
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4302617223103098193int intHash =-427018865
@@ -10997,8 +10856,7 @@ Number: 146
 FlowerVariationOds data
 * Variation internal ID: 146
 ** Species: pansy 33
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7621833260321652077int intHash = 1834941011
@@ -11201,8 +11059,7 @@ Number: 148
 FlowerVariationOds data
 * Variation internal ID: 148
 ** Species: (Christmas rose) 35
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8214608635882849898int intHash = 466898218
@@ -11281,8 +11138,7 @@ Number: 149
 FlowerVariationOds data
 * Variation internal ID: 149
 ** Species: (Christmas rose) 35
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5546920677876633210int intHash = 728370630
@@ -11363,8 +11219,7 @@ Number: 150
 FlowerVariationOds data
 * Variation internal ID: 150
 ** Species: (Christmas rose) 35
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2573648817593837350int intHash = 1071044026
@@ -11435,8 +11290,7 @@ Number: 151
 FlowerVariationOds data
 * Variation internal ID: 151
 ** Species: (Christmas rose) 35
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3401474497756752088int intHash = 1628377368
@@ -11673,8 +11527,7 @@ Number: 154
 FlowerVariationOds data
 * Variation internal ID: 154
 ** Species: sasanqua 36
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3748002003090618198int intHash =-430627830
@@ -11753,8 +11606,7 @@ Number: 155
 FlowerVariationOds data
 * Variation internal ID: 155
 ** Species: sasanqua 36
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2825792367595301634int intHash =-583138178
@@ -11837,8 +11689,7 @@ Number: 156
 FlowerVariationOds data
 * Variation internal ID: 156
 ** Species: sasanqua 36
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8225395944471580194int intHash =-1350879294
@@ -11929,8 +11780,7 @@ Number: 157
 FlowerVariationOds data
 * Variation internal ID: 157
 ** Species: Cyclamen (37)
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7544816868816147321int intHash =-1949979705
@@ -12009,8 +11859,7 @@ Number: 158
 FlowerVariationOds data
 * Variation internal ID: 158
 ** Species: Cyclamen (37)
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8284400136475027998int intHash =-835020802
@@ -12095,8 +11944,7 @@ Number: 159
 FlowerVariationOds data
 * Variation internal ID: 159
 ** Species: Cyclamen (37)
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-1001727876916068144int intHash = 1401014864
@@ -12177,8 +12025,7 @@ Number: 160
 FlowerVariationOds data
 * Variation internal ID: 160
 ** Species: Cyclamen (37)
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 1599517875989171893int intHash =-566804875
@@ -12265,8 +12112,7 @@ Number: 161
 FlowerVariationOds data
 * Variation internal ID: 161
 ** Species: Cyclamen (37)
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3369375282022835534int intHash = 1107813042
@@ -12349,8 +12195,7 @@ Number: 162
 FlowerVariationOds data
 * Variation internal ID: 162
 ** Species: (Snow Drop) 38
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4195988197220031504int intHash = 215598672
@@ -12487,8 +12332,7 @@ Number: 164
 FlowerVariationOds data
 * Variation internal ID: 164
 ** Species: (holly) 39
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2611642193959416160int intHash = 244630496
@@ -12553,8 +12397,7 @@ Number: 165
 FlowerVariationOds data
 * Variation internal ID: 165
 ** Species: (holly) 39
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8677706371298435548int intHash =-1102649724
@@ -12627,8 +12470,7 @@ Number: 166
 FlowerVariationOds data
 * Variation internal ID: 166
 ** Species: poinsettia 40
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8652760916233278400int intHash = 2089634560
@@ -12699,8 +12541,7 @@ Number: 167
 FlowerVariationOds data
 * Variation internal ID: 167
 ** Species: poinsettia 40
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-6213310542909943426int intHash =-1077350818
@@ -12773,8 +12614,7 @@ Number: 168
 FlowerVariationOds data
 * Variation internal ID: 168
 ** Species: poinsettia 40
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3206836503759257590int intHash = 1974523542
@@ -12851,8 +12691,7 @@ Number: 169
 FlowerVariationOds data
 * Variation internal ID: 169
 ** Species: hibiscus 6
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 50
 	HW hash:SInt64 longHash =-7551870235910742436int intHash =-54712452
@@ -12911,8 +12750,7 @@ Number: 170
 FlowerVariationOds data
 * Variation internal ID: 170
 ** Species: (Christmas rose) 35
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 781169705119764506int intHash = 1943703290
@@ -12991,8 +12829,7 @@ Number: 171
 FlowerVariationOds data
 * Variation internal ID: 171
 ** Species: rose balsam 41
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4130932293219262531int intHash =-388859773
@@ -13047,8 +12884,7 @@ Number: 172
 FlowerVariationOds data
 * Variation internal ID: 172
 ** Species: rose balsam 41
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7719076798928338942int intHash =-481795554
@@ -13105,8 +12941,7 @@ Number: 173
 FlowerVariationOds data
 * Variation internal ID: 173
 ** Species: rose balsam 41
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2848221986230719349int intHash = 690684149
@@ -13153,8 +12988,7 @@ Number: 174
 FlowerVariationOds data
 * Variation internal ID: 174
 ** Species: rose balsam 41
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3126690254243250790int intHash =-1463921242
@@ -13205,8 +13039,7 @@ Number: 175
 FlowerVariationOds data
 * Variation internal ID: 175
 ** Species: dahlia 42
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5502359666959234517int intHash = 1054711211
@@ -13277,8 +13110,7 @@ Number: 176
 FlowerVariationOds data
 * Variation internal ID: 176
 ** Species: dahlia 42
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8100048250733065676int intHash =-1145780876
@@ -13355,8 +13187,7 @@ Number: 177
 FlowerVariationOds data
 * Variation internal ID: 177
 ** Species: dahlia 42
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7054335726687413131int intHash =-1858567179
@@ -13425,8 +13256,7 @@ Number: 178
 FlowerVariationOds data
 * Variation internal ID: 178
 ** Species: dahlia 42
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1460074512792005865int intHash = 952660681
@@ -13585,8 +13415,7 @@ Number: 180
 FlowerVariationOds data
 * Variation internal ID: 180
 ** Species: dahlia 42
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8164721594292769481int intHash = 550490185
@@ -13795,8 +13624,7 @@ Number: 183
 FlowerVariationOds data
 * Variation internal ID: 183
 ** Species: (salvia) 43
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 149015129162155828int intHash = 993736820
@@ -13873,8 +13701,7 @@ Number: 184
 FlowerVariationOds data
 * Variation internal ID: 184
 ** Species: (salvia) 43
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7407521185495270741int intHash = 601325067
@@ -13951,8 +13778,7 @@ Number: 185
 FlowerVariationOds data
 * Variation internal ID: 185
 ** Species: (salvia) 43
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4955692381137347866int intHash =-466873722
@@ -14029,8 +13855,7 @@ Number: 186
 FlowerVariationOds data
 * Variation internal ID: 186
 ** Species: (salvia) 43
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 2555915232822078811int intHash =-1797387941
@@ -14171,8 +13996,7 @@ Number: 188
 FlowerVariationOds data
 * Variation internal ID: 188
 ** Species: vervain 44
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2397144292871159750int intHash =-1748996186
@@ -14241,8 +14065,7 @@ Number: 189
 FlowerVariationOds data
 * Variation internal ID: 189
 ** Species: vervain 44
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-166260398933253766int intHash =-13868486
@@ -14317,8 +14140,7 @@ Number: 190
 FlowerVariationOds data
 * Variation internal ID: 190
 ** Species: vervain 44
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8940807979413998128int intHash =-965170864
@@ -14383,8 +14205,7 @@ Number: 191
 FlowerVariationOds data
 * Variation internal ID: 191
 ** Species: vervain 44
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4322965224313399769int intHash =-148258873
@@ -14445,8 +14266,7 @@ Number: 192
 FlowerVariationOds data
 * Variation internal ID: 192
 ** Species: (canna) 45
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8591877463726377187int intHash = 1885083811
@@ -14523,8 +14343,7 @@ Number: 193
 FlowerVariationOds data
 * Variation internal ID: 193
 ** Species: (canna) 45
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8736451642524281506int intHash =-1539928866
@@ -14603,8 +14422,7 @@ Number: 194
 FlowerVariationOds data
 * Variation internal ID: 194
 ** Species: (canna) 45
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4892265957014309480int intHash = 757576248
@@ -14771,8 +14589,7 @@ Number: 196
 FlowerVariationOds data
 * Variation internal ID: 196
 ** Species: (canna) 45
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 1602341421848903941int intHash =-433057851
@@ -14841,8 +14658,7 @@ Number: 197
 FlowerVariationOds data
 * Variation internal ID: 197
 ** Species: summer cypress 46
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8846097408361838334int intHash = 1166450974
@@ -14897,8 +14713,7 @@ Number: 198
 FlowerVariationOds data
 * Variation internal ID: 198
 ** Species: summer cypress 46
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-7855368114965633646int intHash = 1992449522
@@ -15013,8 +14828,7 @@ Number: 200
 FlowerVariationOds data
 * Variation internal ID: 200
 ** Species: saffron 47
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8706220006352831411int intHash = 817388173
@@ -15073,8 +14887,7 @@ Number: 201
 FlowerVariationOds data
 * Variation internal ID: 201 
 ** Species: carnation2 48
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3369707334534555256int intHash =-1811595832
@@ -15155,8 +14968,7 @@ Number: 202
 FlowerVariationOds data
 * Variation internal ID: 202
 ** Species: carnation2 48
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1166632451470039466int intHash =-134351222
@@ -15235,8 +15047,7 @@ Number: 203
 FlowerVariationOds data
 * Variation internal ID: 203
 ** Species: carnation2 48
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 6069311880361548863int intHash = 1361144383
@@ -15309,8 +15120,7 @@ Number: 204
 FlowerVariationOds data
 * Variation internal ID: 204
 ** Species: carnation2 48
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 8037173847413517887int intHash =-1014603393
@@ -15513,8 +15323,7 @@ Number: 207
 FlowerVariationOds data
 * Variation internal ID: (207
 ** Species: snow daisy 52
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3375684276096436192int intHash =-453071072
@@ -15581,8 +15390,7 @@ Number: 208
 FlowerVariationOds data
 * Variation internal ID: 208
 ** Species: tecophilaea 53
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 308841861473673485int intHash = 1291713517
@@ -15641,8 +15449,7 @@ Number: 209
 FlowerVariationOds data
 * Variation internal ID: 209
 ** Species: tecophilaea 53
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-861612429140294416int intHash =-1408575088
@@ -15699,8 +15506,7 @@ Number: 210
 FlowerVariationOds data
 * Variation internal ID: 210
 ** Species: nerine 54
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1599521174522542726int intHash =-517564954
@@ -15753,8 +15559,7 @@ Number: 211
 FlowerVariationOds data
 * Variation internal ID: 211
 ** Species: nerine 54
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 781169705119764506int intHash = 1943703290
@@ -15869,8 +15674,7 @@ Number: 213
 FlowerVariationOds data
 * Variation internal ID: 213
 ** Species: nerine 54
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4161090797664542200int intHash = 1310510104
@@ -15927,8 +15731,7 @@ Number: 214
 FlowerVariationOds data
 * Variation internal ID: 214
 ** Species: (wintergreen) 55
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3070436826510838527int intHash = 173235873
@@ -16009,8 +15812,7 @@ Number: 216
 FlowerVariationOds data
 * Variation internal ID: 216
 ** Species: anemone 56
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7268721852770529933int intHash =-1980997139
@@ -16093,8 +15895,7 @@ Number: 217
 FlowerVariationOds data
 * Variation internal ID: 217
 ** Species: anemone 56
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8076218995551514600int intHash = 2073136424
@@ -16175,8 +15976,7 @@ Number: 218
 FlowerVariationOds data
 * Variation internal ID: 218
 ** Species: anemone 56
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 8899085462276471044int intHash = 1296357028
@@ -16259,8 +16059,7 @@ Number: 219
 FlowerVariationOds data
 * Variation internal ID: 219
 ** Species: anemone 56
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 134270197612043408int intHash =-1870510928
@@ -16415,8 +16214,7 @@ Number: 221
 FlowerVariationOds data
 * Variation internal ID: 221
 ** Species: anemone 56
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5825853583754241053int intHash = 1909899427
@@ -16487,8 +16285,7 @@ Number: 222
 FlowerVariationOds data
 * Variation internal ID: 222
 ** Species: (gerbera) 57
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4303009088264019269int intHash = 1553150107
@@ -16579,8 +16376,7 @@ Number: 223
 FlowerVariationOds data
 * Variation internal ID: 223
 ** Species: (gerbera) 57
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6213310542909943426int intHash =-1077350818
@@ -16671,8 +16467,7 @@ Number: 224
 FlowerVariationOds data
 * Variation internal ID: 224
 ** Species: (gerbera) 57
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 1268339476072915838int intHash =-1880794338
@@ -16761,8 +16556,7 @@ Number: 225
 FlowerVariationOds data
 * Variation internal ID: 225
 ** Species: (gerbera) 57
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6601004773587578738int intHash = 1687099662
@@ -16949,8 +16743,7 @@ Number: 227
 FlowerVariationOds data
 * Variation internal ID: 227
 ** Species: (gerbera) 57
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3372593552558609131int intHash =-754812171
@@ -17123,8 +16916,7 @@ Number: 229
 FlowerVariationOds data
 * Variation internal ID: 229
 ** Species: lily of the valley 59
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5828700484296474468int intHash = 1687780060
@@ -17195,8 +16987,7 @@ Number: 230
 FlowerVariationOds data
 * Variation internal ID: 230
 ** Species: (Dutchmans pipe cactu) 60
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8075907496373764015int intHash = 1009623697
@@ -17253,8 +17044,7 @@ Number: 231
 FlowerVariationOds data
 * Variation internal ID: 231
 ** Species: rudbeckia 61
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1694861712339558263int intHash = 1827154999
@@ -17401,8 +17191,7 @@ Number: 233
 FlowerVariationOds data
 * Variation internal ID: 233
 ** Species: (gardenia) 62
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4250603138806688596int intHash =-1804226476
@@ -17459,8 +17248,7 @@ Number: 234
 FlowerVariationOds data
 * Variation internal ID: 234
 ** Species:  (Mirabilis jalapa) 63
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2067475785789413842int intHash =-249199346
@@ -17543,8 +17331,7 @@ Number: 235
 FlowerVariationOds data
 * Variation internal ID: 235
 ** Species:  (Mirabilis jalapa) 63
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6281825072959699259int intHash =-1529120805
@@ -17613,8 +17400,7 @@ Number: 236
 FlowerVariationOds data
 * Variation internal ID: 236
 ** Species:  (Mirabilis jalapa) 63
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2789532546712868085int intHash =-1696983019
@@ -17681,8 +17467,7 @@ Number: 237
 FlowerVariationOds data
 * Variation internal ID: 237
 ** Species:  (Mirabilis jalapa) 63
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1518836493123934511int intHash =-358111217
@@ -17837,8 +17622,7 @@ Number: 239
 FlowerVariationOds data
 * Variation internal ID: 239
 ** Species:  (Mirabilis jalapa) 63
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1599517875989171893int intHash =-566804875
@@ -17903,8 +17687,7 @@ Number: 240
 FlowerVariationOds data
 * Variation internal ID: 240
 ** Species: (portulaca) 64
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1518836493123934511int intHash =-358111217
@@ -17983,8 +17766,7 @@ Number: 241
 FlowerVariationOds data
 * Variation internal ID: 241
 ** Species: (portulaca) 64
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4130932293219262531int intHash =-388859773
@@ -18063,8 +17845,7 @@ Number: 242
 FlowerVariationOds data
 * Variation internal ID: 242
 ** Species: (portulaca) 64
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 6069311880361548863int intHash = 1361144383
@@ -18139,8 +17920,7 @@ Number: 243
 FlowerVariationOds data
 * Variation internal ID: 243
 ** Species: (portulaca) 64
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6816988281914607406int intHash = 404058994
@@ -18311,8 +18091,7 @@ Number: 245
 FlowerVariationOds data
 * Variation internal ID: 245
 ** Species: (portulaca) 64
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1166632451470039466int intHash =-134351222
@@ -18387,8 +18166,7 @@ Number: 246
 FlowerVariationOds data
 * Variation internal ID: 246
 ** Species: (husk tomato) 65
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 5556708064698702221int intHash =-671161139
@@ -18595,8 +18373,7 @@ Number: 249
 FlowerVariationOds data
 * Variation internal ID: 249
 ** Species: oxalis/66
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2597254309647951864int intHash =-1075716168
@@ -18657,8 +18434,7 @@ Number: 250
 FlowerVariationOds data
 * Variation internal ID: 250
 ** Species: oxalis/66
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1637011008126322834int intHash =-1487535982
@@ -18723,8 +18499,7 @@ Number: 251
 FlowerVariationOds data
 * Variation internal ID: 251
 ** Species: oxalis/66
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8036260560645538063int intHash = 1790985199
@@ -18789,8 +18564,7 @@ Number: 252
 FlowerVariationOds data
 * Variation internal ID: 252
 ** Species: (Japanese anemone) 67
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2131386208295839489int intHash =-1887150943
@@ -18857,8 +18631,7 @@ Number: 253
 FlowerVariationOds data
 * Variation internal ID: 253
 ** Species: (Japanese anemone) 67
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4161090797664542200int intHash = 1310510104
@@ -18923,8 +18696,7 @@ Number: 254
 FlowerVariationOds data
 * Variation internal ID: 254
 ** Species: (Japanese anemone) 67
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 781169705119764506int intHash = 1943703290
@@ -18989,8 +18761,7 @@ Number: 255
 FlowerVariationOds data
 * Variation internal ID: 255
 ** Species: (globe amaranth) 68
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2174423046564951859int intHash = 568075891
@@ -19069,8 +18840,7 @@ Number: 256
 FlowerVariationOds data
 * Variation internal ID: 256
 ** Species: (globe amaranth) 68
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 5646072415149274657int intHash = 1872880993
@@ -19149,8 +18919,7 @@ Number: 257
 FlowerVariationOds data
 * Variation internal ID: 257
 ** Species: (globe amaranth) 68
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 241935475739170239int intHash = 364557439
@@ -19303,8 +19072,7 @@ Number: 259
 FlowerVariationOds data
 * Variation internal ID: 259
 ** Species: (globe amaranth) 68
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7048353283914343355int intHash = 289992805
@@ -19375,8 +19143,7 @@ Number: 260
 FlowerVariationOds data
 * Variation internal ID: 260
 ** Species: (Confederate rose) 69
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1340829863113645045int intHash = 1046494507
@@ -19435,8 +19202,7 @@ Number: 261
 FlowerVariationOds data
 * Variation internal ID: 261
 ** Species: (Confederate rose) 69
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6281825072959699259int intHash =-1529120805
@@ -19491,8 +19257,7 @@ Number: 262
 FlowerVariationOds data
 * Variation internal ID: 262
 ** Species: (ping pong mum) 70
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3726767076548975872int intHash =-1164182080
@@ -19567,8 +19332,7 @@ Number: 263
 FlowerVariationOds data
 * Variation internal ID: 263
 ** Species: (ping pong mum) 70
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 671040782945671433int intHash = 418920425
@@ -19627,8 +19391,7 @@ Number: 264
 FlowerVariationOds data
 * Variation internal ID: 264
 ** Species: (ping pong mum) 70
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-62467351007919201int intHash =-1670741825
@@ -19777,8 +19540,7 @@ Number: 266
 FlowerVariationOds data
 * Variation internal ID: 266
 ** Species: (ping pong mum) 70
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1599406825314154907int intHash =-1187651333
@@ -19905,8 +19667,7 @@ Number: 268
 FlowerVariationOds data
 * Variation internal ID: 268
 ** Species: (bougainvillea) 71
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8591877463726377187int intHash = 1885083811
@@ -19965,8 +19726,7 @@ Number: 269
 FlowerVariationOds data
 * Variation internal ID: 269
 ** Species: (bougainvillea) 71
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-6259153524166291827int intHash =-1850239859
@@ -20025,8 +19785,7 @@ Number: 270
 FlowerVariationOds data
 * Variation internal ID: 270
 ** Species: (bougainvillea) 71
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 227331765947644097int intHash =-136350335
@@ -20083,8 +19842,7 @@ Number: 271
 FlowerVariationOds data
 * Variation internal ID: 271
 ** Species: (bougainvillea) 71
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7651495816124337953int intHash = 350866337
@@ -20145,8 +19903,7 @@ Number: 272
 FlowerVariationOds data
 * Variation internal ID: 272
 ** Species: cymbidium72
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7984357664146732332int intHash =-1027069236
@@ -20221,8 +19978,7 @@ Number: 273
 FlowerVariationOds data
 * Variation internal ID: 273
 ** Species: cymbidium72
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 5491262571062496561int intHash =-231112911
@@ -20295,8 +20051,7 @@ Number: 274
 FlowerVariationOds data
 * Variation internal ID: 274
 ** Species: cymbidium72
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 838047750410289839int intHash = 1762279119
@@ -20437,8 +20192,7 @@ Number: 276
 FlowerVariationOds data
 * Variation internal ID: 276
 ** Species: cymbidium72
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 296044641985365396int intHash = 1376680468
@@ -20579,8 +20333,7 @@ Number: 278
 FlowerVariationOds data
 * Variation internal ID: 278
 ** Species: (cineraria) 73
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3369707334534555256int intHash =-1811595832
@@ -20649,8 +20402,7 @@ Number: 279
 FlowerVariationOds data
 * Variation internal ID: 279
 ** Species: (cineraria) 73
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-429973028287351765int intHash =-422513173
@@ -20729,8 +20481,7 @@ Number: 280
 FlowerVariationOds data
 * Variation internal ID: 280
 ** Species: (cineraria) 73
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-395537268839279840int intHash =-1093542752
@@ -20805,8 +20556,7 @@ Number: 281
 FlowerVariationOds data
 * Variation internal ID: 281
 ** Species: (cineraria) 73
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2597254309647951864int intHash =-1075716168
@@ -20887,8 +20637,7 @@ Number: 282
 FlowerVariationOds data
 * Variation internal ID: 282
 ** Species: (cineraria) 73
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4130932293219262531int intHash =-388859773
@@ -20963,8 +20712,7 @@ Number: 283
 FlowerVariationOds data
 * Variation internal ID: 283
 ** Species: ornamental kale (74)
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3344660141899693029int intHash =-871059579
@@ -21027,8 +20775,7 @@ Number: 284
 FlowerVariationOds data
 * Variation internal ID: 284
 ** Species: ornamental kale (74)
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4306258145124815099int intHash =-1851703483
@@ -21143,8 +20890,7 @@ Number: 286
 FlowerVariationOds data
 * Variation internal ID: 286
 ** Species: kalanchoe 75
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7798061802335201198int intHash =-649483758
@@ -21203,8 +20949,7 @@ Number: 287
 FlowerVariationOds data
 * Variation internal ID: 287
 ** Species: kalanchoe 75
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7908420606952617826int intHash =-1651437698
@@ -21271,8 +21016,7 @@ Number: 288
 FlowerVariationOds data
 * Variation internal ID: 288
 ** Species: kalanchoe 75
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1910648917185757299int intHash =-1298159021
@@ -21405,8 +21149,7 @@ Number: 290
 FlowerVariationOds data
 * Variation internal ID: 290
 ** Species: kalanchoe 75
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-213041986089371347int intHash = 1354416365
@@ -21475,8 +21218,7 @@ Number: 291
 FlowerVariationOds data
 * Variation internal ID: 291
 ** Species: (ranunculus) 76
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6249680131977625851int intHash =-1180166779
@@ -21539,8 +21281,7 @@ Number: 292
 FlowerVariationOds data
 * Variation internal ID: 292
 ** Species: (ranunculus) 76
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6872803410736832322int intHash = 1315112830
@@ -21605,8 +21346,7 @@ Number: 293
 FlowerVariationOds data
 * Variation internal ID: 293
 ** Species: (ranunculus) 76
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4303009088264019269int intHash = 1553150107
@@ -21669,8 +21409,7 @@ Number: 294
 FlowerVariationOds data
 * Variation internal ID: 294
 ** Species: (ranunculus) 76
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3948129848956587163int intHash = 1991305605
@@ -21797,8 +21536,7 @@ Number: 296
 FlowerVariationOds data
 * Variation internal ID: 296
 ** Species: (ranunculus) 76
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7547859217491028708int intHash = 1017610812
@@ -21923,8 +21661,7 @@ Number: 298
 FlowerVariationOds data
 * Variation internal ID: 298
 ** Species: (moutan) 77
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7039677175175366449int intHash =-471181777
@@ -21995,8 +21732,7 @@ Number: 299
 FlowerVariationOds data
 * Variation internal ID: 299
 ** Species: (moutan) 77
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1755033023403051913int intHash = 1032030313
@@ -22061,8 +21797,7 @@ Number: 300
 FlowerVariationOds data
 * Variation internal ID: 300
 ** Species: (moutan) 77
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-9063589385657257693int intHash = 2074586307
@@ -22129,8 +21864,7 @@ Number: 301
 FlowerVariationOds data
 * Variation internal ID: 301
 ** Species: (moutan) 77
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6364729307416647504int intHash = 2073044176
@@ -22261,8 +21995,7 @@ Number: 303
 FlowerVariationOds data
 * Variation internal ID: 303
 ** Species: (moutan) 77
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6485492267856651587int intHash =-1145128733
@@ -22327,8 +22060,7 @@ Number: 304
 FlowerVariationOds data
 * Variation internal ID: 305
 ** Species: nemophila 78
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1547677407528676769int intHash =-1266807039
@@ -22399,8 +22131,7 @@ Number: 305
 FlowerVariationOds data
 * Variation internal ID: 306
 ** Species: nemophila 78
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1166632451470039466int intHash =-134351222
@@ -22527,8 +22258,7 @@ Number: 307
 FlowerVariationOds data
 * Variation internal ID: 308
 ** Species: (aquilegia) 79
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6907078759419775270int intHash = 1332186138
@@ -22583,8 +22313,7 @@ Number: 308
 FlowerVariationOds data
 * Variation internal ID: |309
 ** Species: (aquilegia) 79
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2174423046564951859int intHash = 568075891
@@ -22645,8 +22374,7 @@ Number: 309
 FlowerVariationOds data
 * Variation internal ID: 310
 ** Species: (aquilegia) 79
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1174206987078866520int intHash = 548740696
@@ -22703,8 +22431,7 @@ Number: 310
 FlowerVariationOds data
 * Variation internal ID: 311
 ** Species: (aquilegia) 79
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4421411622655597084int intHash = 1446337532
@@ -22757,8 +22484,7 @@ Number: 311
 FlowerVariationOds data
 * Variation internal ID: 312
 ** Species: (aquilegia) 79
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1844601139977732410int intHash =-695824570
@@ -22863,8 +22589,7 @@ Number: 313
 FlowerVariationOds data
 * Variation internal ID: 314
 ** Species: statice 80
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5580134152737833464int intHash =-581423704
@@ -22955,8 +22680,7 @@ Number: 314
 FlowerVariationOds data
 * Variation internal ID: 315
 ** Species: statice 80
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 296044641985365396int intHash = 1376680468
@@ -23035,8 +22759,7 @@ Number: 315
 FlowerVariationOds data
 * Variation internal ID: 316
 ** Species: statice 80
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2573648817593837350int intHash = 1071044026
@@ -23113,8 +22836,7 @@ Number: 316
 FlowerVariationOds data
 * Variation internal ID: 317
 ** Species: Passionflower 81
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 50
 	HW hash:SInt64 longHash =-4322965224313399769int intHash =-148258873
@@ -23176,8 +22898,7 @@ Number: 317
 FlowerVariationOds data
 * Variation internal ID: 318
 ** Species: Passionflower 81
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 158701345990891828int intHash = 1556353236
@@ -23241,8 +22962,7 @@ Number: 318
 FlowerVariationOds data
 * Variation internal ID: 319
 ** Species: Passionflower 81
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-987073132942201833int intHash =-928535721
@@ -23302,8 +23022,7 @@ Number: 319
 FlowerVariationOds data
 * Variation internal ID: 320
 ** Species: rosemary 82
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8570233305261916696int intHash =-312530024
@@ -23388,8 +23107,7 @@ Number: 320
 FlowerVariationOds data
 * Variation internal ID: 321
 ** Species: rosemary 82
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-91343521155449562int intHash = 1732930214
@@ -23466,8 +23184,7 @@ Number: 321
 FlowerVariationOds data
 * Variation internal ID: 322
 ** Species: rosemary 82
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2736564744214019157int intHash = 1359092661
@@ -23550,8 +23267,7 @@ Number: 322
 FlowerVariationOds data
 * Variation internal ID: 323
 ** Species: rosemary 82
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3438355339379210781int intHash =-1070144893
@@ -23618,8 +23334,7 @@ Number: 323
 FlowerVariationOds data
 * Variation internal ID: 324
 ** Species: (cattleya) 83
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-9155977259994585678int intHash =-230659598
@@ -23700,8 +23415,7 @@ Number: 324
 FlowerVariationOds data
 * Variation internal ID: 325
 ** Species: (cattleya) 83
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7947842925677537456int intHash =-443154832
@@ -23784,8 +23498,7 @@ Number: 325
 FlowerVariationOds data
 * Variation internal ID: 326
 ** Species: (cattleya) 83
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2952628305209307001int intHash =-87511271
@@ -23950,8 +23663,7 @@ Number: 327
 FlowerVariationOds data
 * Variation internal ID: 328
 ** Species: (cattleya) 83
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 244712845763186760int intHash = 2000789512
@@ -24100,8 +23812,7 @@ Number: 329
 FlowerVariationOds data
 * Variation internal ID: 330
 ** Species: erica 84
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 1094776068045757858int intHash =-279591326
@@ -24170,8 +23881,7 @@ Number: 330
 FlowerVariationOds data
 * Variation internal ID: 331
 ** Species: erica 84
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4916025634579839315int intHash = 2127406573
@@ -24242,8 +23952,7 @@ Number: 331
 FlowerVariationOds data
 * Variation internal ID: 332
 ** Species: erica 84
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3928028466458079497int intHash = 1336408855
@@ -24322,8 +24031,7 @@ Number: 332
 FlowerVariationOds data
 * Variation internal ID: 333
 ** Species: erica 84
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3751949249835895688int intHash =-532737896
@@ -24402,8 +24110,7 @@ Number: 333
 FlowerVariationOds data
 * Variation internal ID: 334
 ** Species: Crocus 85
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8736451642524281506int intHash =-1539928866
@@ -24474,8 +24181,7 @@ Number: 334
 FlowerVariationOds data
 * Variation internal ID: 335
 ** Species: Crocus 85
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 9152881568115481427int intHash = 1101130675
@@ -24562,8 +24268,7 @@ Number: 335
 FlowerVariationOds data
 * Variation internal ID: 336
 ** Species: Crocus 85
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3295877736433807057int intHash = 1880831727
@@ -24642,8 +24347,7 @@ Number: 336
 FlowerVariationOds data
 * Variation internal ID: 337
 ** Species: Crocus 85
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7591037622761986823int intHash =-968335161
@@ -24720,8 +24424,7 @@ Number: 337
 FlowerVariationOds data
 * Variation internal ID: 338
 ** Species: Crocus 85
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8159830331574499127int intHash = 83092183
@@ -24804,8 +24507,7 @@ Number: 338
 FlowerVariationOds data
 * Variation internal ID: 339
 ** Species: (amaryris) 86
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1290259930721459173int intHash =-354670555
@@ -24861,8 +24563,7 @@ Number: 339
 FlowerVariationOds data
 * Variation internal ID: 340
 ** Species: (amaryris) 86
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4546248177552234896int intHash = 2017361456
@@ -24922,8 +24623,7 @@ Number: 340
 FlowerVariationOds data
 * Variation internal ID: 341
 ** Species: (amaryris) 86
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3382242862964202332int intHash =-667455996
@@ -25024,8 +24724,7 @@ Number: 342
 FlowerVariationOds data
 * Variation internal ID: 343
 ** Species: iris87
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 50
 	HW hash:SInt64 longHash = 8672955451175139877int intHash =-159086875
@@ -25083,8 +24782,7 @@ Number: 343
 FlowerVariationOds data
 * Variation internal ID: 344
 ** Species: iris87
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4195988197220031504int intHash = 215598672
@@ -25146,8 +24844,7 @@ Number: 344
 FlowerVariationOds data
 * Variation internal ID: 345
 ** Species: iris87
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 7030958414527416075int intHash = 679073835
@@ -25207,8 +24904,7 @@ Number: 345
 FlowerVariationOds data
 * Variation internal ID: 346
 ** Species: iris87
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3838052526848056577int intHash = 540423711
@@ -25272,8 +24968,7 @@ Number: 346
 FlowerVariationOds data
 * Variation internal ID: 347
 ** Species: iris87
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3368176814348085544int intHash = 68838680
@@ -25386,8 +25081,7 @@ Number: 348
 FlowerVariationOds data
 * Variation internal ID: 349
 ** Species: tuberose 88
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1597174816705102077int intHash =-903139555
@@ -25451,8 +25145,7 @@ Number: 349
 FlowerVariationOds data
 * Variation internal ID: 350
 ** Species: tuberose 88
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3926184615383395595int intHash = 395946699
@@ -25520,8 +25213,7 @@ Number: 350
 FlowerVariationOds data
 * Variation internal ID: 351
 ** Species: tuberose 88
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 232457689158363779int intHash = 768196739
@@ -25579,8 +25271,7 @@ Number: 351
 FlowerVariationOds data
 * Variation internal ID: 352
 ** Species: hamyu 89
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8357221494131088625int intHash =-1134436751
@@ -25626,8 +25317,7 @@ Number: 352
 FlowerVariationOds data
 * Variation internal ID: 353
 ** Species: (denfare) 90
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5426211742549096873int intHash =-568180969
@@ -25687,8 +25377,7 @@ Number: 353
 FlowerVariationOds data
 * Variation internal ID: 354
 ** Species: (denfare) 90
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8769266602505851028int intHash =-2042069164
@@ -25748,8 +25437,7 @@ Number: 354
 FlowerVariationOds data
 * Variation internal ID: 355
 ** Species: (denfare) 90
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-9119459234034166795int intHash =-933363211
@@ -25807,8 +25495,7 @@ Number: 355
 FlowerVariationOds data
 * Variation internal ID: 356
 ** Species: (denfare) 90
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8032644061948671388int intHash = 723812484
@@ -25880,8 +25567,7 @@ Number: 356
 FlowerVariationOds data
 * Variation internal ID: 357
 ** Species: (denfare) 90
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6213310542909943426int intHash =-1077350818
@@ -26004,8 +25690,7 @@ Number: 358
 FlowerVariationOds data
 * Variation internal ID: 359
 ** Species: (margaret) 91
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8591877463726377187int intHash = 1885083811
@@ -26089,8 +25774,7 @@ Number: 359
 FlowerVariationOds data
 * Variation internal ID: 360
 ** Species: (margaret) 91
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2982074679473153643int intHash = 854615957
@@ -26182,8 +25866,7 @@ Number: 360
 FlowerVariationOds data
 * Variation internal ID: 361
 ** Species: (margaret) 91
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4663067729587669539int intHash =-2145284323
@@ -26372,8 +26055,7 @@ Number: 362
 FlowerVariationOds data
 * Variation internal ID: 363
 ** Species: (margaret) 91
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3727800080247849188int intHash = 1696405444
@@ -26461,8 +26143,7 @@ Number: 363
 FlowerVariationOds data
 * Variation internal ID: 364
 ** Species: (hypelicam) 92
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1085192589741395670int intHash = 1328612874
@@ -26526,8 +26207,7 @@ Number: 364
 FlowerVariationOds data
 * Variation internal ID: 365
 ** Species: (hypelicam) 92
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6949045828024412241int intHash = 1545161137
@@ -26587,8 +26267,7 @@ Number: 365
 FlowerVariationOds data
 * Variation internal ID: 366
 ** Species: (hypelicam) 92
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6858710726024719155int intHash = 795420493
@@ -26654,8 +26333,7 @@ Number: 366
 FlowerVariationOds data
 * Variation internal ID: 367
 ** Species: (hypelicam) 92
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8554881711061197370int intHash = 433882566
@@ -26778,8 +26456,7 @@ Number: 368
 FlowerVariationOds data
 * Variation internal ID: 369
 ** Species: frost aster 93
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1166632451470039466int intHash =-134351222
@@ -26824,8 +26501,7 @@ Number: 369
 FlowerVariationOds data
 * Variation internal ID: 370
 ** Species: frost aster 93
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8153478768787243693int intHash = 247000845
@@ -26876,8 +26552,7 @@ Number: 370
 FlowerVariationOds data
 * Variation internal ID: 371
 ** Species: frost aster 93
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2430821435458297653int intHash =-1094549739
@@ -26930,8 +26605,7 @@ Number: 371
 FlowerVariationOds data
 * Variation internal ID: 372
 ** Species: frost aster 93
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1165274554602386781int intHash = 596198877
@@ -26980,8 +26654,7 @@ Number: 372
 FlowerVariationOds data
 * Variation internal ID: 373
 ** Species: lily of the valley 59
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-4984412963342930981int intHash =-1856208869
@@ -27038,8 +26711,7 @@ Number: 373
 FlowerVariationOds data
 * Variation internal ID: 500
 ** Species: wisteria 13
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 3567213374353881865int intHash = 1109664137
@@ -27106,8 +26778,7 @@ Number: 374
 FlowerVariationOds data
 * Variation internal ID: 501
 ** Species: wisteria 13
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8677706371298435548int intHash =-1102649724
@@ -27166,8 +26837,7 @@ Number: 375
 FlowerVariationOds data
 * Variation internal ID: 502
 ** Species: wisteria 13
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 1166632451470039466int intHash =-134351222
@@ -27216,8 +26886,7 @@ Number: 376
 FlowerVariationOds data
 * Variation internal ID: 503
 ** Species: cherry blossom/17
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3372593552558609131int intHash =-754812171
@@ -27280,8 +26949,7 @@ Number: 377
 FlowerVariationOds data
 * Variation internal ID: 504
 ** Species: cherry blossom/17
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1460074512792005865int intHash = 952660681
@@ -27346,8 +27014,7 @@ Number: 378
 FlowerVariationOds data
 * Variation internal ID: 505
 ** Species: cherry blossom/17
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 67288804646205869int intHash = 1038210957
@@ -27408,8 +27075,7 @@ Number: 379
 FlowerVariationOds data
 * Variation internal ID: 506
 ** Species: (ginkgo) 29
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5593746675435049668int intHash = 1403465468
@@ -27513,8 +27179,7 @@ Number: 381
 FlowerVariationOds data
 * Variation internal ID: 508
 ** Species: maple 30
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8802466055215471528int intHash =-1329339128
@@ -27573,8 +27238,7 @@ Number: 382
 FlowerVariationOds data
 * Variation internal ID: 509
 ** Species: maple 30
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-981685722627713373int intHash =-38352381
@@ -27729,8 +27393,7 @@ Number: 385
 FlowerVariationOds data
 * Variation internal ID: 512
 ** Species: (fragrant olive) 31
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3748002003090618198int intHash =-430627830
@@ -27791,8 +27454,7 @@ Number: 386
 FlowerVariationOds data
 * Variation internal ID: 513
 ** Species: (plum blossom) 34
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1460074512792005865int intHash = 952660681
@@ -27861,8 +27523,7 @@ Number: 387
 FlowerVariationOds data
 * Variation internal ID: 514
 ** Species: (plum blossom) 34
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1363815979478839951int intHash = 689115759
@@ -27933,8 +27594,7 @@ Number: 388
 FlowerVariationOds data
 * Variation internal ID: 515
 ** Species: (plum blossom) 34
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7054335726687413131int intHash =-1858567179
@@ -28039,8 +27699,7 @@ Number: 390
 FlowerVariationOds data
 * Variation internal ID: 517
 ** Species: (weeping cherry) 58
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1605859859060125266int intHash =-1503846894
@@ -28107,8 +27766,7 @@ Number: 391
 FlowerVariationOds data
 * Variation internal ID: 518
 ** Species: (weeping cherry) 58
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3620242364447638937int intHash =-805750183
@@ -28173,8 +27831,7 @@ Number: 392
 FlowerVariationOds data
 * Variation internal ID: 519
 ** Species: (weeping cherry) 58
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3372593552558609131int intHash =-754812171
@@ -28539,8 +28196,7 @@ Number: 401
 FlowerVariationOds data
 * Variation internal ID: 808
 ** Species: nanten 1008
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5979746714310157570int intHash = 1944499230
@@ -28610,8 +28266,7 @@ Number: 402
 FlowerVariationOds data
 * Variation internal ID: 809
 ** Species: nanten 1008
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 4270636240672693016int intHash =-1058583144
@@ -29086,8 +28741,7 @@ Number: 412
 FlowerVariationOds data
 * Variation internal ID: 1000
 ** Species: mock strawberry 1106
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3086175258973667521int intHash = 957464799
@@ -29328,8 +28982,7 @@ Number: 417
 FlowerVariationOds data
 * Variation internal ID: 1005
 ** Species: sowthistle 1111
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5589158069998004097int intHash =-1432714689
@@ -29456,8 +29109,7 @@ Number: 419
 FlowerVariationOds data
 * Variation internal ID: 1007
 ** Species: green bristle grass 1112
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-973246970889141398int intHash =-114334422
@@ -29580,8 +29232,7 @@ Number: 421
 FlowerVariationOds data
 * Variation internal ID: 1009
 ** Species: Persian speedwell 1114
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4115912964379603296int intHash = 220929248
@@ -29660,8 +29311,7 @@ Number: 422
 FlowerVariationOds data
 * Variation internal ID: 1010
 ** Species: chameleon plant 1115
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8387820257157171049int intHash = 1088714167
@@ -29708,8 +29358,7 @@ Number: 423
 FlowerVariationOds data
 * Variation internal ID: 1011
 ** Species: dayflower 1116
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4708891679984764867int intHash =-1151017565
@@ -29826,8 +29475,7 @@ Number: 425
 FlowerVariationOds data
 * Variation internal ID: 1013
 ** Species: tufted knotweed 1118
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4778119840522940696int intHash =-1988508584
@@ -30002,8 +29650,7 @@ Number: 428
 FlowerVariationOds data
 * Variation internal ID: 1016
 ** Species: Bush Clover 1121
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1599517875989171893int intHash =-566804875
@@ -30070,8 +29717,7 @@ Number: 429
 FlowerVariationOds data
 * Variation internal ID: 1017
 ** Species: pampas grass 1122
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-7318871627312984365int intHash =-1137582765
@@ -30152,8 +29798,7 @@ Number: 430
 FlowerVariationOds data
 * Variation internal ID: 1018
 ** Species:  (pampas grass) 1122
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6243661526217096118int intHash =-846720586
@@ -30294,8 +29939,7 @@ Number: 432
 FlowerVariationOds data
 	* ID:/ 1200
 ** Species: big wisteria 1200
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-3164063472088255294int intHash =-1298451262
@@ -30412,8 +30056,7 @@ Number: 434
 FlowerVariationOds data
 	* ID:/ 1202
 ** Species: big ginkgo 1202
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-8717218958589994141int intHash = 916032099
@@ -30464,8 +30107,7 @@ Number: 435
 FlowerVariationOds data
 	* ID:/ 1203
 ** Species: big cherry 1203
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 2567782650400081460int intHash =-1189082476
@@ -30530,8 +30172,7 @@ Number: 436
 FlowerVariationOds data
 	* ID:/ 1204
 ** Species: big plum blossom 1204
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 662983561734141225int intHash =-127867511
@@ -30592,8 +30233,7 @@ Number: 437
 FlowerVariationOds data
 	* ID:/ 1205
 ** Species: big maple 1205
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 781169705119764506int intHash = 1943703290
@@ -30688,8 +30328,7 @@ Number: 439
 FlowerVariationOds data
 	* ID:/ 1207
 ** Species: big weeping cherry 1207
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-4170665271647373293int intHash =-1979089229
@@ -30748,8 +30387,7 @@ Number: 440
 FlowerVariationOds data
 * Variation internal ID: 1300
 ** Species: pachira 1300
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 50
 	HW hash:SInt64 longHash = 1469707334171114611int intHash =-148024781
@@ -30886,8 +30524,7 @@ Number: 443
 FlowerVariationOds data
 * Variation internal ID: 1303
 ** Species: sanseveria 1301
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 239252667366335399int intHash = 1304929447
@@ -37410,8 +37047,7 @@ Number: 535
 FlowerVariationOds data
 * Variation internal ID: |5000
 ** Species: holly bell 4003
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5032048657806918185int intHash =-615803945
@@ -37466,8 +37102,7 @@ Number: 536
 FlowerVariationOds data
 * Variation internal ID:  5001
 ** Species: chocolate rose 4004
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3868612601205836571int intHash =-2112582021
@@ -37526,8 +37161,7 @@ Number: 537
 FlowerVariationOds data
 * Variation internal ID:  5002
 ** Species: chocolate rose 4004
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5826913512963836457int intHash =-1378823401
@@ -37640,8 +37274,7 @@ Number: 539
 FlowerVariationOds data
 * Variation internal ID: 5004
 ** Species: heart's chocolate pop 4005
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6692076407877088041int intHash = 406771223
@@ -37692,8 +37325,7 @@ Number: 540
 FlowerVariationOds data
 * Variation internal ID: (theme N/A) 5005
 ** Species: heart's chocolate pop 4005
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2430821435458297653int intHash =-1094549739
@@ -37792,8 +37424,7 @@ Number: 542
 FlowerVariationOds data
 * Variation internal ID: 5007
 ** Species: lollipop choco 4006
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5791915764660936135int intHash =-1015714247
@@ -37848,8 +37479,7 @@ Number: 543
 FlowerVariationOds data
 * Variation internal ID: 5008
 ** Species: lollipop choco 4006
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4270636240672693016int intHash =-1058583144
@@ -37906,8 +37536,7 @@ Number: 544
 FlowerVariationOds data
 * Variation internal ID: 5009
 ** Species: ribbon knot carnation 4007
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1878777151055402855int intHash =-1100678503
@@ -37964,8 +37593,7 @@ Number: 545
 FlowerVariationOds data
 * Variation internal ID: 5010
 ** Species: ribbon knot carnation 4007
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-3299209035916890299int intHash = 127518373
@@ -38024,8 +37652,7 @@ Number: 546
 FlowerVariationOds data
 * Variation internal ID: 5011
 ** Species: ribbon knot carnation 4007
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4617347655168861009int intHash =-399083761
@@ -38084,8 +37711,7 @@ Number: 547
 FlowerVariationOds data
 * Variation internal ID:  5012
 ** Species: ribbon knot carnation 4007
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 322196267985757937int intHash = 1840478225
@@ -38154,8 +37780,7 @@ Number: 548
 FlowerVariationOds data
 * Variation internal ID: (theme N/A) 5013
 ** Species: ribbon knot rose/4008
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1450266289053579956int intHash =-28298356
@@ -38212,8 +37837,7 @@ Number: 549
 FlowerVariationOds data
 * Variation internal ID: 5014
 ** Species: ribbon knot rose/4008
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2849595622927373064int intHash = 1502021016
@@ -38276,8 +37900,7 @@ Number: 550
 FlowerVariationOds data
 * Variation internal ID: 5015
 ** Species: ribbon knot rose/4008
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1427927707250485137int intHash = 236744079
@@ -38332,8 +37955,7 @@ Number: 551
 FlowerVariationOds data
 * Variation internal ID: 5016
 ** Species: ribbon knot rose/4008
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2007267671685792700int intHash =-497154940
@@ -38638,8 +38260,7 @@ Number: 556
 FlowerVariationOds data
 * Variation internal ID: 5021
 ** Species: lollipop/4009
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6915871109598766249int intHash = 2029625033
@@ -38686,8 +38307,7 @@ Number: 557
 FlowerVariationOds data
 * Variation internal ID: 5022
 ** Species: lollipop/4009
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1709183207866831247int intHash =-558053553
@@ -38736,8 +38356,7 @@ Number: 557
 FlowerVariationOds data
 * Variation internal ID: 5022
 ** Species: lollipop/4009
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 1709183207866831247int intHash =-558053553
@@ -39104,8 +38723,7 @@ Number: 564
 FlowerVariationOds data
 * Variation internal ID: 5029
 ** Species: Candy cane 4010
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-7146850986212757524int intHash =-1077559508
@@ -39148,8 +38766,7 @@ Number: 565
 FlowerVariationOds data
 * Variation internal ID: 5030
 ** Species: Candy cane 4010
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6241978857925031788int intHash = 520042028
@@ -39494,8 +39111,7 @@ Number: 572
 FlowerVariationOds data
 * Variation internal ID: 5037
 ** Species: (Sugar candy) 4011
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6809320962752651210int intHash =-1062935030
@@ -39542,8 +39158,7 @@ Number: 573
 FlowerVariationOds data
 * Variation internal ID: 5038
 ** Species: Sugar candy 4011
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 520814591424101460int intHash =-1630281420
@@ -39690,8 +39305,7 @@ Number: 576
 FlowerVariationOds data
 * Variation internal ID: 5041
 ** Species: Sugar candy 4011
-** Color:
-*** UInt8 color = 5 (yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 9032665070777127314int intHash =-1184412654
@@ -40078,8 +39692,7 @@ Number: 584
 FlowerVariationOds data
 * Variation internal ID: 6000
 ** Species: Bamboo decoration 4000
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 9179360744407775583int intHash = 940068927
@@ -40134,8 +39747,7 @@ Number: 585
 FlowerVariationOds data
 * Variation internal ID: 6001
 ** Species: Bamboo decoration 4000
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6145782405678651686int intHash =-218744518
@@ -40190,8 +39802,7 @@ Number: 586
 FlowerVariationOds data
 * Variation internal ID: 6002
 ** Species: Bamboo decoration 4000
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4378419941753050461int intHash =-247899325
@@ -40242,8 +39853,7 @@ Number: 587
 FlowerVariationOds data
 * Variation internal ID: 6003
 ** Species: Bamboo decoration 4000
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 6774632933170283565int intHash =-1651955987
@@ -40296,8 +39906,7 @@ Number: 588
 FlowerVariationOds data
 * Variation internal ID: 6004
 ** Species: Bamboo decoration 4000
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4081335335209168881int intHash =-1839137999
@@ -40448,8 +40057,7 @@ Number: 591
 FlowerVariationOds data
 * Variation internal ID: 6007
 ** Species: Christmas tree 4002
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-4306258145124815099int intHash =-1851703483
@@ -40498,8 +40106,7 @@ Number: 592
 FlowerVariationOds data
 * Variation internal ID: 6008
 ** Species: Christmas tree 4002
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash = 2919001787012201738int intHash = 1463257258
@@ -40548,8 +40155,7 @@ Number: 593
 FlowerVariationOds data
 * Variation internal ID: 6009
 ** Species: Christmas tree 4002
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 100
 	HW hash:SInt64 longHash =-7048353283914343355int intHash = 289992805
@@ -40648,8 +40254,7 @@ Number: 595
 FlowerVariationOds data
 * Variation internal ID: 7000
 ** Species: mochi flower 4013
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4751104576407115106int intHash = 360552606
@@ -40686,8 +40291,7 @@ Number: 596
 FlowerVariationOds data
 * Variation internal ID: 7001
 ** Species: Fan Shaped Ornaments 4014
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2572805492178594788int intHash = 1032997276
@@ -40722,8 +40326,7 @@ Number: 597
 FlowerVariationOds data
 * Variation internal ID: 7002
 ** Species: Fan Shaped Ornaments 4014
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-4240480961488181485int intHash =-2130793453
@@ -40754,8 +40357,7 @@ Number: 598
 FlowerVariationOds data
 * Variation internal ID: 7003
 ** Species: Fan Shaped Ornaments 4014
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2686730366906745747int intHash =-1512917677
@@ -40788,8 +40390,7 @@ Number: 599
 FlowerVariationOds data
 * Variation internal ID: 7004
 ** Species: Fan Shaped Ornaments 4014
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-8277348898790568045int intHash =-735234285
@@ -40818,8 +40419,7 @@ Number: 600
 FlowerVariationOds data
 * Variation internal ID: 7005
 ** Species: gashou 4015
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1860438505474646604int intHash = 292068084
@@ -40846,8 +40446,7 @@ Number: 601
 FlowerVariationOds data
 * Variation internal ID: 7006
 ** Species: gashou 4015
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1861918448126218610int intHash = 1333415310
@@ -40874,8 +40473,7 @@ Number: 602
 FlowerVariationOds data
 * Variation internal ID: 7007
 ** Species: kotobuki 4016
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5784466573379806610int intHash = 2051804494
@@ -40902,8 +40500,7 @@ Number: 603
 FlowerVariationOds data
 * Variation internal ID: 7008
 ** Species: kotobuki 4016
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-5792963599242621218int intHash =-1971625858
@@ -40930,8 +40527,7 @@ Number: 604
 FlowerVariationOds data
 * Variation internal ID: 7009
 ** Species: mizuhiki 4017
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2771815358795247824int intHash =-1845926512
@@ -40970,8 +40566,7 @@ Number: 605
 FlowerVariationOds data
 * Variation internal ID: 7010
 ** Species: mizuhiki 4017
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2787524081427498381int intHash =-1029600589
@@ -41006,8 +40601,7 @@ Number: 606
 FlowerVariationOds data
 * Variation internal ID: 7011
 ** Species: mizuhiki 4017
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-6890127226885679836int intHash = 423894436
@@ -41046,8 +40640,7 @@ Number: 607
 FlowerVariationOds data
 * Variation internal ID: 7012
 ** Species: mizuhiki 4017
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 8131524991313004818int intHash =-1700779278
@@ -41084,8 +40677,7 @@ Number: 608
 FlowerVariationOds data
 * Variation internal ID: 7013
 ** Species: mizuhiki 4017
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-2685957404236228484int intHash = 1584617052
@@ -41201,8 +40793,7 @@ Number: 629
 FlowerVariationOds data
 * Variation internal ID: 7500
 ** Species: Small ribbon 5000
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2412910247550933800int intHash = 2112536584
@@ -41229,8 +40820,7 @@ Number: 630
 FlowerVariationOds data
 * Variation internal ID: 7501
 ** Species: Small ribbon 5000
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4583114582985363883int intHash =-99211157
@@ -41257,8 +40847,7 @@ Number: 631
 FlowerVariationOds data
 * Variation internal ID: 7502
 ** Species: Small ribbon 5000
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 664096000806016279int intHash =-536543337
@@ -41285,8 +40874,7 @@ Number: 632
 FlowerVariationOds data
 * Variation internal ID: 7503
 ** Species: Small ribbon 5000
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 5019226195493298408int intHash = 1434264456
@@ -41311,8 +40899,7 @@ Number: 633
 FlowerVariationOds data
 * Variation internal ID: 7504
 ** Species: Small ribbon 5000
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3449996792446647026int intHash =-504679950
@@ -41367,8 +40954,7 @@ Number: 635
 FlowerVariationOds data
 * Variation internal ID: 7506
 ** Species: Small ribbon 5000
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1001727876916068144int intHash = 1401014864
@@ -41451,8 +41037,7 @@ Number: 638
 FlowerVariationOds data
 * Variation internal ID: 7509
 ** Species: large ribbon/5001
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2412910247550933800int intHash = 2112536584
@@ -41481,8 +41066,7 @@ Number: 639
 FlowerVariationOds data
 * Variation internal ID: 7510
 ** Species: large ribbon/5001
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4583114582985363883int intHash =-99211157
@@ -41511,8 +41095,7 @@ Number: 640
 FlowerVariationOds data
 * Variation internal ID: 7511
 ** Species: large ribbon/5001
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 664096000806016279int intHash =-536543337
@@ -41541,8 +41124,7 @@ Number: 641
 FlowerVariationOds data
 * Variation internal ID: 7512
 ** Species: large ribbon/5001
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 5019226195493298408int intHash = 1434264456
@@ -41569,8 +41151,7 @@ Number: 642
 FlowerVariationOds data
 * Variation internal ID: 7513
 ** Species: large ribbon/5001
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3449996792446647026int intHash =-504679950
@@ -41629,8 +41210,7 @@ Number: 644
 FlowerVariationOds data
 * Variation internal ID: 7515
 ** Species: large ribbon/5001
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1001727876916068144int intHash = 1401014864
@@ -41719,8 +41299,7 @@ Number: 647
 FlowerVariationOds data
 * Variation internal ID: 7518
 ** Species: bunny-ear ribbon 5002
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2412910247550933800int intHash = 2112536584
@@ -41749,8 +41328,7 @@ Number: 648
 FlowerVariationOds data
 * Variation internal ID: 7519
 ** Species: bunny-ear ribbon 5002
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4583114582985363883int intHash =-99211157
@@ -41779,8 +41357,7 @@ Number: 649
 FlowerVariationOds data
 * Variation internal ID: 7520
 ** Species: bunny-ear ribbon 5002
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 664096000806016279int intHash =-536543337
@@ -41809,8 +41386,7 @@ Number: 650
 FlowerVariationOds data
 * Variation internal ID: 7521
 ** Species: bunny-ear ribbon 5002
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 5019226195493298408int intHash = 1434264456
@@ -41837,8 +41413,7 @@ Number: 651
 FlowerVariationOds data
 * Variation internal ID: 7522
 ** Species: bunny-ear ribbon 5002
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3449996792446647026int intHash =-504679950
@@ -41897,8 +41472,7 @@ Number: 653
 FlowerVariationOds data
 * Variation internal ID: 7524
 ** Species: bunny-ear ribbon 5002
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1001727876916068144int intHash = 1401014864
@@ -41987,8 +41561,7 @@ Number: 656
 FlowerVariationOds data
 * Variation internal ID: 7527
 ** Species: Double ribbon 5003
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2412910247550933800int intHash = 2112536584
@@ -42015,8 +41588,7 @@ Number: 657
 FlowerVariationOds data
 * Variation internal ID: 7528
 ** Species: Double ribbon 5003
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4583114582985363883int intHash =-99211157
@@ -42043,8 +41615,7 @@ Number: 658
 FlowerVariationOds data
 * Variation internal ID: 7529
 ** Species: Double ribbon 5003
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 664096000806016279int intHash =-536543337
@@ -42071,8 +41642,7 @@ Number: 659
 FlowerVariationOds data
 * Variation internal ID: 7530
 ** Species: Double ribbon 5003
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 5019226195493298408int intHash = 1434264456
@@ -42097,8 +41667,7 @@ Number: 660
 FlowerVariationOds data
 * Variation internal ID: 7531
 ** Species: Double ribbon 5003
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3449996792446647026int intHash =-504679950
@@ -42153,8 +41722,7 @@ Number: 662
 FlowerVariationOds data
 * Variation internal ID: 7533
 ** Species: Double ribbon 5003
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1001727876916068144int intHash = 1401014864
@@ -42235,8 +41803,7 @@ Number: 665
 FlowerVariationOds data
 * Variation internal ID: 7536
 ** Species: String ribbon 5004
-** Color:
-*** UInt8 color = (red) 1
+** Color: (red) 1
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 2412910247550933800int intHash = 2112536584
@@ -42263,8 +41830,7 @@ Number: 666
 FlowerVariationOds data
 * Variation internal ID: 7537
 ** Species: String ribbon 5004
-** Color:
-*** UInt8 color = pink 2
+** Color: (pink) 2
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 4583114582985363883int intHash =-99211157
@@ -42291,8 +41857,7 @@ Number: 667
 FlowerVariationOds data
 * Variation internal ID: 7538
 ** Species: String ribbon 5004
-** Color:
-*** UInt8 color = 3 (blue)
+** Color = 3 (blue)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 664096000806016279int intHash =-536543337
@@ -42319,8 +41884,7 @@ Number: 668
 FlowerVariationOds data
 * Variation internal ID: 7539
 ** Species: String ribbon 5004
-** Color:
-*** UInt8 color = 4 (purple)
+** Color: 4 (purple)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 5019226195493298408int intHash = 1434264456
@@ -42345,8 +41909,7 @@ Number: 669
 FlowerVariationOds data
 * Variation internal ID: 7540
 ** Species: String ribbon 5004
-** Color:
-*** UInt8 color = 5 (Yellow)
+** Color: 5 (Yellow)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash = 3449996792446647026int intHash =-504679950
@@ -42401,8 +41964,7 @@ Number: 671
 FlowerVariationOds data
 * Variation internal ID: 7542
 ** Species: String ribbon 5004
-** Color:
-*** UInt8 color = 7 (White)
+** Color: 7 (White)
 *** Hyb?: N
 * Probability: 200
 	HW hash:SInt64 longHash =-1001727876916068144int intHash = 1401014864
