@@ -246,7 +246,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Cool) 102
-	AP: 25
+	AP: ✔25
 -
 	theme: (Vivid) 105
 	AP: ✔100
@@ -344,7 +344,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Cool) 102
-	AP: 25
+	AP:✔ 25
 -
 	theme: (Vivid) 105
 	AP: ✔100
@@ -513,7 +513,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: ✔80
@@ -635,7 +635,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: ✔80
@@ -754,7 +754,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: ✔80
@@ -880,7 +880,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: ✔80
@@ -993,7 +993,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: ✔80
@@ -1074,7 +1074,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (autumn green) 726
-	AP: 55
+	AP: ✔55
 -
 	theme: (winter yellow) 731
 	AP: 19
@@ -1106,7 +1106,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: ✔80
@@ -1211,13 +1211,13 @@ FlowerVariationOds data
 
 -
 	theme: (Natural Green) 8
-	AP: 85
+	AP: ✔85
 -
 	theme: (Elegance) 101
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: ✔80
@@ -1295,7 +1295,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn green) 726
-	AP: 97
+	AP: ✔97
 -
 	theme: (winter green) 735
 	AP: 38
@@ -1776,7 +1776,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (Cool) 102
-	AP: 40
+	AP: ✔40
 -
 	theme: (Pop) 104
 	AP: 35
@@ -2000,7 +2000,7 @@ FlowerVariationOds data
 	AP: 60
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Pop) 104
 	AP: 35
@@ -4014,7 +4014,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Chic) 107
 	AP: 33
@@ -4394,7 +4394,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Innocence) 106
 	AP: ✔98
@@ -4489,7 +4489,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Cool) 102
-	AP: 10
+	AP: ✔10
 -
 	theme: (Pop) 104
 	AP: 60
@@ -4795,7 +4795,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Cool) 102
-	AP: 55
+	AP: ✔55
 -
 	theme: (Pop) 104
 	AP: 60
@@ -6127,7 +6127,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Dreamy)103
 	AP: 75
@@ -7538,7 +7538,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (Wedd. bouquet) 611
 	AP: ✔89
@@ -7576,7 +7576,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -7686,7 +7686,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -7793,7 +7793,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -7897,7 +7897,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -8004,7 +8004,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -8117,7 +8117,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -8218,7 +8218,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -8328,7 +8328,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -8679,7 +8679,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Dreamy)103
 	AP: ✔35
@@ -9057,7 +9057,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Dreamy)103
 	AP: ✔35
@@ -9182,7 +9182,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Dreamy)103
 	AP: ✔35
@@ -10646,7 +10646,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Cool) 102
-	AP: 45
+	AP: ✔45
 -
 	theme: (Vivid) 105
 	AP: 10
@@ -10732,7 +10732,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Cool) 102
-	AP: 45
+	AP: ✔45
 -
 	theme: (Vivid) 105
 	AP: 10
@@ -10815,7 +10815,7 @@ FlowerVariationOds data
 	AP: 65
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Vivid) 105
 	AP: 10
@@ -11457,7 +11457,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Pop) 104
 	AP: 5
@@ -11960,7 +11960,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Pop) 104
 	AP: 5
@@ -12700,7 +12700,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 65
+	AP: ✔65
 -
 	theme: (Dreamy)103
 	AP: 5
@@ -13613,7 +13613,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (Cool) 102
-	AP: 35
+	AP: ✔35
 -
 	theme: (Innocence) 106
 	AP: ✔98
@@ -14059,7 +14059,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (Cool) 102
-	AP: 35
+	AP: ✔35
 -
 	theme: (Innocence) 106
 	AP: 66
@@ -14276,7 +14276,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Pop) 104
 	AP: 30
@@ -14924,7 +14924,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn green) 726
-	AP: 88
+	AP: ✔88
  
 #140
 FlowerVariationOds data
@@ -15278,7 +15278,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Cool) 102
-	AP: 35
+	AP: ✔35
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -15434,7 +15434,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Cool) 102
-	AP: 35
+	AP: ✔35
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -16056,7 +16056,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Cool) 102
-	AP: 35
+	AP: ✔35
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -16670,7 +16670,7 @@ FlowerVariationOds data
 	AP: 65
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 10
@@ -16887,7 +16887,7 @@ FlowerVariationOds data
 	AP: ✔80
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Fresh) 108
 	AP: 55
@@ -17003,7 +17003,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Fresh) 108
 	AP: 56
@@ -17122,7 +17122,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Innocence) 106
 	AP: ✔68
@@ -17248,7 +17248,7 @@ FlowerVariationOds data
 	AP: 85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Let's send a cheer) 203
 	AP: 5
@@ -17367,7 +17367,7 @@ FlowerVariationOds data
 	AP: 85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Fresh) 108
 	AP: 5
@@ -17489,7 +17489,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Chic) 107
 	AP: 33
@@ -17612,7 +17612,7 @@ FlowerVariationOds data
 	AP: 85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (TMF-January-) 300
 	AP: 13
@@ -17734,7 +17734,7 @@ FlowerVariationOds data
 	AP: 85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Innocence) 106
 	AP: 33
@@ -18320,7 +18320,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (autumn red) 718
 	AP: 5
@@ -18427,7 +18427,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (autumn pink) 719
 	AP: 5
@@ -18525,7 +18525,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (spring white) 706
 	AP: 42
@@ -18668,7 +18668,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: 10
@@ -18731,7 +18731,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (spring blue) 702
 	AP: ✔8
@@ -19931,7 +19931,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Innocence) 106
 	AP: 20
@@ -20044,7 +20044,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Chic) 107
 	AP: ✔100
@@ -20160,7 +20160,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Innocence) 106
 	AP: 33
@@ -20270,7 +20270,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Innocence) 106
 	AP: 44
@@ -20371,7 +20371,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Innocence) 106
 	AP: ✔67
@@ -20870,7 +20870,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Dreamy)103
 	AP: ✔75
@@ -20983,7 +20983,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Dreamy)103
 	AP: ✔75
@@ -21105,7 +21105,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Dreamy)103
 	AP: ✔75
@@ -21224,7 +21224,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Dreamy)103
 	AP: ✔75
@@ -21349,7 +21349,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Dreamy)103
 	AP: ✔75
@@ -21699,7 +21699,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Cool) 102
-	AP: 85
+	AP: ✔85
 -
 	theme: (Dreamy)103
 	AP: 50
@@ -22673,7 +22673,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Fresh) 108
 	AP: 30
@@ -22842,7 +22842,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Fresh) 108
 	AP: 71
@@ -23359,7 +23359,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 25
+	AP: ✔25
 -
 	theme: (Dreamy)103
 	AP: 35
@@ -23437,7 +23437,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (Wedd. bouquet) 611
 	AP: 64
@@ -23478,7 +23478,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 25
+	AP: ✔25
 -
 	theme: (Dreamy)103
 	AP: 35
@@ -23553,7 +23553,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (Wedd. bouquet) 611
 	AP: 68
@@ -23663,7 +23663,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (Wedd. bouquet) 611
 	AP: 59
@@ -24294,7 +24294,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (Wedd. bouquet) 611
 	AP: 43
@@ -24838,7 +24838,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Innocence) 106
 	AP: ✔67
@@ -25132,7 +25132,7 @@ FlowerVariationOds data
 	AP: 60
 -
 	theme: (Cool) 102
-	AP: 25
+	AP: ✔25
 -
 	theme: (Innocence) 106
 	AP: ✔67
@@ -28722,7 +28722,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn green) 726
-	AP: 100
+	AP: ✔100
  
 #268
 FlowerVariationOds data
@@ -32229,7 +32229,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Dreamy)103
 	AP: ✔100
@@ -32327,7 +32327,7 @@ FlowerVariationOds data
 	AP: ✔80
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Dreamy)103
 	AP: ✔100
@@ -33084,7 +33084,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP: ✔90
 -
 	theme: (Wedd. bouquet) 611
 	AP: ✔55
@@ -36111,7 +36111,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Cool) 102
-	AP: 100
+	AP: ✔100
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -36196,7 +36196,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Cool) 102
-	AP: 100
+	AP: ✔100
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -36284,7 +36284,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Cool) 102
-	AP: 100
+	AP: ✔100
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -36372,7 +36372,7 @@ FlowerVariationOds data
 	AP: 27
 -
 	theme: (Cool) 102
-	AP: 100
+	AP: ✔100
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -36466,7 +36466,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Cool) 102
-	AP: 100
+	AP: ✔100
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -36554,7 +36554,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Cool) 102
-	AP: 60
+	AP: ✔60
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -38645,7 +38645,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Vivid) 105
 	AP: ✔60
@@ -38713,7 +38713,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 65
+	AP: ✔65
 -
 	theme: (Vivid) 105
 	AP:✔ 60
@@ -38861,7 +38861,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Vivid) 105
 	AP: ✔60
@@ -39595,7 +39595,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (autumn green) 726
-	AP: 80
+	AP: ✔80
  
 #380
 FlowerVariationOds data
@@ -39669,7 +39669,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (autumn green) 726
-	AP: 100
+	AP: ✔100
  
 #381
 FlowerVariationOds data
@@ -39906,7 +39906,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (autumn green) 726
-	AP: 90
+	AP: ✔90
  
 #384
 FlowerVariationOds data
@@ -39977,7 +39977,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (autumn green) 726
-	AP: 100
+	AP: ✔100
  
 #385
 FlowerVariationOds data
@@ -42908,7 +42908,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Cool) 102
-	AP: 10
+	AP: ✔10
 -
 	theme: (Fresh) 108
 	AP: 3
@@ -43623,7 +43623,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (autumn green) 726
-	AP: 100
+	AP: ✔100
  
 #432
 FlowerVariationOds data
@@ -46326,7 +46326,7 @@ FlowerVariationOds data
 	AP: 65
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Vivid) 105
 	AP: 10
@@ -46418,7 +46418,7 @@ FlowerVariationOds data
 	AP: 65
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Vivid) 105
 	AP: 10
@@ -46840,7 +46840,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Pop) 104
 	AP: 5
@@ -47825,7 +47825,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Innocence) 106
 	AP: 16
@@ -47957,7 +47957,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Innocence) 106
 	AP: 20
@@ -48086,7 +48086,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (Cool) 102
-	AP: 30
+	AP: ✔30
 -
 	theme: (Innocence) 106
 	AP: 15
@@ -48200,7 +48200,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Cool) 102
-	AP: 70
+	AP: ✔70
 -
 	theme: (Pop) 104
 	AP: 5
@@ -48277,7 +48277,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Cool) 102
-	AP: 70
+	AP: ✔70
 -
 	theme: (Pop) 104
 	AP: 5
@@ -48367,7 +48367,7 @@ FlowerVariationOds data
 	AP: ✔95
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Vivid) 105
 	AP: 5
@@ -48469,7 +48469,7 @@ FlowerVariationOds data
 	AP: ✔95
 -
 	theme: (Cool) 102
-	AP: 15
+	AP: ✔15
 -
 	theme: (Vivid) 105
 	AP: 5
@@ -51014,7 +51014,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (Wedd. bouquet) 611
 	AP: 16
@@ -51097,7 +51097,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Gift to friends) 610
-	AP: 100
+	AP: ✔100
 -
 	theme: (summer blue) 711
 	AP: ✔14
@@ -51689,7 +51689,7 @@ FlowerVariationOds data
 	AP: ✔55
 -
 	theme: (Cool) 102
-	AP: 45
+	AP: ✔45
 -
 	theme: (Dreamy)103
 	AP: ✔100
@@ -51991,7 +51991,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Cool) 102
-	AP: 90
+	AP: ✔90
 -
 	theme: (Dreamy)103
 	AP: 20
@@ -52611,7 +52611,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Cool) 102
-	AP: 90
+	AP: ✔90
 -
 	theme: (Chic) 107
 	AP: ✔100
@@ -52706,7 +52706,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Dreamy)103
 	AP: ✔75
@@ -52818,7 +52818,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (Cool) 102
-	AP: 20
+	AP: ✔20
 -
 	theme: (Dreamy)103
 	AP: ✔75
@@ -52942,7 +52942,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Cool) 102
-	AP: 25
+	AP: ✔25
 -
 	theme: (Dreamy)103
 	AP: 35
@@ -56428,7 +56428,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pop) 104
 	AP: 45
@@ -56493,7 +56493,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pop) 104
 	AP: 45
@@ -56700,7 +56700,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pop) 104
 	AP: 45
@@ -56777,7 +56777,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pop) 104
 	AP: 45
@@ -56913,7 +56913,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pop) 104
 	AP: 45
@@ -56955,7 +56955,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn green) 726
-	AP: 50
+	AP: ✔50
 
 #572
 FlowerVariationOds data
@@ -57526,7 +57526,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn green) 726
-	AP: 75
+	AP: ✔75
 
 #580
 FlowerVariationOds data
@@ -57665,7 +57665,7 @@ FlowerVariationOds data
 	AP: 62
 -
 	theme: (autumn green) 726
-	AP: 75
+	AP: ✔75
 
 #582
 FlowerVariationOds data
@@ -59453,7 +59453,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Cool) 102
-	AP: 5
+	AP: ✔5
 -
 	theme: (Pop) 104
 	AP: 25
@@ -59801,7 +59801,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Cool) 102
-	AP: 5
+	AP: ✔5
 -
 	theme: (Pop) 104
 	AP: 25
@@ -60164,7 +60164,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Cool) 102
-	AP: 5
+	AP: ✔5
 -
 	theme: (Pop) 104
 	AP: 10
@@ -60527,7 +60527,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Cool) 102
-	AP: 5
+	AP: ✔5
 -
 	theme: (Vivid) 105
 	AP: 5
@@ -60860,7 +60860,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Cool) 102
-	AP: 5
+	AP: ✔5
 -
 	theme: (Pop) 104
 	AP: 5
