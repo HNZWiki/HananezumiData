@@ -77,7 +77,7 @@ FlowerVariationOds data
 	AP: ✔88
 -
 	theme: (Unbeaten by Rain) 320
-	AP: 95
+	AP: ✔95|12
 -
 	theme: (Let's thank you) 402
 	AP: ✔50
@@ -175,7 +175,7 @@ FlowerVariationOds data
 	AP: ✔88
 -
 	theme: (Unbeaten by Rain) 320
-	AP: 95
+	AP: ✔95|12
 -
 	theme: (Let's thank you) 402
 	AP: ✔50
@@ -276,7 +276,7 @@ FlowerVariationOds data
 	AP: ✔88
 -
 	theme: (Unbeaten by Rain) 320
-	AP: 95
+	AP: ✔95|12
 -
 	theme: (Let's thank you) 402
 	AP: ✔50
@@ -368,7 +368,7 @@ FlowerVariationOds data
 	AP: ✔88
 -
 	theme: (Unbeaten by Rain) 320
-	AP: 95
+	AP: ✔95|12
 -
 	theme: (Let's thank you) 402
 	AP: ✔50
@@ -454,7 +454,7 @@ FlowerVariationOds data
 	AP: ✔88
 -
 	theme: (Unbeaten by Rain) 320
-	AP: 95
+	AP: ✔95|12
 -
 	theme: (Let's thank you) 402
 	AP: ✔50
@@ -552,7 +552,7 @@ FlowerVariationOds data
 	AP: ✔97
 -
 	theme: (Colored Trees) 327
-	AP: 87
+	AP: ✔87
 -
 	theme: (Happy new year) 400
 	AP: ✔90
@@ -588,10 +588,10 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn red) 718
-	AP: 97
+	AP: ✔97
 -
 	theme: (autumn pink) 719
-	AP: 43
+	AP: ✔43|6
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -677,7 +677,7 @@ FlowerVariationOds data
 	AP: ✔97
 -
 	theme: (Colored Trees) 327
-	AP: 87
+	AP: ✔87
 -
 	theme: (Happy new year) 400
 	AP: ✔90
@@ -707,10 +707,10 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn red) 718
-	AP: 48
+	AP: ✔48
 -
 	theme: (autumn pink) 719
-	AP: 97
+	AP: ✔97
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -802,7 +802,7 @@ FlowerVariationOds data
 	AP: ✔97
 -
 	theme: (Colored Trees) 327
-	AP: 87
+	AP: ✔87
 -
 	theme: (Happy new year) 400
 	AP: 90
@@ -849,9 +849,6 @@ FlowerVariationOds data
 	theme: (winter purple) 730
 	AP: 100
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #8
 FlowerVariationOds data
@@ -913,7 +910,7 @@ FlowerVariationOds data
 	AP: ✔97
 -
 	theme: (Colored Trees) 327
-	AP: 87
+	AP: ✔87
 -
 	theme: (Happy new year) 400
 	AP: ✔90
@@ -1026,7 +1023,7 @@ FlowerVariationOds data
 	AP: ✔97
 -
 	theme: (Colored Trees) 327
-	AP: 87
+	AP: ✔87
 -
 	theme: (Happy new year) 400
 	AP: ✔90
@@ -1145,7 +1142,7 @@ FlowerVariationOds data
 	AP: ✔97
 -
 	theme: (Colored Trees) 327
-	AP: 87
+	AP: ✔87
 -
 	theme: (Happy new year) 400
 	AP: ✔90
@@ -1175,7 +1172,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn blue) 720
-	AP: 79
+	AP: ✔79|6
 -
 	theme: (autumn yellow) 722
 	AP: 93
@@ -1192,9 +1189,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 38
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #11
 FlowerVariationOds data
@@ -1253,7 +1247,7 @@ FlowerVariationOds data
 	AP: ✔97
 -
 	theme: (Colored Trees) 327
-	AP: 87
+	AP: ✔87
 -
 	theme: (Happy new year) 400
 	AP: ✔90
@@ -1360,7 +1354,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Manmaru moon) 404
 	AP: ✔70
@@ -1390,7 +1384,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn red) 718
-	AP: 100
+	AP: ✔100
 -
 	theme: (autumn pink) 719
 	AP: 50
@@ -1476,7 +1470,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Manmaru moon) 404
 	AP: ✔70
@@ -1503,7 +1497,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn red) 718
-	AP: 50
+	AP: ✔50
 -
 	theme: (autumn pink) 719
 	AP: ✔100
@@ -1586,7 +1580,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Manmaru moon) 404
 	AP: ✔90
@@ -1696,7 +1690,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Manmaru moon) 404
 	AP: ✔88
@@ -1726,7 +1720,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn red) 718
-	AP: 50
+	AP: ✔50
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -1818,7 +1812,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Manmaru moon) 404
 	AP: ✔70
@@ -1859,9 +1853,6 @@ FlowerVariationOds data
 	theme: (winter purple) 730
 	AP: 0
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #17
 FlowerVariationOds data
@@ -1932,7 +1923,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Manmaru moon) 404
 	AP: ✔70
@@ -1959,7 +1950,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn blue) 720
-	AP: 88
+	AP: ✔88|2
 -
 	theme: (autumn yellow) 722
 	AP: 81
@@ -2045,7 +2036,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Gift/Day of Love) 401
 	AP: 55
@@ -3313,7 +3304,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (autumn red) 718
-	AP: 90
+	AP: ✔90
 -
 	theme: (winter red) 727
 	AP: ✔100
@@ -4166,10 +4157,10 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn red) 718
-	AP: 50
+	AP: ✔50
 -
 	theme: (autumn pink) 719
-	AP: 86
+	AP: ✔86
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -5146,9 +5137,6 @@ FlowerVariationOds data
 	AP: 100
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #49
 FlowerVariationOds data
 	ID: 49
@@ -5549,7 +5537,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn red) 718
-	AP: 80
+	AP: ✔80
 -
 	theme: (autumn pink) 719
 	AP: 30
@@ -5644,7 +5632,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn pink) 719
-	AP: 71
+	AP: ✔71|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -5816,7 +5804,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn yellow) 722
-	AP: 40
+	AP: ✔40|4
 -
 	theme: (autumn orange) 723
 	AP: 33
@@ -6056,7 +6044,7 @@ FlowerVariationOds data
 	AP: ✔92
 -
 	theme: (Colored Trees) 327
-	AP: 96
+	AP: ✔96
 -
 	theme: (two happiness) 413
 	AP: 10
@@ -6086,10 +6074,10 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn red) 718
-	AP: 41
+	AP: ✔41
 -
 	theme: (autumn pink) 719
-	AP: 82
+	AP: ✔82
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -6160,7 +6148,7 @@ FlowerVariationOds data
 	AP: ✔92
 -
 	theme: (Colored Trees) 327
-	AP: 96
+	AP: ✔96
 -
 	theme: (healthy growth) 411
 	AP: 5
@@ -6193,7 +6181,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn blue) 720
-	AP: 95
+	AP: ✔95|4
 -
 	theme: (autumn purpl) 721
 	AP: 41
@@ -6261,7 +6249,7 @@ FlowerVariationOds data
 	AP: ✔92
 -
 	theme: (Colored Trees) 327
-	AP: 96
+	AP: ✔96
 -
 	theme: (two happiness) 413
 	AP: 20
@@ -6353,7 +6341,7 @@ FlowerVariationOds data
 	AP: ✔92
 -
 	theme: (Colored Trees) 327
-	AP: 96
+	AP: ✔96
 -
 	theme: (two happiness) 413
 	AP: 22
@@ -6511,7 +6499,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
 -
 	theme: (autumn pink) 719
 	AP: 47
@@ -10522,7 +10510,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
  
 #99
 FlowerVariationOds data
@@ -10937,7 +10925,7 @@ FlowerVariationOds data
 	AP: ✔84
 -
 	theme: (Unbeaten by Rain) 320
-	AP: ✔99
+	AP: ✔99|
 -
 	theme: (Ceremonial bonfire) 324
 	AP: ✔96
@@ -12558,7 +12546,7 @@ FlowerVariationOds data
 	AP: ✔5
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
  
 -
 FlowerVariationOds data
@@ -14214,7 +14202,7 @@ FlowerVariationOds data
 	AP: ✔29
 -
 	theme: (Unbeaten by Rain) 320
-	AP: 99
+	AP: ✔99|4
 -
 	theme: (two happiness) 413
 	AP: ✔99
@@ -14241,7 +14229,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (autumn pink) 719
-	AP: 18
+	AP: ✔18|2
  
 #133
 FlowerVariationOds data
@@ -14380,7 +14368,7 @@ FlowerVariationOds data
 	AP: ✔29
 -
 	theme: (Unbeaten by Rain) 320
-	AP: 99
+	AP: ✔99|4
 -
 	theme: (two happiness) 413
 	AP: ✔99
@@ -14505,7 +14493,7 @@ FlowerVariationOds data
 	AP: 23
 -
 	theme: (autumn red) 718
-	AP: 77
+	AP: ✔77
 -
 	theme: (autumn pink) 719
 	AP: 41
@@ -14612,10 +14600,10 @@ FlowerVariationOds data
 	AP: ✔47
 -
 	theme: (autumn red) 718
-	AP: 44
+	AP: ✔44
 -
 	theme: (autumn pink) 719
-	AP: 88
+	AP: ✔88
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -15022,7 +15010,7 @@ FlowerVariationOds data
 	AP: ✔93
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 60
@@ -15073,7 +15061,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn red) 718
-	AP: 75
+	AP: ✔75
 -
 	theme: (autumn pink) 719
 	AP: 23
@@ -15183,7 +15171,7 @@ FlowerVariationOds data
 	AP: ✔93
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 60
@@ -15228,10 +15216,10 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn red) 718
-	AP: 23
+	AP: ✔23
 -
 	theme: (autumn pink) 719
-	AP: 53
+	AP: ✔53|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -15338,7 +15326,7 @@ FlowerVariationOds data
 	AP: ✔93
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 60
@@ -15400,9 +15388,6 @@ FlowerVariationOds data
 	theme: (winter purple) 730
 	AP: 89
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #143
 FlowerVariationOds data
@@ -15494,7 +15479,7 @@ FlowerVariationOds data
 	AP: ✔93
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 60
@@ -15556,9 +15541,6 @@ FlowerVariationOds data
 	theme: (winter purple) 730
 	AP: 95
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #144
 FlowerVariationOds data
@@ -15656,7 +15638,7 @@ FlowerVariationOds data
 	AP: ✔93
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 60
@@ -15704,7 +15686,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn yellow) 722
-	AP: 46
+	AP: ✔46|4
 -
 	theme: (autumn orange) 723
 	AP: 23
@@ -15808,7 +15790,7 @@ FlowerVariationOds data
 	AP: ✔93
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 60
@@ -15969,7 +15951,7 @@ FlowerVariationOds data
 	AP: ✔93
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 60
@@ -16025,9 +16007,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 26
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #147
 FlowerVariationOds data
@@ -16113,7 +16092,7 @@ FlowerVariationOds data
 	AP: ✔93
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 60
@@ -16280,7 +16259,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
 -
 	theme: (winter red) 727
 	AP: ✔100
@@ -17051,7 +17030,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 15
@@ -17173,7 +17152,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Manmaru moon) 404
 	AP: 70
@@ -17220,9 +17199,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 96
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #157
 FlowerVariationOds data
@@ -17579,9 +17555,6 @@ FlowerVariationOds data
 	AP: 99
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #160
 FlowerVariationOds data
 	ID: 160
@@ -17827,9 +17800,6 @@ FlowerVariationOds data
 	AP: 80
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #162
 FlowerVariationOds data
 	ID: 162
@@ -17931,9 +17901,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 82
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #163
 FlowerVariationOds data
@@ -18114,7 +18081,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
 -
 	theme: (winter red) 727
 	AP: 98
@@ -18223,9 +18190,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 98
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #166
 FlowerVariationOds data
@@ -18546,9 +18510,6 @@ FlowerVariationOds data
 	AP: 76
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #169
 FlowerVariationOds data
 	ID: 169
@@ -18746,9 +18707,6 @@ FlowerVariationOds data
 	AP: 100
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #171
 FlowerVariationOds data
 	ID: 171
@@ -18827,7 +18785,7 @@ FlowerVariationOds data
 	AP: 49
 -
 	theme: (autumn red) 718
-	AP: 43
+	AP: ✔43
  
 #172
 FlowerVariationOds data
@@ -19269,7 +19227,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn pink) 719
-	AP: 47
+	AP: ✔47|6
  
 #177
 FlowerVariationOds data
@@ -20015,7 +19973,7 @@ FlowerVariationOds data
 	AP: 81
 -
 	theme: (autumn red) 718
-	AP: 52
+	AP: ✔52
 -
 	theme: (autumn pink) 719
 	AP: 22
@@ -20131,7 +20089,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (autumn pink) 719
-	AP: 19
+	AP: ✔19|4
  
 #185
 FlowerVariationOds data
@@ -20550,7 +20508,7 @@ FlowerVariationOds data
 	AP: 19
 -
 	theme: (autumn red) 718
-	AP: 37
+	AP: ✔37
  
 #189
 FlowerVariationOds data
@@ -21489,10 +21447,10 @@ FlowerVariationOds data
 	AP: 36
 -
 	theme: (autumn red) 718
-	AP: 95
+	AP: ✔95
 -
 	theme: (autumn pink) 719
-	AP: 28
+	AP: ✔28|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -21860,10 +21818,10 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (autumn red) 718
-	AP: 100
+	AP: ✔100
 -
 	theme: (autumn pink) 719
-	AP: 50
+	AP: ✔50|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -21976,7 +21934,7 @@ FlowerVariationOds data
 	AP: ✔40
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
 -
 	theme: (autumn pink) 719
 	AP: ✔100
@@ -22053,7 +22011,7 @@ FlowerVariationOds data
 	AP: ✔86
 -
 	theme: (Manmaru moon) 404
-	AP: ✔100
+	AP: ✔100|8
 -
 	theme: (Doll's Festival) 408
 	AP: 10
@@ -22252,7 +22210,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 100
+	AP: ✔100
 -
 	theme: (Gift/Day of Love) 401
 	AP: 15
@@ -22347,7 +22305,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 100
+	AP: ✔100
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 80
@@ -22481,9 +22439,6 @@ FlowerVariationOds data
 	AP: 42
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #208
 FlowerVariationOds data
 	ID: 208
@@ -22565,9 +22520,6 @@ FlowerVariationOds data
 	AP: ✔28
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #209
 FlowerVariationOds data
 	ID: 209
@@ -22645,9 +22597,6 @@ FlowerVariationOds data
 	theme: (winter purple) 730
 	AP: ✔86
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #210
 FlowerVariationOds data
@@ -22970,9 +22919,6 @@ FlowerVariationOds data
 	AP: 55
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #214
 FlowerVariationOds data
 	ID: 214
@@ -23024,7 +22970,7 @@ FlowerVariationOds data
 	AP: ✔90
 -
 	theme: (autumn red) 718
-	AP: 52
+	AP: ✔52
 -
 	theme: (winter red) 727
 	AP: ✔65
@@ -25947,7 +25893,7 @@ FlowerVariationOds data
 	AP: 42
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
  
 #241
 FlowerVariationOds data
@@ -26913,10 +26859,10 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn red) 718
-	AP: 2
+	AP: ✔2
 -
 	theme: (autumn pink) 719
-	AP: 72
+	AP: ✔72
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -27008,7 +26954,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn yellow) 722
-	AP: 7
+	AP: ✔7|4
 -
 	theme: (autumn orange) 723
 	AP: 26
@@ -27186,7 +27132,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 85
+	AP: ✔85
 -
 	theme: (Thanks/mntns) 415
 	AP: 56
@@ -27201,10 +27147,10 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn red) 718
-	AP: 50
+	AP: ✔50
 -
 	theme: (autumn pink) 719
-	AP: 95
+	AP: ✔95
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -27275,7 +27221,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 85
+	AP: ✔85
 -
 	theme: (Manmaru moon) 404
 	AP: ✔50
@@ -27376,7 +27322,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 85
+	AP: ✔85
 -
 	theme: (Thanks/mntns) 415
 	AP: 41
@@ -27507,7 +27453,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (autumn red) 718
-	AP: 81
+	AP: ✔81
 -
 	theme: (autumn pink) 719
 	AP: 32
@@ -27623,10 +27569,10 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
 -
 	theme: (autumn pink) 719
-	AP: 64
+	AP: ✔64|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -28039,7 +27985,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (autumn pink) 719
-	AP: 70
+	AP: ✔70|6
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -28223,10 +28169,10 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn red) 718
-	AP: 20
+	AP: ✔20
 -
 	theme: (autumn pink) 719
-	AP: 90
+	AP: ✔90
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -28799,7 +28745,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn red) 718
-	AP: 85
+	AP: ✔85
 -
 	theme: (autumn pink) 719
 	AP: 35
@@ -28888,7 +28834,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (autumn pink) 719
-	AP: 73
+	AP: ✔73|6
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -29589,9 +29535,6 @@ FlowerVariationOds data
 	AP: 90
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #277
 FlowerVariationOds data
 	ID: 277
@@ -30015,9 +29958,6 @@ FlowerVariationOds data
 	AP: 28
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #281
 FlowerVariationOds data
 	ID: 281
@@ -30132,9 +30072,6 @@ FlowerVariationOds data
 	AP: 100
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #282
 FlowerVariationOds data
 	ID: 282
@@ -30240,9 +30177,6 @@ FlowerVariationOds data
 	AP: 80
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #283
 FlowerVariationOds data
 	ID: 283
@@ -30329,9 +30263,6 @@ FlowerVariationOds data
 	theme: (winter purple) 730
 	AP: 100
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #284
 FlowerVariationOds data
@@ -30422,9 +30353,6 @@ FlowerVariationOds data
 	theme: (winter blue) 729
 	AP: ✔50
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #285
 FlowerVariationOds data
@@ -30673,7 +30601,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn pink) 719
-	AP: 5
+	AP: ✔5
 -
 	theme: (winter red) 727
 	AP: 20
@@ -30969,9 +30897,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 55
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #291
 FlowerVariationOds data
@@ -33099,7 +33024,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn pink) 719
-	AP: 5
+	AP: ✔5
  
 #314
 FlowerVariationOds data
@@ -33411,7 +33336,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn red) 718
-	AP: 70
+	AP: ✔70
 -
 	theme: (autumn pink) 719
 	AP: 26
@@ -33717,10 +33642,10 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn red) 718
-	AP: 20
+	AP: ✔20
 -
 	theme: (autumn pink) 719
-	AP: 39
+	AP: ✔39|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -33833,7 +33758,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn blue) 720
-	AP: 82
+	AP: ✔82|4
 -
 	theme: (autumn purpl) 721
 	AP: 20
@@ -34416,9 +34341,6 @@ FlowerVariationOds data
 	AP: 99
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #326
 FlowerVariationOds data
 	ID: 327
@@ -34648,10 +34570,7 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 75
 - 
- 
-	theme: (winter black) 734
-	AP: 1
- 
+
 #328
 FlowerVariationOds data
 	ID: 329
@@ -34849,7 +34768,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn red) 718
-	AP: 77
+	AP: ✔77
 -
 	theme: (winter red) 727
 	AP: 50
@@ -34953,7 +34872,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn pink) 719
-	AP: 77
+	AP: ✔77|4
 -
 	theme: (winter red) 727
 	AP: 20
@@ -35188,9 +35107,6 @@ FlowerVariationOds data
 	AP: 60
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #333
 FlowerVariationOds data
 	ID: 334
@@ -35418,9 +35334,6 @@ FlowerVariationOds data
 	AP: 14
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #335
 FlowerVariationOds data
 	ID: 336
@@ -35531,9 +35444,6 @@ FlowerVariationOds data
 	theme: (winter purple) 730
 	AP: 28
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #336
 FlowerVariationOds data
@@ -35764,9 +35674,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 28
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #338
 FlowerVariationOds data
@@ -37030,7 +36937,7 @@ FlowerVariationOds data
 	AP: ✔55
 -
 	theme: (autumn red) 718
-	AP: 90
+	AP: ✔90
 -
 	theme: (autumn pink) 719
 	AP: 24
@@ -38252,7 +38159,7 @@ FlowerVariationOds data
 	AP: 26
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP: ✔5
 -
 	theme: (winter red) 727
 	AP: 65
@@ -38678,7 +38585,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn pink) 719
-	AP: 52
+	AP: ✔52|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -38755,7 +38662,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn blue) 720
-	AP: 72
+	AP: ✔72|4
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -39564,7 +39471,7 @@ FlowerVariationOds data
 	AP: ✔67
 -
 	theme: (Colored Trees) 327
-	AP: 92
+	AP: ✔92
 -
 	theme: (Thanks/mntns) 415
 	AP: 77
@@ -39641,7 +39548,7 @@ FlowerVariationOds data
 	AP: ✔67
 -
 	theme: (Colored Trees) 327
-	AP: 40
+	AP: ✔40
 -
 	theme: (Green day) 412
 	AP: ✔22
@@ -39884,7 +39791,7 @@ FlowerVariationOds data
 	AP: ✔85
 -
 	theme: (autumn red) 718
-	AP: 88
+	AP: ✔88
 -
 	theme: (autumn blue) 720
 	AP: 34
@@ -39893,7 +39800,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn yellow) 722
-	AP: 48
+	AP: ✔48|8
 -
 	theme: (autumn orange) 723
 	AP: 100
@@ -40029,7 +39936,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 30
+	AP: ✔30
 -
 	theme: (Manmaru moon) 404
 	AP: ✔91
@@ -40044,7 +39951,7 @@ FlowerVariationOds data
 	AP: ✔70
 -
 	theme: (autumn red) 718
-	AP: 59
+	AP: ✔59
 -
 	theme: (autumn blue) 720
 	AP: 35
@@ -40364,9 +40271,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 76
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #389
 FlowerVariationOds data
@@ -41963,9 +41867,6 @@ FlowerVariationOds data
 	AP: 10
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #413
 FlowerVariationOds data
 	ID: 1001
@@ -42684,7 +42585,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Colored Trees) 327
-	AP: 85
+	AP: ✔85
 -
 	theme: (Thanks/mntns) 415
 	AP: 5
@@ -42713,9 +42614,6 @@ FlowerVariationOds data
 	theme: (winter purple) 730
 	AP: 23
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #422
 FlowerVariationOds data
@@ -43044,7 +42942,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (autumn red) 718
-	AP: 55
+	AP: ✔55
 -
 	theme: (autumn pink) 719
 	AP: 32
@@ -43073,9 +42971,6 @@ FlowerVariationOds data
 	theme: (winter red) 727
 	AP: 10
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #426
 FlowerVariationOds data
@@ -43276,10 +43171,10 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (autumn red) 718
-	AP: 30
+	AP: ✔30
 -
 	theme: (autumn pink) 719
-	AP: 46
+	AP: ✔46|2
 -
 	theme: (autumn blue) 720
 	AP: 10
@@ -43365,7 +43260,7 @@ FlowerVariationOds data
 	AP: ✔90
 -
 	theme: (Colored Trees) 327
-	AP: 95
+	AP: ✔95
 -
 	theme: (Manmaru moon) 404
 	AP: ✔100
@@ -43389,7 +43284,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (autumn pink) 719
-	AP: 55
+	AP: ✔55|2
 -
 	theme: (autumn blue) 720
 	AP: 20
@@ -43415,9 +43310,6 @@ FlowerVariationOds data
 	theme: (winter red) 727
 	AP: 10
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #430
 FlowerVariationOds data
@@ -43473,7 +43365,7 @@ FlowerVariationOds data
 	AP: ✔90
 -
 	theme: (Colored Trees) 327
-	AP: 95
+	AP: ✔95
 -
 	theme: (Manmaru moon) 404
 	AP: ✔100
@@ -43571,7 +43463,7 @@ FlowerVariationOds data
 	AP: ✔90
 -
 	theme: (Colored Trees) 327
-	AP: 95
+	AP: ✔95
 -
 	theme: (Manmaru moon) 404
 	AP: ✔100
@@ -43755,7 +43647,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 30
+	AP: ✔30
 -
 	theme: (Manmaru moon) 404
 	AP: ✔91
@@ -43779,7 +43671,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn yellow) 722
-	AP: 49
+	AP: ✔49|10
 -
 	theme: (autumn orange) 723
 	AP: 100
@@ -44867,7 +44759,7 @@ FlowerVariationOds data
 	AP: ✔97
 -
 	theme: (Colored Trees) 327
-	AP: 87
+	AP: ✔87
 -
 	theme: (Happy new year) 400
 	AP: ✔90
@@ -44897,13 +44789,13 @@ FlowerVariationOds data
 	AP: 0
 -
 	theme: (autumn pink) 719
-	AP: 47
+	AP: ✔47|6
 -
 	theme: (autumn blue) 720
 	AP: 3
 -
 	theme: (autumn yellow) 722
-	AP: 47
+	AP: ✔47|6
 -
 	theme: (autumn orange) 723
 	AP: 23
@@ -45010,7 +44902,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Manmaru moon) 404
 	AP: ✔100
@@ -45031,7 +44923,7 @@ FlowerVariationOds data
 	AP: 33
 -
 	theme: (autumn red) 718
-	AP: 83
+	AP: ✔83
 -
 	theme: (autumn pink) 719
 	AP: 99
@@ -45120,7 +45012,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (Colored Trees) 327
-	AP: 83
+	AP: ✔83
 -
 	theme: (Manmaru moon) 404
 	AP: ✔100
@@ -45144,7 +45036,7 @@ FlowerVariationOds data
 	AP: 0
 -
 	theme: (autumn pink) 719
-	AP: 50
+	AP: ✔50|2
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -45263,9 +45155,6 @@ FlowerVariationOds data
 	AP: 95
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #451
 FlowerVariationOds data
 	ID: 2005
@@ -45361,9 +45250,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 95
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #452
 FlowerVariationOds data
@@ -45720,9 +45606,6 @@ FlowerVariationOds data
 	AP: 50
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #455
 FlowerVariationOds data
 	ID: (plant) 2009
@@ -45848,9 +45731,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 50
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #456
 FlowerVariationOds data
@@ -47785,9 +47665,6 @@ FlowerVariationOds data
 	AP: 50
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #474
 FlowerVariationOds data
 	ID: 2028
@@ -47875,7 +47752,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (Colored Trees) 327
-	AP: 90
+	AP: ✔90
 -
 	theme: (Gift/Day of Love) 401
 	AP: 15
@@ -47919,9 +47796,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 24
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #475
 FlowerVariationOds data
@@ -48049,9 +47923,6 @@ FlowerVariationOds data
 	AP: 40
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #476
 FlowerVariationOds data
 	ID: 2030
@@ -48168,9 +48039,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 40
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #477
 FlowerVariationOds data
@@ -48333,9 +48201,6 @@ FlowerVariationOds data
 	AP: 98
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #479
 FlowerVariationOds data
 	ID: 2033
@@ -48434,9 +48299,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 38
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #480
 FlowerVariationOds data
@@ -48542,9 +48404,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 38
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #481
 FlowerVariationOds data
@@ -48811,7 +48670,7 @@ FlowerVariationOds data
 	AP: 35
 -
 	theme: (autumn red) 718
-	AP: 75
+	AP: ✔75
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -48930,7 +48789,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (autumn red) 718
-	AP: 65
+	AP: ✔65
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -50232,9 +50091,6 @@ FlowerVariationOds data
 	AP: 28
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #497
 FlowerVariationOds data
 	ID: 2051
@@ -50346,9 +50202,6 @@ FlowerVariationOds data
 	AP: 28
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #498
 FlowerVariationOds data
 	ID: 2052
@@ -50453,9 +50306,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 28
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #499
 FlowerVariationOds data
@@ -51548,9 +51398,6 @@ FlowerVariationOds data
 	AP: 17
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #510
 FlowerVariationOds data
 	ID: 2064
@@ -51772,9 +51619,6 @@ FlowerVariationOds data
 	AP: 14
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #512
 FlowerVariationOds data
 	ID: 2066
@@ -51885,9 +51729,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 14
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #513
 FlowerVariationOds data
@@ -52573,7 +52414,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (autumn red) 718
-	AP: 33
+	AP: ✔33
 -
 	theme: (autumn pink) 719
 	AP: 33
@@ -53749,9 +53590,6 @@ FlowerVariationOds data
 	AP: 38
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #532
 FlowerVariationOds data
 	ID: 3002
@@ -54235,9 +54073,6 @@ FlowerVariationOds data
 	AP: 75
 - 
  
-	theme: (winter black) 734
-	AP: 1
- 
 #538
 FlowerVariationOds data
 	ID: 5003
@@ -54454,9 +54289,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 50
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #541
 FlowerVariationOds data
@@ -54686,9 +54518,6 @@ FlowerVariationOds data
 	theme: (winter white) 733
 	AP: 25
 - 
- 
-	theme: (winter black) 734
-	AP: 1
  
 #544
 FlowerVariationOds data
@@ -56164,7 +55993,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn yellow) 722
-	AP: 25
+	AP: 25|8
 -
 	theme: (autumn orange) 723
 	AP: 12
@@ -56448,7 +56277,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (Colored Trees) 327
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 50
@@ -56513,7 +56342,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (Colored Trees) 327
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 50
@@ -56525,7 +56354,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (autumn red) 718
-	AP: 25
+	AP: ✔25
 -
 	theme: (autumn yellow) 722
 	AP: 3
@@ -56584,7 +56413,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (Colored Trees) 327
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 50
@@ -56652,7 +56481,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (Colored Trees) 327
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 50
@@ -56720,7 +56549,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (Colored Trees) 327
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 50
@@ -56797,7 +56626,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (Colored Trees) 327
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 50
@@ -56809,7 +56638,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (autumn yellow) 722
-	AP: 25
+	AP: ✔25|8
 -
 	theme: (autumn orange) 723
 	AP: 50
@@ -56868,7 +56697,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (Colored Trees) 327
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 50
@@ -56933,7 +56762,7 @@ FlowerVariationOds data
 	AP: ✔50
 -
 	theme: (Colored Trees) 327
-	AP: 50
+	AP: ✔50
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 50
@@ -57007,7 +56836,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57072,7 +56901,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57143,7 +56972,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57214,7 +57043,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57288,7 +57117,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57359,7 +57188,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57371,7 +57200,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (autumn yellow) 722
-	AP: 38
+	AP: ✔38|8
 -
 	theme: (autumn orange) 723
 	AP: 75
@@ -57430,7 +57259,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57501,7 +57330,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57572,7 +57401,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57587,7 +57416,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (autumn yellow) 722
-	AP: 38
+	AP: ✔38|8
 -
 	theme: (autumn orange) 723
 	AP: 75
@@ -57643,7 +57472,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (Colored Trees) 327
-	AP: 75
+	AP: ✔75
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 75
@@ -57711,7 +57540,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn yellow) 722
-	AP: 20
+	AP: ✔20|8
 -
 	theme: (autumn orange) 723
 	AP: 10
