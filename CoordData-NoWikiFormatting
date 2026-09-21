@@ -847,7 +847,7 @@ FlowerVariationOds data
 	AP: 19
 -
 	theme: (winter purple) 730
-	AP: 100
+	AP: ✔100
 - 
  
 #8
@@ -2179,7 +2179,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 95
+	AP: ✔95
 -
 	theme: (winter orange) 732
 	AP: 80
@@ -5134,7 +5134,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (winter purple) 730
-	AP: 100
+	AP: ✔100
 - 
  
 #49
@@ -5233,7 +5233,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 88
+	AP: ✔88|4
 -
 	theme: (winter orange) 732
 	AP: 50
@@ -5337,7 +5337,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 11
+	AP: ✔11|
 -
 	theme: (winter orange) 732
 	AP: 22
@@ -15386,7 +15386,7 @@ FlowerVariationOds data
 	AP: ✔80
 -
 	theme: (winter purple) 730
-	AP: 89
+	AP: ✔89
 - 
  
 #143
@@ -15539,7 +15539,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (winter purple) 730
-	AP: 95
+	AP: ✔95
 - 
  
 #144
@@ -16485,7 +16485,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 100
+	AP: ✔100
 -
 	theme: (winter orange) 732
 	AP: 60
@@ -17552,7 +17552,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (winter purple) 730
-	AP: 99
+	AP: ✔99
 - 
  
 #160
@@ -17675,7 +17675,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 80
+	AP: ✔80
 -
 	theme: (winter orange) 732
 	AP: 60
@@ -18704,7 +18704,7 @@ FlowerVariationOds data
 	AP: ✔80
 -
 	theme: (winter purple) 730
-	AP: 100
+	AP: ✔100
 - 
  
 #171
@@ -29330,7 +29330,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 90
+	AP: ✔90
 -
 	theme: (winter orange) 732
 	AP: 60
@@ -29431,7 +29431,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 45
+	AP: ✔45
 -
 	theme: (winter orange) 732
 	AP: 90
@@ -29955,7 +29955,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (winter purple) 730
-	AP: 28
+	AP: ✔28
 - 
  
 #281
@@ -30069,7 +30069,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (winter purple) 730
-	AP: 100
+	AP: ✔100
 - 
  
 #282
@@ -30261,7 +30261,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (winter purple) 730
-	AP: 100
+	AP: ✔100
 - 
  
 #284
@@ -30702,7 +30702,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (winter yellow) 731
-	AP: 80
+	AP: ✔80
 -
 	theme: (winter orange) 732
 	AP: 22
@@ -30797,7 +30797,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 22
+	AP: ✔22
 -
 	theme: (winter orange) 732
 	AP: 80
@@ -34338,7 +34338,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (winter purple) 730
-	AP: 99
+	AP: ✔99
 - 
  
 #326
@@ -34988,7 +34988,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (winter yellow) 731
-	AP: 55
+	AP: ✔55
 -
 	theme: (winter orange) 732
 	AP: 20
@@ -35331,7 +35331,7 @@ FlowerVariationOds data
 	AP: 28
 -
 	theme: (winter purple) 730
-	AP: 14
+	AP: ✔14
 - 
  
 #335
@@ -35442,7 +35442,7 @@ FlowerVariationOds data
 	AP: 14
 -
 	theme: (winter purple) 730
-	AP: 28
+	AP: ✔28
 - 
  
 #336
@@ -48034,7 +48034,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (winter purple) 730
-	AP: 40
+	AP: ✔40|4
 -
 	theme: (winter white) 733
 	AP: 40
@@ -51503,7 +51503,7 @@ FlowerVariationOds data
 	AP: 7
 -
 	theme: (winter purple) 730
-	AP: 14
+	AP: ✔14|4
 -
 	theme: (winter yellow) 731
 	AP: 14
@@ -58200,7 +58200,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (winter purple) 730
-	AP: 50
+	AP: ✔50
 
 #592
 FlowerVariationOds data
@@ -58959,7 +58959,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (winter purple) 730
-	AP: 25
+	AP: ✔25|8
 
 #607
 FlowerVariationOds data
@@ -59012,7 +59012,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (winter purple) 730
-	AP: 25
+	AP: ✔25|8
 
 #608
 FlowerVariationOds data
