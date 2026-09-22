@@ -2170,7 +2170,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100
 -
 	theme: (spring orange) 705
 	AP: 50
@@ -2629,7 +2629,7 @@ FlowerVariationOds data
 	AP: ✔25
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100
  
 #24
 FlowerVariationOds data
@@ -2745,7 +2745,7 @@ FlowerVariationOds data
 	AP: ✔55
 -
 	theme: (spring yellow) 704
-	AP: 41
+	AP: ✔41
 -
 	theme: (spring orange) 705
 	AP: 100
@@ -3096,7 +3096,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (spring black) 707
-	AP: 90
+	AP: ✔90
  
 #28
 FlowerVariationOds data
@@ -3197,7 +3197,7 @@ FlowerVariationOds data
 	AP: ✔51
 -
 	theme: (spring green) 708
-	AP: 90
+	AP: ✔90
  
 #29
 FlowerVariationOds data
@@ -5224,7 +5224,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spring yellow) 704
-	AP: 97
+	AP: ✔97|4
 -
 	theme: (spring orange) 705
 	AP: 61
@@ -7011,7 +7011,7 @@ FlowerVariationOds data
 	AP: ✔86
 -
 	theme: (spring yellow) 704
-	AP: 91
+	AP: ✔91|6
 -
 	theme: (spring orange) 705
 	AP: 50
@@ -7154,7 +7154,7 @@ FlowerVariationOds data
 	AP: 84
 -
 	theme: (spring yellow) 704
-	AP: 41
+	AP: ✔41
 -
 	theme: (spring orange) 705
 	AP: 91
@@ -7416,7 +7416,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (spring black) 707
-	AP: 93
+	AP: ✔93
 -
 	theme: (autumn black) 725
 	AP: 95
@@ -7532,7 +7532,7 @@ FlowerVariationOds data
 	AP: ✔89
 -
 	theme: (spring green) 708
-	AP: 93
+	AP: ✔93
 -
 	theme: (autumn green) 726
 	AP: 95
@@ -7642,7 +7642,7 @@ FlowerVariationOds data
 	AP: ✔96
 -
 	theme: (spr pnk) 701
-	AP: 48
+	AP: ✔48
 -
 	theme: (autumn red) 718
 	AP: 5
@@ -8064,7 +8064,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100
 -
 	theme: (spring orange) 705
 	AP: 30
@@ -8174,7 +8174,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (spring yellow) 704
-	AP: 55
+	AP: ✔55
 -
 	theme: (spring orange) 705
 	AP: 100
@@ -8391,7 +8391,7 @@ FlowerVariationOds data
 	AP: 61
 -
 	theme: (spring black) 707
-	AP: 97
+	AP: ✔97
  
 #79
 FlowerVariationOds data
@@ -8885,7 +8885,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (spring yellow) 704
-	AP: 98
+	AP: ✔98|4
 -
 	theme: (spring orange) 705
 	AP: 50
@@ -9010,7 +9010,7 @@ FlowerVariationOds data
 	AP:✔ 81
 -
 	theme: (spring yellow) 704
-	AP: 55
+	AP: ✔55
 -
 	theme: (spring orange) 705
 	AP: 98
@@ -9257,7 +9257,7 @@ FlowerVariationOds data
 	AP: ✔60
 -
 	theme: (spring green) 708
-	AP: 94
+	AP: ✔94
  
 #86
 FlowerVariationOds data
@@ -9361,7 +9361,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100
 -
 	theme: (spring orange) 705
 	AP: 31
@@ -9673,7 +9673,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100|2
 -
 	theme: (spring orange) 705
 	AP: 50
@@ -9884,7 +9884,7 @@ FlowerVariationOds data
 	AP: ✔98
 -
 	theme: (spr pnk) 701
-	AP: 49
+	AP: ✔49
 -
 	theme: (autumn red) 718
 	AP: 10
@@ -10059,7 +10059,7 @@ FlowerVariationOds data
 	AP: ✔49
 -
 	theme: (spring purple) 703
-	AP: 96
+	AP: ✔96
  
 #94
 FlowerVariationOds data
@@ -10136,7 +10136,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100
 -
 	theme: (spring orange) 705
 	AP: 50
@@ -10225,7 +10225,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (spring yellow) 704
-	AP: 50
+	AP: ✔50
 -
 	theme: (spring orange) 705
 	AP: 91
@@ -11261,7 +11261,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (spr pnk) 701
-	AP: 4
+	AP: ✔4
 -
 	theme: (spring yellow) 704
 	AP: 5
@@ -11642,7 +11642,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100|4
 -
 	theme: (spring orange) 705
 	AP: 41
@@ -11722,7 +11722,7 @@ FlowerVariationOds data
 	AP: ✔45
 -
 	theme: (Autumn in the air) 318
-	AP: 20
+	AP: ✔20
 -
 	theme: (Unbeaten by Rain) 320
 	AP: 93
@@ -12032,7 +12032,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (spring green) 708
-	AP: 35
+	AP: ✔35
 -
 	theme: (summer yellow) 713
 	AP: ✔10
@@ -13004,7 +13004,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (spring yellow) 704
-	AP: 91
+	AP: ✔91|4
 -
 	theme: (spring orange) 705
 	AP: 44
@@ -15515,7 +15515,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (spring blue) 702
-	AP: 10
+	AP: ✔10
 -
 	theme: (spring purple) 703
 	AP: 100
@@ -15677,7 +15677,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100|4
 -
 	theme: (spring orange) 705
 	AP: 33
@@ -15829,7 +15829,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (spring yellow) 704
-	AP: 32
+	AP: ✔32
 -
 	theme: (spring orange) 705
 	AP: 100
@@ -15987,7 +15987,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (spring yellow) 704
-	AP: 10
+	AP: ✔10
 -
 	theme: (spring white) 706
 	AP: 40
@@ -17302,7 +17302,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (spr pnk) 701
-	AP: 4
+	AP: ✔4
 -
 	theme: (autumn red) 718
 	AP: 42
@@ -17657,7 +17657,7 @@ FlowerVariationOds data
 	AP: 6
 -
 	theme: (spring yellow) 704
-	AP: 95
+	AP: ✔95|4
 -
 	theme: (spring orange) 705
 	AP: 50
@@ -23615,7 +23615,7 @@ FlowerVariationOds data
 	AP: 59
 -
 	theme: (spring yellow) 704
-	AP: 33
+	AP: ✔33
 -
 	theme: (spring orange) 705
 	AP: 100
@@ -24246,7 +24246,7 @@ FlowerVariationOds data
 	AP: 43
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100|4
 -
 	theme: (spring orange) 705
 	AP: 50
@@ -24383,7 +24383,7 @@ FlowerVariationOds data
 	AP: 41
 -
 	theme: (spring yellow) 704
-	AP: 50
+	AP: ✔50
 -
 	theme: (spring orange) 705
 	AP: 100
@@ -26238,7 +26238,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100|4
 -
 	theme: (summer yellow) 713
 	AP: ✔88
@@ -26357,7 +26357,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (spring yellow) 704
-	AP: 50
+	AP: ✔50|4
 -
 	theme: (spring orange) 705
 	AP: 100
@@ -29726,7 +29726,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (spr pnk) 701
-	AP: 4
+	AP: ✔4
 -
 	theme: (autumn red) 718
 	AP: 11
@@ -30985,7 +30985,7 @@ FlowerVariationOds data
 	AP: ✔96
 -
 	theme: (spr pnk) 701
-	AP: 48
+	AP: ✔48
 -
 	theme: (autumn red) 718
 	AP: 5
@@ -31080,7 +31080,7 @@ FlowerVariationOds data
 	AP: ✔48
 -
 	theme: (spr pnk) 701
-	AP: 96
+	AP: ✔96
 -
 	theme: (autumn pink) 719
 	AP: 5
@@ -31261,7 +31261,7 @@ FlowerVariationOds data
 	AP: ✔60
 -
 	theme: (spring yellow) 704
-	AP: 99
+	AP: ✔99|6
 -
 	theme: (spring orange) 705
 	AP: 37
@@ -31353,7 +31353,7 @@ FlowerVariationOds data
 	AP: ✔63
 -
 	theme: (spring yellow) 704
-	AP: 31
+	AP: ✔31
 -
 	theme: (spring orange) 705
 	AP: 100
@@ -31540,7 +31540,7 @@ FlowerVariationOds data
 	AP: ✔68
 -
 	theme: (spring green) 708
-	AP: 23
+	AP: ✔23
  
 #298
 FlowerVariationOds data
@@ -31929,7 +31929,7 @@ FlowerVariationOds data
 	AP: 35
 -
 	theme: (spring yellow) 704
-	AP: 99
+	AP: ✔99|6
 -
 	theme: (spring orange) 705
 	AP: 41
@@ -32021,7 +32021,7 @@ FlowerVariationOds data
 	AP: ✔31
 -
 	theme: (spring yellow) 704
-	AP: 41
+	AP: ✔41
 -
 	theme: (spring orange) 705
 	AP: 99
@@ -32410,7 +32410,7 @@ FlowerVariationOds data
 	AP: 41
 -
 	theme: (spring black) 707
-	AP: 97
+	AP: ✔97
  
 #307
 FlowerVariationOds data
@@ -33755,7 +33755,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (spring blue) 702
-	AP: 10
+	AP: ✔10
 -
 	theme: (autumn blue) 720
 	AP: ✔82|4
@@ -34213,7 +34213,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spr pnk) 701
-	AP: 50
+	AP: ✔50
 -
 	theme: (autumn red) 718
 	AP: 25
@@ -35200,7 +35200,7 @@ FlowerVariationOds data
 	AP: ✔44
 -
 	theme: (spr pnk) 701
-	AP: 88
+	AP: ✔88
 -
 	theme: (autumn pink) 719
 	AP: 5
@@ -35550,7 +35550,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100|4
 -
 	theme: (winter yellow) 731
 	AP: 28
@@ -35841,7 +35841,7 @@ FlowerVariationOds data
 	AP: 16
 -
 	theme: (spr pnk) 701
-	AP: 33
+	AP: ✔33
 -
 	theme: (autumn pink) 719
 	AP: 5
@@ -35990,7 +35990,7 @@ FlowerVariationOds data
 	AP: ✔75
 -
 	theme: (spring green) 708
-	AP: 58
+	AP: ✔58
 #342
 FlowerVariationOds data
 	ID: 343
@@ -39074,7 +39074,7 @@ FlowerVariationOds data
 	AP: ✔49
 -
 	theme: (spring purple) 703
-	AP: 100
+	AP: ✔100
 -
 	theme: (spring black) 707
 	AP: ✔15
@@ -41520,7 +41520,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (spring green) 708
-	AP: 95
+	AP: ✔95
 -
 	theme: (summer green) 717
 	AP: ✔40
@@ -41707,7 +41707,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (spring green) 708
-	AP: 15
+	AP: ✔15
 -
 	theme: (summer green) 717
 	AP: ✔25
@@ -41861,7 +41861,7 @@ FlowerVariationOds data
 	AP: ✔99
 -
 	theme: (spr pnk) 701
-	AP: 48
+	AP: ✔48
 -
 	theme: (winter red) 727
 	AP: 10
@@ -41945,7 +41945,7 @@ FlowerVariationOds data
 	AP: ✔61
 -
 	theme: (spring green) 708
-	AP: 35
+	AP: ✔35
 -
 	theme: (summer green) 717
 	AP: ✔36
@@ -42010,7 +42010,7 @@ FlowerVariationOds data
 	AP: ✔65
 -
 	theme: (spring green) 708
-	AP: 100
+	AP: ✔100
 -
 	theme: (summer green) 717
 	AP: ✔36
@@ -42312,7 +42312,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (spring green) 708
-	AP: 100
+	AP: ✔100
 -
 	theme: (summer green) 717
 	AP: ✔20
@@ -42499,7 +42499,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (spring yellow) 704
-	AP: 80
+	AP: ✔80|6
 -
 	theme: (spring orange) 705
 	AP: 85
@@ -42728,7 +42728,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-September-) 308
-	AP: 10
+	AP: ✔10
 -
 	theme: (TMF-October-) 309
 	AP: 10
@@ -43035,7 +43035,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (spring green) 708
-	AP: 65
+	AP: ✔65
  
 #427
 FlowerVariationOds data
@@ -45143,7 +45143,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (spring yellow) 704
-	AP: 100
+	AP: ✔100|4
 -
 	theme: (spring orange) 705
 	AP: 50
@@ -45230,7 +45230,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (spring yellow) 704
-	AP: 10
+	AP: ✔10
 -
 	theme: (spring orange) 705
 	AP: 10
@@ -45365,7 +45365,7 @@ FlowerVariationOds data
 	AP: 26
 -
 	theme: (spring yellow) 704
-	AP: 55
+	AP: ✔55
 -
 	theme: (spring orange) 705
 	AP: 25
@@ -46087,7 +46087,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (spring yellow) 704
-	AP: 88
+	AP: ✔88|4
 -
 	theme: (spring orange) 705
 	AP: 46
@@ -46654,7 +46654,7 @@ FlowerVariationOds data
 	AP: 4
 -
 	theme: (spr pnk) 701
-	AP: 2
+	AP: ✔2
 -
 	theme: (spring yellow) 704
 	AP: 55
@@ -50190,7 +50190,7 @@ FlowerVariationOds data
 	AP: 2
 -
 	theme: (spr pnk) 701
-	AP: 4
+	AP: ✔4
 -
 	theme: (winter red) 727
 	AP: 45
@@ -50620,7 +50620,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spring green) 708
-	AP: 11
+	AP: ✔11
  
 #502
 FlowerVariationOds data
@@ -51497,7 +51497,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (spring yellow) 704
-	AP: 55
+	AP: ✔55
 -
 	theme: (winter blue) 729
 	AP: 7
@@ -52460,7 +52460,7 @@ FlowerVariationOds data
 	AP: 23
 -
 	theme: (TMF-September-) 308
-	AP: 5
+	AP: ✔5
 -
 	theme: (TMF-October-) 309
 	AP: 5
@@ -52564,7 +52564,7 @@ FlowerVariationOds data
 	AP: ✔106
 -
 	theme: (TMF-September-) 308
-	AP: 11
+	AP: ✔11
 -
 	theme: (TMF-October-) 309
 	AP: 11
@@ -52676,7 +52676,7 @@ FlowerVariationOds data
 	AP: ✔106
 -
 	theme: (TMF-September-) 308
-	AP: 11
+	AP: ✔11
 -
 	theme: (TMF-October-) 309
 	AP: 11
@@ -53060,7 +53060,7 @@ FlowerVariationOds data
 	AP: ✔100
 -
 	theme: (spring yellow) 704
-	AP: 55
+	AP: ✔55
 -
 	theme: (spring white) 706
 	AP: 47
@@ -53981,7 +53981,7 @@ FlowerVariationOds data
 	AP: ✔25
 -
 	theme: (spr pnk) 701
-	AP: 50
+	AP: ✔50
 -
 	theme: (autumn red) 718
 	AP: 25
@@ -54870,7 +54870,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spring yellow) 704
-	AP: 25
+	AP: ✔25
 -
 	theme: (spring orange) 705
 	AP: 10
@@ -55048,7 +55048,7 @@ FlowerVariationOds data
 	AP: 34
 -
 	theme: (spr pnk) 701
-	AP: 75
+	AP: ✔75
  
 #550
 FlowerVariationOds data
@@ -55211,7 +55211,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (spring yellow) 704
-	AP: 25
+	AP: ✔25
 -
 	theme: (spring orange) 705
 	AP: 10
@@ -55303,7 +55303,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (spring yellow) 704
-	AP: 10
+	AP: ✔10
 -
 	theme: (spring orange) 705
 	AP: 25
@@ -55386,7 +55386,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (spring green) 708
-	AP: 46
+	AP: ✔46
  
 #554
 FlowerVariationOds data
@@ -55475,7 +55475,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spring yellow) 704
-	AP: 10
+	AP: ✔10
 -
 	theme: (spring orange) 705
 	AP: 25
@@ -55567,7 +55567,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spring green) 708
-	AP: 25
+	AP: ✔25
  
 #556
 FlowerVariationOds data
