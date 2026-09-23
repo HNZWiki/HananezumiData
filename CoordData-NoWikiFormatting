@@ -4320,7 +4320,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Manmaru moon) 404
-	AP: 55
+	AP:✔ 55|12
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 10
@@ -13979,7 +13979,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Manmaru moon) 404
-	AP: 55
+	AP:✔ 55|12
 -
 	theme: (Rabbit and eggs) 410
 	AP: 99
@@ -16697,7 +16697,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Manmaru moon) 404
-	AP: 55
+	AP:✔ 55|12
 -
 	theme: (Happy holiday) 406
 	AP:✔ 95
@@ -16911,7 +16911,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Manmaru moon) 404
-	AP: 70
+	AP:✔ 70|8
 -
 	theme: (healthy growth) 411
 	AP: 5
@@ -17036,7 +17036,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Manmaru moon) 404
-	AP: 70
+	AP:✔ 70|8
 -
 	theme: (two happiness) 413
 	AP: 5
@@ -17155,7 +17155,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Manmaru moon) 404
-	AP: 70
+	AP:✔ 70|8
 -
 	theme: (two happiness) 413
 	AP:✔ 4
@@ -19518,7 +19518,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (Manmaru moon) 404
-	AP: 55
+	AP:✔ 55|12
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 80
@@ -19643,7 +19643,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Manmaru moon) 404
-	AP: 55
+	AP:✔ 55|12
 -
 	theme: (two happiness) 413
 	AP:✔ 55
@@ -25007,7 +25007,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Manmaru moon) 404
-	AP: 60
+	AP:✔ 60|8
 -
 	theme: (Pumpkin and creepy night) 405
 	AP: 80
@@ -27646,7 +27646,7 @@ FlowerVariationOds data
 	AP:✔ 77
 -
 	theme: (Manmaru moon) 404
-	AP: 50
+	AP:✔ 50|8
 -
 	theme: (two happiness) 413
 	AP: 10
