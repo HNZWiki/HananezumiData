@@ -104,7 +104,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 20
@@ -199,7 +199,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP: 25
@@ -303,7 +303,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP: 34
@@ -395,7 +395,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP: 44
@@ -478,7 +478,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 90
@@ -6460,7 +6460,7 @@ FlowerVariationOds data
 	AP:✔ 70|12
 -
 	theme: (Doll's Festival) 408
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 25
@@ -6567,10 +6567,10 @@ FlowerVariationOds data
 	AP: 95
 -
 	theme: (Spring bright) 312
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Spring has come) 316
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Unbeaten by Rain) 320
 	AP: 100
@@ -6609,7 +6609,7 @@ FlowerVariationOds data
 	AP:✔ 77
 -
 	theme: (Color in the room) 603
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Flwrbed/garden) 604
 	AP: 5
@@ -6734,7 +6734,7 @@ FlowerVariationOds data
 	AP:✔ 77
 -
 	theme: (Color in the room) 603
-	AP: 56
+	AP:✔ 56
 -
 	theme: (SFB Spring) 606
 	AP:✔ 50
@@ -6856,7 +6856,7 @@ FlowerVariationOds data
 	AP:✔ 77
 -
 	theme: (Color in the room) 603
-	AP: 51
+	AP:✔ 51
 -
 	theme: (Flwrbed/garden) 604
 	AP: 5
@@ -6993,7 +6993,7 @@ FlowerVariationOds data
 	AP:✔ 77
 -
 	theme: (Color in the room) 603
-	AP: 58
+	AP:✔ 58|12
 -
 	theme: (Flwrbed/garden) 604
 	AP: 5
@@ -7136,7 +7136,7 @@ FlowerVariationOds data
 	AP:✔ 77
 -
 	theme: (Color in the room) 603
-	AP: 56
+	AP:✔ 56|12
 -
 	theme: (Flwrbed/garden) 604
 	AP: 5
@@ -7270,7 +7270,7 @@ FlowerVariationOds data
 	AP:✔ 77
 -
 	theme: (Color in the room) 603
-	AP: 51
+	AP:✔ 51
 -
 	theme: (Flwrbed/garden) 604
 	AP: 5
@@ -7924,7 +7924,7 @@ FlowerVariationOds data
 	AP: 86
 -
 	theme: (Doll's Festival) 408
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 10
@@ -8141,7 +8141,7 @@ FlowerVariationOds data
 	AP: 86
 -
 	theme: (Doll's Festival) 408
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 10
@@ -8248,7 +8248,7 @@ FlowerVariationOds data
 	AP: 86
 -
 	theme: (Doll's Festival) 408
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 10
@@ -9004,7 +9004,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔  81
@@ -9328,7 +9328,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Doll's Festival) 408
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 10
@@ -11255,7 +11255,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (spring red) 700
 	AP: 8
@@ -11389,7 +11389,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (spring red) 700
 	AP: 4
@@ -11514,7 +11514,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (spring blue) 702
 	AP: 4
@@ -12118,7 +12118,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Color in the room) 603
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Flwrbed/garden) 604
 	AP: 10
@@ -12222,7 +12222,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Color in the room) 603
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Flwrbed/garden) 604
 	AP: 10
@@ -12320,7 +12320,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Color in the room) 603
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Flwrbed/garden) 604
 	AP: 10
@@ -12409,7 +12409,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Color in the room) 603
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Flwrbed/garden) 604
 	AP: 10
@@ -16247,7 +16247,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP: 5
@@ -16366,7 +16366,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP: 3
@@ -16476,7 +16476,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP: 10
@@ -16589,7 +16589,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP: 11
@@ -16724,7 +16724,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP: 2
@@ -16822,7 +16822,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (spring green) 708
 	AP: 25
@@ -21901,7 +21901,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Doll's Festival) 408
-	AP: 99
+	AP:✔ 99
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -26820,7 +26820,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (TMF-October-) 309
-	AP: 50
+	AP:✔ 50|8
 -
 	theme: (Spring bright) 312
 	AP: 16
@@ -26912,7 +26912,7 @@ FlowerVariationOds data
 	AP: 64
 -
 	theme: (TMF-October-) 309
-	AP: 50
+	AP:✔ 50|8
 -
 	theme: (Spring bright) 312
 	AP: 16
@@ -27010,7 +27010,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (TMF-October-) 309
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Spring bright) 312
 	AP: 16
@@ -30246,7 +30246,7 @@ FlowerVariationOds data
 	AP: ❌100
 -
 	theme: (Color in the room) 603
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Veranda garden) 605
 	AP: 100
@@ -30333,7 +30333,7 @@ FlowerVariationOds data
 	AP: ❌100
 -
 	theme: (Color in the room) 603
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Veranda garden) 605
 	AP: 100
@@ -30417,7 +30417,7 @@ FlowerVariationOds data
 	AP: ❌100
 -
 	theme: (Color in the room) 603
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Veranda garden) 605
 	AP: 100
@@ -33131,7 +33131,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 51
@@ -33244,7 +33244,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 99
@@ -38860,7 +38860,7 @@ FlowerVariationOds data
 	AP:✔ 16
 -
 	theme: (Doll's Festival) 408
-	AP: 99
+	AP:✔ 99
 -
 	theme: (two happiness) 413
 	AP: z15
@@ -39204,7 +39204,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Doll's Festival) 408
-	AP: 95
+	AP:✔ 95
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 99
@@ -39299,7 +39299,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Doll's Festival) 408
-	AP: 95
+	AP:✔ 95
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 99
@@ -39397,7 +39397,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Doll's Festival) 408
-	AP: 95
+	AP:✔ 95
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 99
@@ -39456,7 +39456,7 @@ FlowerVariationOds data
 	AP:✔ 35
 -
 	theme: (TMF-October-) 309
-	AP: 95
+	AP: ✔95
 -
 	theme: (TMF-November-) 310
 	AP:✔ 95
@@ -39533,7 +39533,7 @@ FlowerVariationOds data
 	AP:✔ 35
 -
 	theme: (TMF-October-) 309
-	AP: 95
+	AP:✔ 95
 -
 	theme: (TMF-November-) 310
 	AP:✔ 95
@@ -40293,7 +40293,7 @@ FlowerVariationOds data
 	AP:✔ 65
 -
 	theme: (Let's send a cheer) 203
-	AP: 60
+	AP:✔ 60
 -
 	theme: (Winter Moon) 315
 	AP: 88
@@ -40385,7 +40385,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Doll's Festival) 408
-	AP: 96
+	AP:✔ 96
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 99
@@ -40480,7 +40480,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Doll's Festival) 408
-	AP: 96
+	AP:✔ 96
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 99
@@ -40572,7 +40572,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Doll's Festival) 408
-	AP: 96
+	AP:✔ 96
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 99
@@ -41097,7 +41097,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Doll's Festival) 408
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Rabbit and eggs) 410
 	AP: 5
@@ -41189,7 +41189,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Doll's Festival) 408
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Rabbit and eggs) 410
 	AP: 5
@@ -41279,7 +41279,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Doll's Festival) 408
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Rabbit and eggs) 410
 	AP: 5
@@ -41384,7 +41384,7 @@ FlowerVariationOds data
 
 -
 	theme: (Natural Green) 8
-	AP: 30
+	AP:✔ 30
 -
 	theme: (Let's send a cheer) 203
 	AP: 20
@@ -41416,7 +41416,7 @@ FlowerVariationOds data
 
 -
 	theme: (Natural Green) 8
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Let's send a cheer) 203
 	AP: 20
@@ -41451,7 +41451,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Natural Green) 8
-	AP: 35
+	AP:✔ 35
 -
 	theme: (Cute) 100
 	AP: 30
@@ -41635,7 +41635,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Natural Green) 8
-	AP: 15
+	AP:✔ 15
 -
 	theme: (Cute) 100
 	AP: 10
@@ -42033,7 +42033,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Natural Green) 8
-	AP: 34
+	AP:✔ 34
 -
 	theme: (Fresh) 108
 	AP: 3
@@ -43487,7 +43487,7 @@ FlowerVariationOds data
 	AP:✔ 33|4
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (autumn red) 718
 	AP: 5
@@ -43816,7 +43816,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Doll's Festival) 408
-	AP: 95
+	AP:✔ 95
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 99
@@ -45140,7 +45140,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (spring yellow) 704
 	AP:✔ 100|4
@@ -45227,7 +45227,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Gift to friends) 610
-	AP: 90
+	AP:✔ 90
 -
 	theme: (spring yellow) 704
 	AP:✔ 10
@@ -45326,7 +45326,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (Doll's Festival) 408
-	AP: 99
+	AP:✔ 99
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 20
@@ -45448,7 +45448,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (Doll's Festival) 408
-	AP: 99
+	AP:✔ 99
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 20
@@ -48750,7 +48750,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Doll's Festival) 408
-	AP: 99
+	AP:✔ 99
 -
 	theme: (theme N/A) 500
 	AP: ❌100
@@ -48869,7 +48869,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Doll's Festival) 408
-	AP: 99
+	AP:✔ 99
 -
 	theme: (theme N/A) 500
 	AP: ❌100
@@ -48991,7 +48991,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Doll's Festival) 408
-	AP: 99
+	AP:✔ 99
 -
 	theme: (theme N/A) 500
 	AP: ❌100
@@ -50382,7 +50382,7 @@ FlowerVariationOds data
 	AP: ❌100
 -
 	theme: (Color in the room) 603
-	AP: 65
+	AP:✔ 65
 -
 	theme: (Flwrbed/garden) 604
 	AP: 20
@@ -53106,7 +53106,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (TMF-October-) 309
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Autumn Roman) 314
 	AP:✔ 3
@@ -53194,7 +53194,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (TMF-October-) 309
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Autumn Roman) 314
 	AP:✔ 3
@@ -53276,7 +53276,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-October-) 309
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Autumn Roman) 314
 	AP:✔ 3
@@ -53367,7 +53367,7 @@ FlowerVariationOds data
 	AP:✔ 77
 -
 	theme: (Doll's Festival) 408
-	AP: 99
+	AP:✔ 99
 -
 	theme: (two happiness) 413
 	AP:✔ 97
@@ -53456,7 +53456,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Doll's Festival) 408
-	AP: 95
+	AP:✔ 95
 -
 	theme: (Dumpling over flowers ?) 409
 	AP: 99
@@ -53721,7 +53721,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Doll's Festival) 408
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Rabbit and eggs) 410
 	AP: 5
@@ -53762,9 +53762,7 @@ FlowerVariationOds data
 	theme: (winter red) 727
 	AP: 80
 - 
- 
-	theme: (winter black) 734
-	AP: 1
+
 #534
 FlowerVariationOds data
 	ID: 3501
@@ -54947,7 +54945,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (spring red) 700
 	AP:✔ 75
@@ -55042,7 +55040,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (spring red) 700
 	AP: 34
@@ -55125,7 +55123,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Gift to friends) 610
-	AP: 75
+	AP:✔ 75
 -
 	theme: (spring blue) 702
 	AP: 75
@@ -55208,7 +55206,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Gift to friends) 610
-	AP: 75
+	AP:✔ 75
 -
 	theme: (spring yellow) 704
 	AP:✔ 25
@@ -55300,7 +55298,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (spring yellow) 704
 	AP:✔ 10
@@ -55383,7 +55381,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Gift to friends) 610
-	AP: 50
+	AP:✔ 50
 -
 	theme: (spring green) 708
 	AP:✔ 46
