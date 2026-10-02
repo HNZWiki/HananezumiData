@@ -597,7 +597,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn orange) 723
-	AP: 21
+	AP:✔ 21|6
 -
 	theme: (winter red) 727
 	AP: 38
@@ -832,7 +832,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn blue) 720
-	AP: 38
+	AP:✔ 38
 -
 	theme: (autumn purpl) 721
 	AP:✔ 97
@@ -2069,7 +2069,7 @@ FlowerVariationOds data
 	AP:✔ 91
 -
 	theme: (Gift to lovers) 609
-	AP: 35
+	AP:✔ 35
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -2158,7 +2158,7 @@ FlowerVariationOds data
 	AP:✔ 91
 -
 	theme: (Veranda garden) 605
-	AP: 3
+	AP:✔ 3
 -
 	theme: (SFB Spring) 606
 	AP: 90
@@ -2199,7 +2199,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 75
+	AP:✔ 75|12
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -2259,7 +2259,7 @@ FlowerVariationOds data
 	AP:✔ 91
 -
 	theme: (Veranda garden) 605
-	AP: 3
+	AP:✔ 3
 -
 	theme: (SFB Spring) 606
 	AP: 90
@@ -2340,7 +2340,7 @@ FlowerVariationOds data
 	AP: 56
 -
 	theme: (TMF-March-) 302
-	AP: 78
+	AP:✔ 78
 -
 	theme: (TMF-April-) 303
 	AP:✔ 83
@@ -2429,7 +2429,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (Pure white) 6
-	AP: 22
+	AP:✔ 22|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -2462,7 +2462,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (TMF-March-) 302
-	AP: 78
+	AP:✔ 78
 -
 	theme: (TMF-April-) 303
 	AP:✔ 83
@@ -2513,7 +2513,7 @@ FlowerVariationOds data
 	AP: 95
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50|12
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 60
@@ -2566,7 +2566,7 @@ FlowerVariationOds data
 	AP: 65
 -
 	theme: (TMF-March-) 302
-	AP: 78
+	AP:✔ 78
 -
 	theme: (TMF-April-) 303
 	AP:✔ 83
@@ -2682,7 +2682,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (TMF-March-) 302
-	AP: 78
+	AP:✔ 78
 -
 	theme: (TMF-April-) 303
 	AP:✔ 83
@@ -2810,7 +2810,7 @@ FlowerVariationOds data
 	AP:✔ 81
 -
 	theme: (TMF-March-) 302
-	AP: 78
+	AP:✔ 78
 -
 	theme: (TMF-April-) 303
 	AP:✔ 83
@@ -2890,7 +2890,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 96
+	AP:✔ 96
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -2917,7 +2917,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (TMF-March-) 302
-	AP: 78
+	AP:✔ 78
 -
 	theme: (TMF-April-) 303
 	AP:✔ 83
@@ -2977,7 +2977,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (spring white) 706
-	AP: 90
+	AP:✔ 90
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -3030,7 +3030,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (TMF-March-) 302
-	AP: 78
+	AP:✔ 78
 -
 	theme: (TMF-April-) 303
 	AP:✔ 83
@@ -3113,7 +3113,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Natural Green) 8
 	AP:✔ 72
@@ -3134,7 +3134,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (TMF-March-) 302
-	AP: 78
+	AP:✔ 78
 -
 	theme: (TMF-April-) 303
 	AP:✔ 83
@@ -3247,7 +3247,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (TMF-March-) 302
-	AP: 45
+	AP:✔ 45
 -
 	theme: (TMF-April-) 303
 	AP: 45
@@ -3366,7 +3366,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (TMF-March-) 302
-	AP: 45
+	AP:✔ 45
 -
 	theme: (TMF-April-) 303
 	AP: 45
@@ -3449,7 +3449,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Pure white) 6
-	AP: 82
+	AP:✔ 82
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -3479,7 +3479,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (TMF-March-) 302
-	AP: 45
+	AP:✔ 45
 -
 	theme: (TMF-April-) 303
 	AP: 45
@@ -3913,7 +3913,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Pure white) 6
-	AP: 74
+	AP:✔ 74
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -4065,10 +4065,10 @@ FlowerVariationOds data
 	AP: 43
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
-	AP: 30
+	AP:✔ 30|6
  
 #38
 FlowerVariationOds data
@@ -4163,7 +4163,7 @@ FlowerVariationOds data
 	AP:✔ 86
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -4189,7 +4189,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Pure white) 6
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -4249,7 +4249,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn yellow) 722
 	AP:✔ 100|6
@@ -4350,7 +4350,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn yellow) 722
 	AP: 50
@@ -4376,7 +4376,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 70
+	AP:✔ 70
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -4445,7 +4445,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn blue) 720
-	AP: 5
+	AP:✔ 5|6
 -
 	theme: (autumn yellow) 722
 	AP: 63
@@ -4682,7 +4682,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 72
+	AP:✔ 72
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -4970,7 +4970,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Pure white) 6
-	AP: 12
+	AP:✔ 12
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -5018,7 +5018,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (Gift to lovers) 609
-	AP: 55
+	AP:✔ 55
 -
 	theme: (spring red) 700
 	AP: 7
@@ -5322,7 +5322,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (Gift to lovers) 609
-	AP: 35
+	AP:✔ 35
 -
 	theme: (spring yellow) 704
 	AP: 44
@@ -5360,7 +5360,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Pure white) 6
-	AP: 95
+	AP:✔ 95
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -5435,7 +5435,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (spring white) 706
-	AP: 40
+	AP:✔ 40
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -5543,7 +5543,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP: 24
@@ -5635,7 +5635,7 @@ FlowerVariationOds data
 	AP:✔ 71|4
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -5718,7 +5718,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn purpl) 721
 	AP:✔ 47
@@ -5801,7 +5801,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn yellow) 722
 	AP:✔ 40|4
@@ -5893,7 +5893,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP:✔ 69|4
@@ -5919,7 +5919,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 75
+	AP:✔ 75
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -5970,7 +5970,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn blue) 720
-	AP: 5
+	AP:✔ 5
 -
 	theme: (autumn yellow) 722
 	AP: 12
@@ -6080,7 +6080,7 @@ FlowerVariationOds data
 	AP:✔ 82
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -6618,7 +6618,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 90
@@ -6740,7 +6740,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -7020,7 +7020,7 @@ FlowerVariationOds data
 	AP:✔ 95|6
 -
 	theme: (autumn orange) 723
-	AP: 47
+	AP:✔ 47|6
 -
 	theme: (autumn white) 724
 	AP:✔ 20
@@ -7046,7 +7046,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Pure white) 6
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -7183,7 +7183,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -7279,7 +7279,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -7288,7 +7288,7 @@ FlowerVariationOds data
 	AP:✔ 87
 -
 	theme: (spring white) 706
-	AP: 93
+	AP:✔ 93
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -7407,7 +7407,7 @@ FlowerVariationOds data
 	AP:✔  50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 88
@@ -7585,7 +7585,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (TMF-March-) 302
-	AP: 96
+	AP:✔ 96
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -7692,7 +7692,7 @@ FlowerVariationOds data
 	AP:✔ 33
 -
 	theme: (TMF-March-) 302
-	AP: 96
+	AP:✔ 96
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -7799,7 +7799,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (TMF-March-) 302
-	AP: 96
+	AP:✔ 96
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -7906,7 +7906,7 @@ FlowerVariationOds data
 	AP: 60
 -
 	theme: (TMF-March-) 302
-	AP: 96
+	AP:✔ 96
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -8013,7 +8013,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (TMF-March-) 302
-	AP: 96
+	AP:✔ 96
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -8123,7 +8123,7 @@ FlowerVariationOds data
 	AP: 51
 -
 	theme: (TMF-March-) 302
-	AP: 96
+	AP:✔ 96
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -8230,7 +8230,7 @@ FlowerVariationOds data
 	AP:✔ 60
 -
 	theme: (TMF-March-) 302
-	AP: 96
+	AP:✔ 96
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -8284,7 +8284,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (spring white) 706
-	AP: 97
+	AP:✔ 97
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -8337,7 +8337,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 96
+	AP:✔ 96
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -8501,7 +8501,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Veranda garden) 605
-	AP: 5
+	AP:✔ 5
 -
 	theme: (SFB Spring) 606
 	AP: ✔90
@@ -8620,7 +8620,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Veranda garden) 605
-	AP: 5
+	AP:✔ 5
 -
 	theme: (SFB Spring) 606
 	AP: 90
@@ -8742,7 +8742,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Veranda garden) 605
-	AP: 5
+	AP:✔ 5
 -
 	theme: (SFB Spring) 606
 	AP: 70
@@ -8870,7 +8870,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Veranda garden) 605
-	AP: 5
+	AP:✔ 5
 -
 	theme: (SFB Spring) 606
 	AP: 90
@@ -8995,7 +8995,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Veranda garden) 605
-	AP: 5
+	AP:✔ 5
 -
 	theme: (SFB Spring) 606
 	AP: 70
@@ -9126,7 +9126,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Veranda garden) 605
-	AP: 5
+	AP:✔ 5
 -
 	theme: (SFB Spring) 606
 	AP: 70
@@ -9141,7 +9141,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (spring white) 706
-	AP: 94
+	AP:✔ 94
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -9307,7 +9307,7 @@ FlowerVariationOds data
 	AP: 33
 -
 	theme: (TMF-March-) 302
-	AP: 97
+	AP:✔ 97
 -
 	theme: (TMF-April-) 303
 	AP:✔ 97
@@ -9619,7 +9619,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (TMF-March-) 302
-	AP: 56
+	AP:✔ 56
 -
 	theme: (TMF-April-) 303
 	AP:✔ 60|4
@@ -9729,7 +9729,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (TMF-March-) 302
-	AP: 56
+	AP:✔ 56
 -
 	theme: (TMF-April-) 303
 	AP:✔ 60|4
@@ -9783,7 +9783,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (spring white) 706
-	AP: 38
+	AP:✔ 38
 -
 	theme: (summer white) 715
 	AP: 25
@@ -10317,7 +10317,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (spring white) 706
-	AP: 92
+	AP:✔ 92
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -10364,7 +10364,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 56
+	AP:✔ 56
 -
 	theme: (TMF-April-) 303
 	AP:✔ 60|4
@@ -10409,7 +10409,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (spring white) 706
-	AP: 96
+	AP:✔ 96
 -
 	theme: (summer white) 715
 	AP: 20
@@ -11165,7 +11165,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Fresh Yellow) 4
 	AP: 3
@@ -11782,7 +11782,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (autumn orange) 723
-	AP: 43
+	AP:✔ 43|4
 -
 	theme: (autumn green) 726
 	AP: 15
@@ -13105,7 +13105,7 @@ FlowerVariationOds data
 	AP:✔ 78
 -
 	theme: (Gift to lovers) 609
-	AP: 35
+	AP:✔ 35
 -
 	theme: (Gift to friends) 610
 	AP:✔ 100
@@ -13215,7 +13215,7 @@ FlowerVariationOds data
 	AP:✔ 71
 -
 	theme: (Gift to lovers) 609
-	AP: 35
+	AP:✔ 35
 -
 	theme: (Gift to friends) 610
 	AP: 5
@@ -13354,7 +13354,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -14223,7 +14223,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50|4
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 99
@@ -14309,7 +14309,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 99
@@ -14389,7 +14389,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 99
@@ -14903,7 +14903,7 @@ FlowerVariationOds data
 	AP:✔ 47
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn purpl) 721
 	AP:✔ 22
@@ -15990,7 +15990,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (spring white) 706
-	AP: 40
+	AP:✔ 40
 -
 	theme: (autumn blue) 720
 	AP:✔ 62
@@ -16205,7 +16205,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (TMF-March-) 302
-	AP: 66
+	AP:✔ 66
 -
 	theme: (TMF-April-) 303
 	AP: 60
@@ -16327,7 +16327,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (TMF-March-) 302
-	AP: 66
+	AP:✔ 66
 -
 	theme: (TMF-April-) 303
 	AP: 60
@@ -16434,7 +16434,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (TMF-March-) 302
-	AP: 66
+	AP:✔ 66
 -
 	theme: (TMF-April-) 303
 	AP: 60
@@ -16550,7 +16550,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (TMF-March-) 302
-	AP: 66
+	AP:✔ 66
 -
 	theme: (TMF-April-) 303
 	AP: 60
@@ -16682,7 +16682,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (TMF-March-) 302
-	AP: 66
+	AP:✔ 66
 -
 	theme: (TMF-April-) 303
 	AP: 60
@@ -16786,7 +16786,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (TMF-March-) 302
-	AP: 66
+	AP:✔ 66
 -
 	theme: (TMF-April-) 303
 	AP: 60
@@ -17239,7 +17239,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (TMF-March-) 302
-	AP: 13
+	AP:✔ 13
 -
 	theme: (TMF-September-) 308
 	AP:✔ 70
@@ -17364,7 +17364,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (TMF-March-) 302
-	AP: 13
+	AP:✔ 13
 -
 	theme: (TMF-September-) 308
 	AP:✔ 70
@@ -17477,7 +17477,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (TMF-March-) 302
-	AP: 13
+	AP:✔ 13
 -
 	theme: (TMF-September-) 308
 	AP:✔ 70
@@ -17540,7 +17540,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (autumn blue) 720
-	AP: 21
+	AP:✔ 21
 -
 	theme: (autumn purpl) 721
 	AP:✔ 42
@@ -17594,7 +17594,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (TMF-March-) 302
-	AP: 13
+	AP:✔ 13
 -
 	theme: (TMF-September-) 308
 	AP:✔ 70
@@ -17663,10 +17663,10 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (autumn yellow) 722
-	AP: 42
+	AP:✔ 42|4
 -
 	theme: (autumn orange) 723
-	AP: 21
+	AP:✔ 21
 -
 	theme: (winter red) 727
 	AP: 80
@@ -17725,7 +17725,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (TMF-March-) 302
-	AP: 13
+	AP:✔ 13
 -
 	theme: (TMF-September-) 308
 	AP:✔ 70
@@ -17845,7 +17845,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (TMF-March-) 302
-	AP: 94
+	AP:✔ 94|4
 -
 	theme: (Winter Moon) 315
 	AP: 81
@@ -17944,7 +17944,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (TMF-March-) 302
-	AP: 94
+	AP:✔ 94  4
 -
 	theme: (Winter Moon) 315
 	AP: 81
@@ -18239,7 +18239,7 @@ FlowerVariationOds data
 	AP: 18
 -
 	theme: (TMF-March-) 302
-	AP: 18
+	AP:✔ 18
 -
 	theme: (TMF-December-) 311
 	AP: 97
@@ -18343,7 +18343,7 @@ FlowerVariationOds data
 	AP: 18
 -
 	theme: (TMF-March-) 302
-	AP: 18
+	AP:✔ 18
 -
 	theme: (TMF-December-) 311
 	AP: 97
@@ -18453,7 +18453,7 @@ FlowerVariationOds data
 	AP: 18
 -
 	theme: (TMF-March-) 302
-	AP: 18
+	AP:✔ 18
 -
 	theme: (TMF-December-) 311
 	AP: 97
@@ -18659,7 +18659,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (TMF-March-) 302
-	AP: 66
+	AP:✔ 66
 -
 	theme: (TMF-April-) 303
 	AP: 60
@@ -19441,7 +19441,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (autumn yellow) 722
-	AP: 50
+	AP:✔ 50|6
 -
 	theme: (autumn orange) 723
 	AP:✔ 25
@@ -21150,10 +21150,10 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (autumn yellow) 722
-	AP: 40
+	AP:✔ 40
 -
 	theme: (autumn orange) 723
-	AP: 20
+	AP:✔ 20|6
  
 #195
 FlowerVariationOds data
@@ -21275,7 +21275,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (autumn orange) 723
-	AP: 40
+	AP:✔ 40|6
  
 #196
 FlowerVariationOds data
@@ -21456,7 +21456,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn orange) 723
-	AP: 27
+	AP:✔ 27|4
  
 #198
 FlowerVariationOds data
@@ -21536,7 +21536,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn yellow) 722
-	AP: 5
+	AP:✔ 5|4
 -
 	theme: (autumn orange) 723
 	AP:✔ 28
@@ -22136,7 +22136,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (spring white) 706
-	AP: 40
+	AP:✔ 40
 -
 	theme: (summer white) 715
 	AP:✔ 40
@@ -22145,7 +22145,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (autumn yellow) 722
-	AP: 86
+	AP:✔ 86
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -22237,7 +22237,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Gift to lovers) 609
-	AP: 55
+	AP:✔ 55
 -
 	theme: (autumn red) 718
 	AP: 51
@@ -22391,7 +22391,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (TMF-March-) 302
-	AP: 95
+	AP:✔ 95|8
 -
 	theme: (TMF-April-) 303
 	AP:✔ 95
@@ -22475,7 +22475,7 @@ FlowerVariationOds data
 	AP: 64
 -
 	theme: (TMF-March-) 302
-	AP: 64
+	AP:✔ 64|8
 -
 	theme: (TMF-April-) 303
 	AP: 64
@@ -22508,7 +22508,7 @@ FlowerVariationOds data
 	AP:✔ 64
 -
 	theme: (autumn blue) 720
-	AP: 5
+	AP:✔ 5|4
 -
 	theme: (winter pink) 728
 	AP: 10
@@ -22559,7 +22559,7 @@ FlowerVariationOds data
 	AP: 64
 -
 	theme: (TMF-March-) 302
-	AP: 64
+	AP:✔ 64|8
 -
 	theme: (TMF-April-) 303
 	AP: 64
@@ -23091,7 +23091,7 @@ FlowerVariationOds data
 	AP: 21
 -
 	theme: (TMF-March-) 302
-	AP: 93
+	AP:✔ 93
 -
 	theme: (TMF-April-) 303
 	AP:✔ 93
@@ -23335,7 +23335,7 @@ FlowerVariationOds data
 	AP:✔ 56
 -
 	theme: (TMF-March-) 302
-	AP: 93
+	AP:✔ 93
 -
 	theme: (TMF-April-) 303
 	AP:✔ 93
@@ -23454,7 +23454,7 @@ FlowerVariationOds data
 	AP:✔ 43
 -
 	theme: (TMF-March-) 302
-	AP: 93
+	AP:✔ 93
 -
 	theme: (TMF-April-) 303
 	AP:✔ 93
@@ -23561,7 +23561,7 @@ FlowerVariationOds data
 	AP:✔ 21
 -
 	theme: (TMF-March-) 302
-	AP: 93
+	AP:✔ 93
 -
 	theme: (TMF-April-) 303
 	AP:✔ 93
@@ -23665,7 +23665,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (TMF-March-) 302
-	AP: 93
+	AP:✔ 93
 -
 	theme: (TMF-April-) 303
 	AP:✔ 93
@@ -23722,7 +23722,7 @@ FlowerVariationOds data
 	AP: 87
 -
 	theme: (spring white) 706
-	AP: 98
+	AP:✔ 98
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -23772,7 +23772,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (TMF-March-) 302
-	AP: 5
+	AP:✔ 5
 -
 	theme: (TMF-April-) 303
 	AP: 5
@@ -23844,7 +23844,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP: 44
@@ -23909,7 +23909,7 @@ FlowerVariationOds data
 	AP:✔ 89
 -
 	theme: (TMF-March-) 302
-	AP: 5
+	AP:✔ 5
 -
 	theme: (TMF-April-) 303
 	AP: 5
@@ -24040,7 +24040,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 5
+	AP:✔ 5
 -
 	theme: (TMF-April-) 303
 	AP: 5
@@ -24171,7 +24171,7 @@ FlowerVariationOds data
 	AP: 2
 -
 	theme: (TMF-March-) 302
-	AP: 5
+	AP:✔ 5
 -
 	theme: (TMF-April-) 303
 	AP: 5
@@ -24252,7 +24252,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (autumn yellow) 722
-	AP: 48
+	AP:✔ 48|4
 -
 	theme: (autumn orange) 723
 	AP: 24
@@ -24305,7 +24305,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (TMF-March-) 302
-	AP: 5
+	AP:✔ 5
 -
 	theme: (TMF-April-) 303
 	AP: 5
@@ -24395,7 +24395,7 @@ FlowerVariationOds data
 	AP: 24
 -
 	theme: (autumn orange) 723
-	AP: 48
+	AP:✔ 48
 -
 	theme: (autumn green) 726
 	AP: 30
@@ -24445,7 +24445,7 @@ FlowerVariationOds data
 	AP: 44
 -
 	theme: (TMF-March-) 302
-	AP: 5
+	AP:✔ 5
 -
 	theme: (TMF-April-) 303
 	AP: 5
@@ -24523,7 +24523,7 @@ FlowerVariationOds data
 	AP: 78
 -
 	theme: (spring white) 706
-	AP: 66
+	AP:✔ 66
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -24573,7 +24573,7 @@ FlowerVariationOds data
 	AP:✔ 66
 -
 	theme: (TMF-March-) 302
-	AP: 5
+	AP:✔ 5
 -
 	theme: (TMF-April-) 303
 	AP: 5
@@ -24752,7 +24752,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (spring white) 706
-	AP: 99
+	AP:✔ 99
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -26473,7 +26473,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (spring white) 706
-	AP: 96
+	AP:✔ 96
 -
 	theme: (summer white) 715
 	AP:✔ 89
@@ -27052,7 +27052,7 @@ FlowerVariationOds data
 	AP:✔ 37
 -
 	theme: (autumn yellow) 722
-	AP: 57
+	AP:✔ 57
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -27340,7 +27340,7 @@ FlowerVariationOds data
 	AP:✔ 59
 -
 	theme: (autumn yellow) 722
-	AP: 81
+	AP:✔ 81
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -27444,7 +27444,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Gift to lovers) 609
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -27560,7 +27560,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Gift to lovers) 609
-	AP: 60
+	AP:✔ 60
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -27670,7 +27670,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Gift to lovers) 609
-	AP: 70
+	AP:✔ 70
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -27679,7 +27679,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn purpl) 721
 	AP:✔ 75
@@ -27887,7 +27887,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -27899,7 +27899,7 @@ FlowerVariationOds data
 	AP:✔ 45
 -
 	theme: (autumn yellow) 722
-	AP: 63
+	AP:✔ 63
 -
 	theme: (autumn orange) 723
 	AP:✔ 5|4
@@ -28068,7 +28068,7 @@ FlowerVariationOds data
 	AP:✔ 31
 -
 	theme: (autumn yellow) 722
-	AP: 59
+	AP:✔ 59
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -28163,7 +28163,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP: 25
@@ -28252,7 +28252,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP: 23
@@ -28350,7 +28350,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP: 26
@@ -28460,7 +28460,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP: 24
@@ -28564,7 +28564,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP: 76
@@ -28656,7 +28656,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -28751,7 +28751,7 @@ FlowerVariationOds data
 	AP: 35
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP: 21
@@ -28837,7 +28837,7 @@ FlowerVariationOds data
 	AP:✔ 73|6
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -28914,7 +28914,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn purpl) 721
 	AP:✔ 78
@@ -29065,7 +29065,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 10
+	AP:✔ 10
 -
 	theme: (TMF-April-) 303
 	AP: 10
@@ -29172,7 +29172,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 10
+	AP:✔ 10
 -
 	theme: (TMF-April-) 303
 	AP: 10
@@ -29276,7 +29276,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 10
+	AP:✔ 10
 -
 	theme: (TMF-April-) 303
 	AP: 10
@@ -29377,7 +29377,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 10
+	AP:✔ 10
 -
 	theme: (TMF-April-) 303
 	AP: 10
@@ -29475,7 +29475,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 10
+	AP:✔ 10
 -
 	theme: (TMF-April-) 303
 	AP: 10
@@ -29583,7 +29583,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (TMF-March-) 302
-	AP: 10
+	AP:✔ 10
 -
 	theme: (TMF-April-) 303
 	AP: 10
@@ -29684,7 +29684,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (TMF-March-) 302
-	AP: 8
+	AP:✔ 8
 -
 	theme: (TMF-April-) 303
 	AP: 8
@@ -29720,7 +29720,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50|8
 -
 	theme: (spring red) 700
 	AP: 8
@@ -29797,7 +29797,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (TMF-March-) 302
-	AP: 8
+	AP:✔ 8
 -
 	theme: (TMF-April-) 303
 	AP: 8
@@ -29907,7 +29907,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (TMF-March-) 302
-	AP: 8
+	AP:✔ 8
 -
 	theme: (TMF-April-) 303
 	AP: 8
@@ -30021,7 +30021,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (TMF-March-) 302
-	AP: 8
+	AP:✔ 8
 -
 	theme: (TMF-April-) 303
 	AP: 8
@@ -30126,7 +30126,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (TMF-March-) 302
-	AP: 8
+	AP:✔ 8
 -
 	theme: (TMF-April-) 303
 	AP: 8
@@ -31163,7 +31163,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Gift to lovers) 609
-	AP: 60
+	AP:✔ 60
 -
 	theme: (Gift to friends) 610
 	AP: 10
@@ -31255,7 +31255,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Gift to lovers) 609
-	AP: 60
+	AP:✔ 60
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 60
@@ -31448,7 +31448,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (spring white) 706
-	AP: 23
+	AP:✔ 23|6
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -31534,7 +31534,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Gift to lovers) 609
-	AP: 66
+	AP:✔ 66|12
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 68
@@ -32119,7 +32119,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (spring white) 706
-	AP: 35
+	AP:✔ 35|6
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -32211,7 +32211,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Veranda garden) 605
-	AP: 50
+	AP:✔ 50
 -
 	theme: (SFB Spring) 606
 	AP: 35
@@ -32306,7 +32306,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Veranda garden) 605
-	AP: 50
+	AP:✔ 50
 -
 	theme: (SFB Spring) 606
 	AP: 35
@@ -32315,7 +32315,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (spring white) 706
-	AP: 97
+	AP:✔ 97|6
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -32398,7 +32398,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Veranda garden) 605
-	AP: 50
+	AP:✔ 50
 -
 	theme: (SFB Spring) 606
 	AP: 35
@@ -33627,7 +33627,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Veranda garden) 605
-	AP: 5
+	AP:✔ 5
 -
 	theme: (SFB Autumn) 608
 	AP:✔ 15
@@ -33877,7 +33877,7 @@ FlowerVariationOds data
 	AP:✔ 5
 -
 	theme: (autumn blue) 720
-	AP: 20
+	AP:✔ 20
 -
 	theme: (autumn purpl) 721
 	AP:✔ 39
@@ -33978,7 +33978,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn blue) 720
-	AP: 5
+	AP:✔ 5
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -35092,7 +35092,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (winter red) 727
 	AP: 50
@@ -35666,7 +35666,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (spring white) 706
-	AP: 43
+	AP:✔ 43|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -35917,7 +35917,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (spring white) 706
-	AP: 58
+	AP:✔ 58|6
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -35991,6 +35991,7 @@ FlowerVariationOds data
 -
 	theme: (spring green) 708
 	AP:✔ 58
+
 #342
 FlowerVariationOds data
 	ID: 343
@@ -36063,7 +36064,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Veranda garden) 605
-	AP: 33
+	AP:✔ 33
 -
 	theme: (SFB Spring) 606
 	AP: 15
@@ -36151,7 +36152,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Veranda garden) 605
-	AP: 33
+	AP:✔ 33
 -
 	theme: (SFB Spring) 606
 	AP: 15
@@ -36167,6 +36168,7 @@ FlowerVariationOds data
 -
 	theme: (autumn blue) 720
 	AP: 5
+
 #344
 FlowerVariationOds data
 	ID: 345
@@ -36239,7 +36241,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Veranda garden) 605
-	AP: 33
+	AP:✔ 33
 -
 	theme: (SFB Spring) 606
 	AP: 15
@@ -36330,7 +36332,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Veranda garden) 605
-	AP: 33
+	AP:✔ 33
 -
 	theme: (SFB Spring) 606
 	AP: 15
@@ -36424,7 +36426,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Veranda garden) 605
-	AP: 33
+	AP:✔ 33
 -
 	theme: (SFB Spring) 606
 	AP: 15
@@ -36506,7 +36508,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Veranda garden) 605
-	AP: 33
+	AP:✔ 33
 -
 	theme: (SFB Spring) 606
 	AP: 10
@@ -36947,6 +36949,7 @@ FlowerVariationOds data
 -
 	theme: (autumn orange) 723
 	AP: 23
+
 #353
 FlowerVariationOds data
 	ID: 354
@@ -37022,7 +37025,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Gift to lovers) 609
-	AP: 65
+	AP:✔ 65|8
 -
 	theme: (Wedd. bouquet) 611
 	AP: 40
@@ -37098,13 +37101,13 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Veranda garden) 605
-	AP: 3
+	AP:✔ 3
 -
 	theme: (SFB Autumn) 608
 	AP:✔ 10
 -
 	theme: (Gift to lovers) 609
-	AP: 65
+	AP:✔ 65|8
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 55
@@ -37120,6 +37123,7 @@ FlowerVariationOds data
 -
 	theme: (autumn black) 725
 	AP: 64
+
 #355
 FlowerVariationOds data
 	ID: 356
@@ -37201,7 +37205,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Veranda garden) 605
-	AP: 3
+	AP:✔ 3
 -
 	theme: (SFB Autumn) 608
 	AP:✔ 10
@@ -37216,7 +37220,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (autumn orange) 723
-	AP: 29
+	AP:✔ 29|4
 -
 	theme: (autumn white) 724
 	AP: 20
@@ -37299,7 +37303,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Veranda garden) 605
-	AP: 3
+	AP:✔ 3
 -
 	theme: (SFB Autumn) 608
 	AP:✔ 10
@@ -37384,7 +37388,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Veranda garden) 605
-	AP: 3
+	AP:✔ 3
 -
 	theme: (SFB Autumn) 608
 	AP:✔ 10
@@ -37508,7 +37512,7 @@ FlowerVariationOds data
 	AP:✔ 95
 -
 	theme: (Gift to lovers) 609
-	AP: 55
+	AP:✔ 55|12
 -
 	theme: (Wedd. bouquet) 611
 	AP: 55
@@ -37641,7 +37645,7 @@ FlowerVariationOds data
 	AP:✔ 95
 -
 	theme: (Gift to lovers) 609
-	AP: 90
+	AP:✔ 90|12
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 85
@@ -37777,7 +37781,7 @@ FlowerVariationOds data
 	AP:✔ 95
 -
 	theme: (Gift to lovers) 609
-	AP: 90
+	AP:✔ 90
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 81
@@ -37919,7 +37923,7 @@ FlowerVariationOds data
 	AP:✔ 95
 -
 	theme: (Gift to lovers) 609
-	AP: 75
+	AP:✔ 75|12
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 76
@@ -38046,13 +38050,13 @@ FlowerVariationOds data
 	AP:✔ 95
 -
 	theme: (Gift to lovers) 609
-	AP: 55
+	AP:✔ 55|12
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 99
 -
 	theme: (spring white) 706
-	AP: 40
+	AP:✔ 40|6
 -
 	theme: (autumn blue) 720
 	AP: 5
@@ -38588,7 +38592,7 @@ FlowerVariationOds data
 	AP:✔ 52|4
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -38733,7 +38737,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn purpl) 721
 	AP:✔ 59
@@ -38807,7 +38811,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -39151,7 +39155,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (spring white) 706
-	AP: 97
+	AP:✔ 97
  
 #376
 FlowerVariationOds data
@@ -39326,7 +39330,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (spring white) 706
-	AP: 60
+	AP:✔ 60 8
 -
 	theme: (autumn red) 718
 	AP: 34
@@ -39421,7 +39425,7 @@ FlowerVariationOds data
 	AP: 35
 -
 	theme: (spring white) 706
-	AP: 99
+	AP:✔ 99
 -
 	theme: (winter red) 727
 	AP: 10
@@ -39483,7 +39487,7 @@ FlowerVariationOds data
 	AP: 71
 -
 	theme: (autumn blue) 720
-	AP: 31
+	AP:✔ 31
 -
 	theme: (autumn purpl) 721
 	AP: 5
@@ -39560,7 +39564,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (autumn blue) 720
-	AP: 25
+	AP:✔ 25|8
 -
 	theme: (autumn purpl) 721
 	AP:✔ 5
@@ -39637,7 +39641,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (summer black) 716
-	AP: 80
+	AP:✔ 80
 -
 	theme: (autumn red) 718
 	AP:✔ 100
@@ -39646,7 +39650,7 @@ FlowerVariationOds data
 	AP: 38
 -
 	theme: (autumn blue) 720
-	AP: 32
+	AP:✔ 32
 -
 	theme: (autumn purpl) 721
 	AP: 5
@@ -39655,7 +39659,7 @@ FlowerVariationOds data
 	AP: 52
 -
 	theme: (autumn orange) 723
-	AP: 90
+	AP:✔ 90
 -
 	theme: (autumn white) 724
 	AP:✔ 20
@@ -39717,7 +39721,7 @@ FlowerVariationOds data
 	AP: 76
 -
 	theme: (autumn blue) 720
-	AP: 33
+	AP:✔ 33
 -
 	theme: (autumn purpl) 721
 	AP: 5
@@ -39794,7 +39798,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (autumn blue) 720
-	AP: 34
+	AP:✔ 34
 -
 	theme: (autumn purpl) 721
 	AP: 5
@@ -40507,7 +40511,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (spring white) 706
-	AP: 63
+	AP:✔ 63|8
 -
 	theme: (autumn red) 718
 	AP: 38
@@ -40596,7 +40600,7 @@ FlowerVariationOds data
 	AP: 35
 -
 	theme: (spring white) 706
-	AP: 99
+	AP:✔ 99|8
 -
 	theme: (winter pink) 728
 	AP: 30
@@ -41662,7 +41666,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (TMF-May-) 304
-	AP: 15
+	AP:✔ 15|20
 -
 	theme: (Spring bright) 312
 	AP: 15
@@ -41757,7 +41761,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (TMF-May-) 304
-	AP: 15
+	AP:✔ 15|20
 -
 	theme: (Spring bright) 312
 	AP: 15
@@ -42416,7 +42420,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn yellow) 722
-	AP: 98
+	AP:✔ 98
 -
 	theme: (autumn orange) 723
 	AP: 49
@@ -42549,7 +42553,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (TMF-March-) 302
-	AP: 15
+	AP:✔ 15|4
 -
 	theme: (TMF-April-) 303
 	AP: 18
@@ -42678,7 +42682,7 @@ FlowerVariationOds data
 	AP:✔ 33
 -
 	theme: (spring white) 706
-	AP: 80
+	AP:✔ 80|2
 -
 	theme: (summer white) 715
 	AP:✔ 88
@@ -42782,7 +42786,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (autumn blue) 720
-	AP: 10
+	AP:✔ 10
 -
 	theme: (autumn purpl) 721
 	AP: 5
@@ -42948,7 +42952,7 @@ FlowerVariationOds data
 	AP: 32
 -
 	theme: (autumn blue) 720
-	AP: 10
+	AP:✔ 10
 -
 	theme: (autumn purpl) 721
 	AP: 5
@@ -43177,7 +43181,7 @@ FlowerVariationOds data
 	AP:✔ 46|2
 -
 	theme: (autumn blue) 720
-	AP: 10
+	AP:✔ 10
 -
 	theme: (autumn purpl) 721
 	AP: 5
@@ -43287,13 +43291,13 @@ FlowerVariationOds data
 	AP:✔ 55|2
 -
 	theme: (autumn blue) 720
-	AP: 20
+	AP:✔ 20|2
 -
 	theme: (autumn purpl) 721
 	AP: 5
 -
 	theme: (autumn yellow) 722
-	AP: 80
+	AP:✔ 80
 -
 	theme: (autumn orange) 723
 	AP: 90
@@ -43386,7 +43390,7 @@ FlowerVariationOds data
 	AP:✔ 33
 -
 	theme: (spring white) 706
-	AP: 70
+	AP:✔ 70
 -
 	theme: (autumn red) 718
 	AP: 5
@@ -43401,7 +43405,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn yellow) 722
-	AP: 98
+	AP:✔ 98
 -
 	theme: (autumn orange) 723
 	AP: 80
@@ -43496,13 +43500,13 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (autumn blue) 720
-	AP: 25
+	AP:✔ 25
 -
 	theme: (autumn purpl) 721
 	AP:✔ 5
 -
 	theme: (autumn yellow) 722
-	AP: 90
+	AP:✔ 90
 -
 	theme: (autumn orange) 723
 	AP: 98
@@ -45236,7 +45240,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (spring white) 706
-	AP: 90
+	AP:✔ 90|4
 -
 	theme: (winter red) 727
 	AP: 40
@@ -45487,7 +45491,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (spring white) 706
-	AP: 45
+	AP:✔ 45
 -
 	theme: (summer purple) 712
 	AP: 50
@@ -45672,7 +45676,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (TMF-March-) 302
-	AP: 45
+	AP:✔ 45
 -
 	theme: (TMF-April-) 303
 	AP: 45
@@ -45831,7 +45835,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (autumn orange) 723
-	AP: 20
+	AP:✔ 20|6
  
 #457
 FlowerVariationOds data
@@ -45899,7 +45903,7 @@ FlowerVariationOds data
 	AP:✔ 87
 -
 	theme: (TMF-May-) 304
-	AP: 25
+	AP:✔ 25|8
 -
 	theme: (Spring bright) 312
 	AP: 99
@@ -45956,7 +45960,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (spring white) 706
-	AP: 47
+	AP:✔ 47
  
 #458
 FlowerVariationOds data
@@ -46027,7 +46031,7 @@ FlowerVariationOds data
 	AP:✔ 87
 -
 	theme: (TMF-May-) 304
-	AP: 25
+	AP:✔ 25
 -
 	theme: (Spring bright) 312
 	AP: 99
@@ -46161,7 +46165,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Gift to lovers) 609
-	AP: 35
+	AP:✔ 35
 -
 	theme: (Gift to friends) 610
 	AP: 5
@@ -46173,7 +46177,7 @@ FlowerVariationOds data
 	AP: 24
 -
 	theme: (spring white) 706
-	AP: 46
+	AP:✔ 46
  
 #460
 FlowerVariationOds data
@@ -47617,7 +47621,7 @@ FlowerVariationOds data
 	AP: 70
 -
 	theme: (TMF-March-) 302
-	AP: 66
+	AP:✔ 66
 -
 	theme: (TMF-April-) 303
 	AP: 60
@@ -47644,7 +47648,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Veranda garden) 605
-	AP: 33
+	AP:✔ 33
 -
 	theme: (spring red) 700
 	AP: 4
@@ -47851,7 +47855,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (TMF-March-) 302
-	AP: 13
+	AP:✔ 13
 -
 	theme: (TMF-September-) 308
 	AP:✔ 70
@@ -47971,7 +47975,7 @@ FlowerVariationOds data
 	AP: 13
 -
 	theme: (TMF-March-) 302
-	AP: 13
+	AP:✔ 13
 -
 	theme: (TMF-September-) 308
 	AP:✔ 70
@@ -48022,7 +48026,7 @@ FlowerVariationOds data
 	AP: 14
 -
 	theme: (autumn blue) 720
-	AP: 10
+	AP:✔ 10
 -
 	theme: (autumn purpl) 721
 	AP: 21
@@ -48252,7 +48256,7 @@ FlowerVariationOds data
 	AP: 18
 -
 	theme: (TMF-March-) 302
-	AP: 18
+	AP:✔ 18
 -
 	theme: (TMF-December-) 311
 	AP: 97
@@ -48288,7 +48292,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (spring white) 706
-	AP: 22
+	AP:✔ 22
 -
 	theme: (winter red) 727
 	AP:✔ 100
@@ -48357,7 +48361,7 @@ FlowerVariationOds data
 	AP: 18
 -
 	theme: (TMF-March-) 302
-	AP: 18
+	AP:✔ 18
 -
 	theme: (TMF-December-) 311
 	AP: 97
@@ -48566,7 +48570,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (TMF-May-) 304
-	AP: 25
+	AP:✔ 25|16
 -
 	theme: (TMF-October-) 309
 	AP: 95
@@ -49580,7 +49584,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (spring white) 706
-	AP: 48
+	AP:✔ 48|4
 -
 	theme: (summer white) 715
 	AP: 45
@@ -49880,7 +49884,7 @@ FlowerVariationOds data
 	AP: 4
 -
 	theme: (autumn blue) 720
-	AP: 3
+	AP:✔ 3|4
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -50034,7 +50038,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (TMF-March-) 302
-	AP: 8
+	AP:✔ 8
 -
 	theme: (TMF-April-) 303
 	AP: 8
@@ -50145,7 +50149,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (TMF-March-) 302
-	AP: 8
+	AP:✔ 8
 -
 	theme: (TMF-April-) 303
 	AP: 8
@@ -50256,7 +50260,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (TMF-March-) 302
-	AP: 8
+	AP:✔ 8
 -
 	theme: (TMF-April-) 303
 	AP: 8
@@ -50352,7 +50356,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (TMF-March-) 302
-	AP: 94
+	AP:✔ 94
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -50388,7 +50392,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Veranda garden) 605
-	AP: 30
+	AP:✔ 30
 -
 	theme: (SFB Spring) 606
 	AP: 40
@@ -50462,7 +50466,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (TMF-March-) 302
-	AP: 94
+	AP:✔ 94
 -
 	theme: (TMF-April-) 303
 	AP:✔ 96
@@ -50498,13 +50502,13 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Veranda garden) 605
-	AP: 30
+	AP:✔ 30
 -
 	theme: (SFB Spring) 606
 	AP: 40
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 98
@@ -50522,7 +50526,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spring white) 706
-	AP: 11
+	AP:✔ 11|6
  
 #501
 FlowerVariationOds data
@@ -50605,13 +50609,13 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Veranda garden) 605
-	AP: 30
+	AP:✔ 30
 -
 	theme: (SFB Spring) 606
 	AP: 40
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 54
@@ -50999,7 +51003,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (TMF-March-) 302
-	AP: 11
+	AP:✔ 11
 -
 	theme: (TMF-April-) 303
 	AP: 11
@@ -51100,7 +51104,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (TMF-March-) 302
-	AP: 50
+	AP:✔ 50
 -
 	theme: (TMF-April-) 303
 	AP: 50
@@ -51210,7 +51214,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (TMF-March-) 302
-	AP: 50
+	AP:✔ 50
 -
 	theme: (TMF-April-) 303
 	AP: 50
@@ -51270,7 +51274,7 @@ FlowerVariationOds data
 	AP: 12
 -
 	theme: (autumn orange) 723
-	AP: 25
+	AP:✔ 25|6
 -
 	theme: (winter red) 727
 	AP: 20
@@ -51329,7 +51333,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (TMF-March-) 302
-	AP: 50
+	AP:✔ 50
 -
 	theme: (TMF-April-) 303
 	AP: 50
@@ -51452,7 +51456,7 @@ FlowerVariationOds data
 	AP: 78
 -
 	theme: (TMF-March-) 302
-	AP: 98
+	AP:✔ 98
 -
 	theme: (TMF-April-) 303
 	AP: 88
@@ -51562,7 +51566,7 @@ FlowerVariationOds data
 	AP: 78
 -
 	theme: (TMF-March-) 302
-	AP: 98
+	AP:✔ 98
 -
 	theme: (TMF-April-) 303
 	AP: 88
@@ -51607,7 +51611,7 @@ FlowerVariationOds data
 	AP: 44
 -
 	theme: (spring white) 706
-	AP: 21
+	AP:✔ 21
 -
 	theme: (winter red) 727
 	AP: 7
@@ -51673,7 +51677,7 @@ FlowerVariationOds data
 	AP: 78
 -
 	theme: (TMF-March-) 302
-	AP: 98
+	AP:✔ 98
 -
 	theme: (TMF-April-) 303
 	AP: 88
@@ -51718,7 +51722,7 @@ FlowerVariationOds data
 	AP: 41
 -
 	theme: (spring white) 706
-	AP: 21
+	AP:✔ 21
 -
 	theme: (winter blue) 729
 	AP: 14
@@ -51855,7 +51859,7 @@ FlowerVariationOds data
 	AP: 40
 -
 	theme: (TMF-May-) 304
-	AP: 100
+	AP:✔ 100|12
 -
 	theme: (Spring bright) 312
 	AP: 93
@@ -51879,7 +51883,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Veranda garden) 605
-	AP: 44
+	AP:✔ 44
 -
 	theme: (SFB Spring) 606
 	AP: 30
@@ -51974,7 +51978,7 @@ FlowerVariationOds data
 	AP:✔ 15
 -
 	theme: (Gift to lovers) 609
-	AP: 35
+	AP:✔ 35
 -
 	theme: (Wedd. bouquet) 611
 	AP: 57
@@ -51993,6 +51997,7 @@ FlowerVariationOds data
 -
 	theme: (autumn green) 726
 	AP: 30
+
 #516
 FlowerVariationOds data
 	ID: 2070
@@ -52071,7 +52076,7 @@ FlowerVariationOds data
 	AP:✔ 15
 -
 	theme: (Gift to lovers) 609
-	AP: 35
+	AP:✔ 35
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 90
@@ -52148,7 +52153,7 @@ FlowerVariationOds data
 	AP: 16
 -
 	theme: (TMF-March-) 302
-	AP: 16
+	AP:✔ 16
 -
 	theme: (TMF-April-) 303
 	AP: 16
@@ -52193,7 +52198,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Gift to lovers) 609
-	AP: 45
+	AP:✔ 45
 -
 	theme: (Wedd. bouquet) 611
 	AP:✔ 99
@@ -52205,7 +52210,7 @@ FlowerVariationOds data
 	AP: 8
 -
 	theme: (spring white) 706
-	AP: 20
+	AP:✔ 20
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -52803,7 +52808,7 @@ FlowerVariationOds data
 	AP: 12
 -
 	theme: (TMF-March-) 302
-	AP: 93
+	AP:✔ 93
 -
 	theme: (TMF-April-) 303
 	AP:✔ 93
@@ -52912,7 +52917,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (TMF-March-) 302
-	AP: 93
+	AP:✔ 93
 -
 	theme: (TMF-April-) 303
 	AP:✔ 93
@@ -53015,7 +53020,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (TMF-March-) 302
-	AP: 93
+	AP:✔ 93
 -
 	theme: (TMF-April-) 303
 	AP:✔ 93
@@ -53063,7 +53068,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (spring white) 706
-	AP: 47
+	AP:✔ 47
 #526
 FlowerVariationOds data
 	ID: 2080
@@ -53444,7 +53449,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (TMF-March-) 302
-	AP: 86
+	AP:✔ 86
 -
 	theme: (TMF-April-) 303
 	AP: 99
@@ -53480,7 +53485,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spring white) 706
-	AP: 77
+	AP:✔ 77
 -
 	theme: (autumn red) 718
 	AP: 28
@@ -53527,7 +53532,7 @@ FlowerVariationOds data
 	AP: 60
 -
 	theme: (TMF-March-) 302
-	AP: 88
+	AP:✔ 88
 -
 	theme: (Spring bright) 312
 	AP: 50
@@ -53623,7 +53628,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (TMF-March-) 302
-	AP: 86
+	AP:✔ 86
 -
 	theme: (TMF-April-) 303
 	AP: 99
@@ -53659,7 +53664,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (spring white) 706
-	AP: 66
+	AP:✔ 66
 -
 	theme: (autumn red) 718
 	AP: 30
@@ -53970,7 +53975,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to lovers) 609
-	AP: 75
+	AP:✔ 75
 -
 	theme: (Wedd. bouquet) 611
 	AP: 5
@@ -54056,7 +54061,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to lovers) 609
-	AP: 75
+	AP:✔ 75
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -54134,7 +54139,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to lovers) 609
-	AP: 75
+	AP:✔ 75
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -54208,7 +54213,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -54276,7 +54281,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -54348,7 +54353,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to lovers) 609
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Gift to friends) 610
 	AP: 50
@@ -54425,7 +54430,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to lovers) 609
-	AP: 25
+	AP:✔ 25
 -
 	theme: (Gift to friends) 610
 	AP: 25
@@ -54505,7 +54510,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Gift to lovers) 609
-	AP: 25
+	AP:✔ 25
 -
 	theme: (Gift to friends) 610
 	AP: 25
@@ -55185,7 +55190,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (TMF-May-) 304
-	AP: 24
+	AP:✔ 24|16
 -
 	theme: (Spring bright) 312
 	AP: 20
@@ -55271,7 +55276,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (TMF-May-) 304
-	AP: 24
+	AP:✔ 24|16
 -
 	theme: (Spring bright) 312
 	AP: 20
@@ -55354,7 +55359,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (TMF-May-) 304
-	AP: 24
+	AP:✔ 24|16
 -
 	theme: (Spring bright) 312
 	AP: 20
@@ -55443,7 +55448,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (TMF-May-) 304
-	AP: 24
+	AP:✔ 24|16
 -
 	theme: (Spring bright) 312
 	AP: 20
@@ -55535,7 +55540,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (TMF-May-) 304
-	AP: 24
+	AP:✔ 24|16
 -
 	theme: (Spring bright) 312
 	AP: 20
@@ -56156,7 +56161,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (Natural Green) 8
-	AP: 2
+	AP:✔ 2
 -
 	theme: (Mixed color) 9
 	AP: 5
@@ -57238,13 +57243,13 @@ FlowerVariationOds data
 	AP: 7
 -
 	theme: (Natural Green) 8
-	AP: 3
+	AP:✔ 3
 -
 	theme: (Mixed color) 9
 	AP: 15
 -
 	theme: (Pop) 104
-	AP: 75
+	AP:✅ 75
 -
 	theme: (Vivid) 105
 	AP: 35
@@ -57383,7 +57388,7 @@ FlowerVariationOds data
 	AP: 2
 -
 	theme: (Natural Green) 8
-	AP: 15
+	AP:✔ 15
 -
 	theme: (Pop) 104
 	AP: 75
@@ -57419,7 +57424,7 @@ FlowerVariationOds data
 	AP:✔ 5
 -
 	theme: (autumn orange) 723
-	AP: 62
+	AP:✔ 62
 -
 	theme: (autumn green) 726
 	AP:✔ 75
@@ -57475,7 +57480,7 @@ FlowerVariationOds data
 	AP:✔ 20|8
 -
 	theme: (autumn orange) 723
-	AP: 10
+	AP:✔ 10|8
 -
 	theme: (autumn white) 724
 	AP:✔ 5
