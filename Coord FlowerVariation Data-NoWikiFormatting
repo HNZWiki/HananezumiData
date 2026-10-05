@@ -15384,7 +15384,7 @@ FlowerVariationOds data
 	AP:✔ 76
 -
 	theme: (autumn purpl) 721
-	AP: 23
+	AP:✔ 23
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -18601,7 +18601,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (autumn purpl) 721
-	AP: 40
+	AP:✔ 40|6
  
 #170
 FlowerVariationOds data
@@ -20209,7 +20209,7 @@ FlowerVariationOds data
 	AP:✔ 43
 -
 	theme: (autumn purpl) 721
-	AP: 22
+	AP:✔ 22|4
  
 #186
 FlowerVariationOds data
@@ -33768,7 +33768,7 @@ FlowerVariationOds data
 	AP:✔ 82|4
 -
 	theme: (autumn purpl) 721
-	AP: 20
+	AP:✔ 20|4
 -
 	theme: (autumn orange) 723
 	AP: 5
@@ -39497,7 +39497,7 @@ FlowerVariationOds data
 	AP:✔ 31
 -
 	theme: (autumn purpl) 721
-	AP: 5
+	AP:✔ 5
 -
 	theme: (autumn yellow) 722
 	AP:✔ 98
@@ -39660,7 +39660,7 @@ FlowerVariationOds data
 	AP:✔ 32
 -
 	theme: (autumn purpl) 721
-	AP: 5
+	AP:✔ 5
 -
 	theme: (autumn yellow) 722
 	AP:✔ 52|8
@@ -39731,7 +39731,7 @@ FlowerVariationOds data
 	AP:✔ 33
 -
 	theme: (autumn purpl) 721
-	AP: 5
+	AP:✔ 5
 -
 	theme: (autumn yellow) 722
 	AP:✔ 96
@@ -39808,7 +39808,7 @@ FlowerVariationOds data
 	AP:✔ 34
 -
 	theme: (autumn purpl) 721
-	AP: 5
+	AP:✔ 5
 -
 	theme: (autumn yellow) 722
 	AP:✔ 48|8
@@ -43301,7 +43301,7 @@ FlowerVariationOds data
 	AP:✔ 20|2
 -
 	theme: (autumn purpl) 721
-	AP: 5
+	AP:✔ 5|2
 -
 	theme: (autumn yellow) 722
 	AP:✔ 80
@@ -43409,7 +43409,7 @@ FlowerVariationOds data
 	AP:✔ 30
 -
 	theme: (autumn purpl) 721
-	AP: 5
+	AP:✔ 5|2
 -
 	theme: (autumn yellow) 722
 	AP:✔ 98
@@ -46820,7 +46820,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (autumn purpl) 721
-	AP: 22
+	AP:✔ 22|4
  
 #466
 FlowerVariationOds data
@@ -48036,7 +48036,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (autumn purpl) 721
-	AP: 21
+	AP:✔ 21
 -
 	theme: (winter pink) 728
 	AP: 10
@@ -51058,7 +51058,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (autumn purpl) 721
-	AP: 10
+	AP:✔ 10
 -
 	theme: (autumn orange) 723
 	AP: 5
