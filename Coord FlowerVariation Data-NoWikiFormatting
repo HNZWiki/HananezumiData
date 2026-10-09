@@ -513,7 +513,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 90
+	AP:✔ 90|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -1318,7 +1318,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 90
+	AP:✔ 90|6
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -3724,7 +3724,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn red) 718
-	AP: 40
+	AP:✅✅ 40
 -
 	theme: (autumn pink) 719
 	AP: 5
@@ -3999,7 +3999,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 95
+	AP:✔ 95|18
 -
 	theme: (Mys.Purple) 3
 	AP: 41
@@ -4878,7 +4878,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 90
+	AP:✔ 90|12
 -
 	theme: (Fresh Yellow) 4
 	AP: 10
@@ -14938,7 +14938,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 90
+	AP:✔ 90|12
 -
 	theme: (Fresh Yellow) 4
 	AP: 30
@@ -16175,7 +16175,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 90
+	AP:✔ 90|18
 -
 	theme: (Fresh Yellow) 4
 	AP: 5
@@ -17224,7 +17224,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -18215,7 +18215,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -18731,7 +18731,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 95
+	AP:✔ 95|12
 -
 	theme: (Pure white) 6
 	AP: 5
@@ -19036,7 +19036,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -19889,7 +19889,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|12
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -20421,7 +20421,7 @@ FlowerVariationOds data
 #188
 FlowerVariationOds data
 	ID: 188
-	Species: vervain 44
+	Species: (vervain) 44 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -20522,7 +20522,7 @@ FlowerVariationOds data
 #189
 FlowerVariationOds data
 	ID: 189
-	Species: vervain 44
+	Species: (vervain) 44 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -20632,7 +20632,7 @@ FlowerVariationOds data
 #190
 FlowerVariationOds data
 	ID: 190
-	Species: vervain 44
+	Species: (vervain) 44 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -20727,7 +20727,7 @@ FlowerVariationOds data
 #191
 FlowerVariationOds data
 	ID: 191
-	Species: vervain 44
+	Species: (vervain) 44 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -21390,7 +21390,7 @@ FlowerVariationOds data
 #197
 FlowerVariationOds data
 	ID: 197
-	Species: summer cypress 46
+	Species: (summer cypress) 46 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -21470,7 +21470,7 @@ FlowerVariationOds data
 #198
 FlowerVariationOds data
 	ID: 198
-	Species: summer cypress 46
+	Species: (summer cypress) 46 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -21559,7 +21559,7 @@ FlowerVariationOds data
 #199
 FlowerVariationOds data
 	ID: 199
-	Species: summer cypress 46
+	Species: (summer cypress) 46 (4|8|12)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -21722,7 +21722,7 @@ FlowerVariationOds data
 #201
 FlowerVariationOds data
 	ID: 201 
-	Species: carnation2 48
+	Species: (carnation2) 48 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -21841,7 +21841,7 @@ FlowerVariationOds data
 #202
 FlowerVariationOds data
 	ID: 202
-	Species: carnation2 48
+	Species: (carnation2) 48 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -21957,7 +21957,7 @@ FlowerVariationOds data
 #203
 FlowerVariationOds data
 	ID: 203
-	Species: carnation2 48
+	Species: (carnation2) 48 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -22064,7 +22064,7 @@ FlowerVariationOds data
 #204
 FlowerVariationOds data
 	ID: 204
-	Species: carnation2 48
+	Species: (carnation2) 48 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -22165,7 +22165,7 @@ FlowerVariationOds data
 #205
 FlowerVariationOds data
 	ID: 205
-	Species: (acorn) 49
+	Species: (acorn) 49 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -22266,7 +22266,7 @@ FlowerVariationOds data
 #206
 FlowerVariationOds data
 	ID: 206
-	Species: (pinecone) 50
+	Species: (pinecone) 50 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -22357,8 +22357,8 @@ FlowerVariationOds data
  
 #207
 FlowerVariationOds data
-	ID: (207
-	Species: snow daisy 52
+	ID: 207
+	Species: (snow daisy) 52 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -22451,7 +22451,7 @@ FlowerVariationOds data
 #208
 FlowerVariationOds data
 	ID: 208
-	Species: tecophilaea 53
+	Species: (tecophilaea) 53 (4|8|12)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -22532,7 +22532,7 @@ FlowerVariationOds data
 #209
 FlowerVariationOds data
 	ID: 209
-	Species: tecophilaea 53
+	Species: (tecophilaea) 53 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -23739,7 +23739,7 @@ FlowerVariationOds data
 #222
 FlowerVariationOds data
 	ID: 222
-	Species: (gerbera) 57
+	Species: (gerbera) 57 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -23772,7 +23772,7 @@ FlowerVariationOds data
 	AP: 78
 -
 	theme: (Let's send a cheer) 203
-	AP:✔ 88
+	AP:✔ 88|4
 -
 	theme: (Burning heart) 205
 	AP: 100
@@ -23873,7 +23873,7 @@ FlowerVariationOds data
 #223
 FlowerVariationOds data
 	ID: 223
-	Species: (gerbera) 57
+	Species: (gerbera) 57 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -24007,7 +24007,7 @@ FlowerVariationOds data
 #224
 FlowerVariationOds data
 	ID: 224
-	Species: (gerbera) 57
+	Species: (gerbera) 57 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -24138,7 +24138,7 @@ FlowerVariationOds data
 #225
 FlowerVariationOds data
 	ID: 225
-	Species: (gerbera) 57
+	Species: (gerbera) 57 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -24272,7 +24272,7 @@ FlowerVariationOds data
 #226
 FlowerVariationOds data
 	ID: 226
-	Species: (gerbera) 57
+	Species: (gerbera) 57 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -24412,7 +24412,7 @@ FlowerVariationOds data
 #227
 FlowerVariationOds data
 	ID: 227
-	Species: (gerbera) 57
+	Species: (gerbera) 57 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -24543,7 +24543,7 @@ FlowerVariationOds data
 #228
 FlowerVariationOds data
 	ID: 228
-	Species: (gerbera) 57
+	Species: (gerbera) 57 (4|8|12)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -30922,7 +30922,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -39180,7 +39180,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 90
+	AP:✔ 90|24
 -
 	theme: (Lovely Pink) 1
 	AP: 30
@@ -39492,7 +39492,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (autumn red) 718
-	AP: 71
+	AP:✅✅ 71
 -
 	theme: (autumn blue) 720
 	AP:✔ 31
@@ -39604,7 +39604,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 95
+	AP:✔ 95|24
 -
 	theme: (Lovely Pink) 1
 	AP: 10
@@ -39726,7 +39726,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (autumn red) 718
-	AP: 76
+	AP:✅✅ 76
 -
 	theme: (autumn blue) 720
 	AP:✔ 33
@@ -40076,7 +40076,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (autumn red) 718
-	AP: 48
+	AP:✅✅ 48
 -
 	theme: (autumn pink) 719
 	AP: 32
@@ -40180,7 +40180,7 @@ FlowerVariationOds data
 	AP: 23
 -
 	theme: (autumn red) 718
-	AP: 30
+	AP:✅✅ 30
 -
 	theme: (autumn pink) 719
 	AP: 63
@@ -40352,7 +40352,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 90
+	AP:✔ 90|24
 -
 	theme: (Lovely Pink) 1
 	AP: 30
@@ -40427,7 +40427,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (autumn red) 718
-	AP: 40
+	AP:✅✅ 40
 -
 	theme: (autumn pink) 719
 	AP: 40
@@ -40522,7 +40522,7 @@ FlowerVariationOds data
 	AP:✔ 63|8
 -
 	theme: (autumn red) 718
-	AP: 38
+	AP:✅✅ 38
 -
 	theme: (autumn pink) 719
 	AP: 85
@@ -45828,7 +45828,7 @@ FlowerVariationOds data
 	AP: 35
 -
 	theme: (autumn red) 718
-	AP: 40
+	AP:✅✅ 40
 -
 	theme: (autumn pink) 719
 	AP: 20
@@ -48622,7 +48622,7 @@ FlowerVariationOds data
 #483
 FlowerVariationOds data
 	ID: 2037
-	Species: summer cypress 46
+	Species: (summer cypress) 46 (4|8|12)
 	Color
 		UInt8 color = (red x green) 37
 		Hybrd: Y
@@ -48690,7 +48690,7 @@ FlowerVariationOds data
 #484
 FlowerVariationOds data
 	ID: 2038
-	Species: carnation2 48
+	Species: (carnation2) 48 (4|8|12)
 	Color
 		UInt8 color = 38(red x white)
 		Hybrd: Y
@@ -48809,7 +48809,7 @@ FlowerVariationOds data
 #485
 FlowerVariationOds data
 	ID: 2039
-	Species: carnation2 48
+	Species: (carnation2) 48 (4|8|12)
 	Color
 		UInt8 color = (pink x white) 39
 		Hybrd: Y
@@ -48925,7 +48925,7 @@ FlowerVariationOds data
 #486
 FlowerVariationOds data
 	ID: 2040
-	Species: carnation2 48
+	Species: (carnation2) 48 (4|8|12)
 	Color
 		UInt8 color = purple x white 40
 		Hybrd: Y
