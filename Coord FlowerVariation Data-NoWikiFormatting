@@ -26,7 +26,7 @@ Multiples
 
 FlowerVariationOds data
 	ID: 0
-	Species: (hydrangea) 0
+	Species: (hydrangea) 0 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -130,7 +130,7 @@ FlowerVariationOds data
 #1
 FlowerVariationOds data
 	ID: 1
-	Species: (hydrangea) 0
+	Species: (hydrangea) 0 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -228,7 +228,7 @@ FlowerVariationOds data
 #2
 FlowerVariationOds data
 	ID: 2
-	Species: (hydrangea) 0
+	Species: (hydrangea) 0 (6|12|18)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -326,7 +326,7 @@ FlowerVariationOds data
 #3
 FlowerVariationOds data
 	ID: 3
-	Species: (hydrangea) 0
+	Species: (hydrangea) 0 (6|12|18)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -418,7 +418,7 @@ FlowerVariationOds data
 #4
 FlowerVariationOds data
 	ID: 4
-	Species: (hydrangea) 0
+	Species: (hydrangea) 0 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -501,7 +501,7 @@ FlowerVariationOds data
 #5
 FlowerVariationOds data
 	ID: 5
-	Species: chrysanthemum 1
+	Species: (chrysanthemum) 1 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -617,7 +617,7 @@ FlowerVariationOds data
 #6
 FlowerVariationOds data
 	ID: 6
-	Species: chrysanthemum 1
+	Species: (chrysanthemum) 1 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -736,7 +736,7 @@ FlowerVariationOds data
 #7
 FlowerVariationOds data
 	ID: 7
-	Species: chrysanthemum 1
+	Species: (chrysanthemum) 1 (6|12|18)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -862,7 +862,7 @@ FlowerVariationOds data
 #8
 FlowerVariationOds data
 	ID: 8
-	Species: chrysanthemum 1
+	Species: (chrysanthemum) 1 (6|12|18)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -975,7 +975,7 @@ FlowerVariationOds data
 #9
 FlowerVariationOds data
 	ID: 9
-	Species: chrysanthemum 1
+	Species: (chrysanthemum) 1 (6|12|18)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -1091,7 +1091,7 @@ FlowerVariationOds data
 #10
 FlowerVariationOds data
 	ID: 10
-	Species: chrysanthemum 1
+	Species: (chrysanthemum) 1 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -1202,7 +1202,7 @@ FlowerVariationOds data
 #11
 FlowerVariationOds data
 	ID: 11
-	Species: chrysanthemum 1
+	Species: (chrysanthemum) 1 (6|12|18)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -1306,7 +1306,7 @@ FlowerVariationOds data
 #12
 FlowerVariationOds data
 	ID: 12
-	Species: cosmos 2
+	Species: (cosmos) 2 (2|4|6)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -1407,7 +1407,7 @@ FlowerVariationOds data
 #13
 FlowerVariationOds data
 	ID: 13
-	Species: cosmos 2
+	Species: (cosmos) 2 (2|4|6)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -1520,7 +1520,7 @@ FlowerVariationOds data
 #14
 FlowerVariationOds data
 	ID: 14
-	Species: cosmos 2
+	Species: (cosmos) 2 (2|4|6)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -1636,7 +1636,7 @@ FlowerVariationOds data
 #15
 FlowerVariationOds data
 	ID: 15
-	Species: cosmos 2
+	Species: (cosmos) 2 (2|4|6)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -1749,7 +1749,7 @@ FlowerVariationOds data
 #16
 FlowerVariationOds data
 	ID: 16
-	Species: cosmos 2
+	Species: (cosmos) 2 (2|4|6)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -1866,7 +1866,7 @@ FlowerVariationOds data
 #17
 FlowerVariationOds data
 	ID: 17
-	Species: cosmos 2
+	Species: (cosmos) 2 (2|4|6)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -1973,7 +1973,7 @@ FlowerVariationOds data
 #18
 FlowerVariationOds data
 	ID: 18
-	Species: cosmos 2
+	Species: (cosmos) 2 (2|4|6)
 	Color
 		UInt8 color = 8 (Black)
 		Hyb?: N
@@ -2310,7 +2310,7 @@ FlowerVariationOds data
 #21
 FlowerVariationOds data
 	ID: 21
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -2420,7 +2420,7 @@ FlowerVariationOds data
 #22
 FlowerVariationOds data
 	ID: 22
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -2539,7 +2539,7 @@ FlowerVariationOds data
 #23
 FlowerVariationOds data
 	ID: 23
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -2643,7 +2643,7 @@ FlowerVariationOds data
 #24
 FlowerVariationOds data
 	ID: 24
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -2765,7 +2765,7 @@ FlowerVariationOds data
 #25
 FlowerVariationOds data
 	ID: 25
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -2887,7 +2887,7 @@ FlowerVariationOds data
 #26
 FlowerVariationOds data
 	ID: 26
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -2994,7 +2994,7 @@ FlowerVariationOds data
 #27
 FlowerVariationOds data
 	ID: 27
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = 8 (Black)
 		Hyb?: N
@@ -3110,7 +3110,7 @@ FlowerVariationOds data
 #28
 FlowerVariationOds data
 	ID: 28
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -3211,7 +3211,7 @@ FlowerVariationOds data
 #29
 FlowerVariationOds data
 	ID: 29
-	Species: (camellia)  5
+	Species: (camellia)  5 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -3324,7 +3324,7 @@ FlowerVariationOds data
 #30
 FlowerVariationOds data
 	ID: 30
-	Species: (camellia)  5
+	Species: (camellia)  5 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -3440,7 +3440,7 @@ FlowerVariationOds data
 #31
 FlowerVariationOds data
 	ID: 31
-	Species: (camellia)  5
+	Species: (camellia)  5 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -3557,7 +3557,7 @@ FlowerVariationOds data
 #32
 FlowerVariationOds data
 	ID: 32
-	Species: hibiscus 6
+	Species: hibiscus 6 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -3646,7 +3646,7 @@ FlowerVariationOds data
 #33
 FlowerVariationOds data
 	ID: 33
-	Species: hibiscus 6
+	Species: hibiscus 6 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -3732,7 +3732,7 @@ FlowerVariationOds data
 #34
 FlowerVariationOds data
 	ID: 34
-	Species: hibiscus 6
+	Species: hibiscus 6 (6|12|18)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -3818,7 +3818,7 @@ FlowerVariationOds data
 #35
 FlowerVariationOds data
 	ID: 35
-	Species: hibiscus 6
+	Species: hibiscus 6 (6|12|18)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -3904,7 +3904,7 @@ FlowerVariationOds data
 #36
 FlowerVariationOds data
 	ID: 36
-	Species: hibiscus 6
+	Species: hibiscus 6 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -3987,7 +3987,7 @@ FlowerVariationOds data
 #37
 FlowerVariationOds data
 	ID: 37
-	Species: (cluster amaryllis) 7
+	Species: (cluster amaryllis) 7 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -4082,7 +4082,7 @@ FlowerVariationOds data
 #38
 FlowerVariationOds data
 	ID: 38
-	Species: (cluster amaryllis) 7
+	Species: (cluster amaryllis) 7 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -4180,7 +4180,7 @@ FlowerVariationOds data
 #39
 FlowerVariationOds data
 	ID: 39
-	Species: (cluster amaryllis) 7
+	Species: (cluster amaryllis) 7 (6|12|18)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -4278,7 +4278,7 @@ FlowerVariationOds data
 #40
 FlowerVariationOds data
 	ID: 40
-	Species: (cluster amaryllis) 7
+	Species: (cluster amaryllis) 7 (6|12|18)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -4373,7 +4373,7 @@ FlowerVariationOds data
 #41
 FlowerVariationOds data
 	ID: 41
-	Species: (cluster amaryllis) 7
+	Species: (cluster amaryllis) 7 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -4468,7 +4468,7 @@ FlowerVariationOds data
 #42
 FlowerVariationOds data
 	ID: 42
-	Species: sunflower 8
+	Species: sunflower 8 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -4572,7 +4572,7 @@ FlowerVariationOds data
 #43
 FlowerVariationOds data
 	ID: 43
-	Species: sunflower 8
+	Species: (sunflower) 8 (6|12|18)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -4679,7 +4679,7 @@ FlowerVariationOds data
 #44
 FlowerVariationOds data
 	ID: 44
-	Species: sunflower 8
+	Species: (sunflower) 8 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -4768,7 +4768,7 @@ FlowerVariationOds data
 #45
 FlowerVariationOds data
 	ID: 45
-	Species: sunflower 8
+	Species: (sunflower) 8 (6|12|18)
 	Color
 		UInt8 color = 8 (Black)
 		Hyb?: N
@@ -6394,7 +6394,7 @@ FlowerVariationOds data
 #62
 FlowerVariationOds data
 	ID: 62
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -6516,7 +6516,7 @@ FlowerVariationOds data
 #63
 FlowerVariationOds data
 	ID: 63
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -6647,7 +6647,7 @@ FlowerVariationOds data
 #64
 FlowerVariationOds data
 	ID: 64
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -6772,7 +6772,7 @@ FlowerVariationOds data
 #65
 FlowerVariationOds data
 	ID: 65
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -6897,7 +6897,7 @@ FlowerVariationOds data
 #66
 FlowerVariationOds data
 	ID: 66
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -7037,7 +7037,7 @@ FlowerVariationOds data
 #67
 FlowerVariationOds data
 	ID: 67
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -7180,7 +7180,7 @@ FlowerVariationOds data
 #68
 FlowerVariationOds data
 	ID: 68
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -7308,7 +7308,7 @@ FlowerVariationOds data
 #69
 FlowerVariationOds data
 	ID: 69
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = 8 (Black)
 		Hyb?: N
@@ -7433,7 +7433,7 @@ FlowerVariationOds data
 #70
 FlowerVariationOds data
 	ID: 70
-	Species: rose 12 (rose)
+	Species: (rose) 12 (6|12|18)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -7549,7 +7549,7 @@ FlowerVariationOds data
 #71
 FlowerVariationOds data
 	ID: 71
-	Species: hyacinth 14
+	Species: (hyacinth) 14 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -7659,7 +7659,7 @@ FlowerVariationOds data
 #72
 FlowerVariationOds data
 	ID: 72
-	Species: hyacinth 14
+	Species: (hyacinth) 14 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -7763,7 +7763,7 @@ FlowerVariationOds data
 #73
 FlowerVariationOds data
 	ID: 73
-	Species: hyacinth 14
+	Species: (hyacinth) 14 (6|12|18)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -7870,7 +7870,7 @@ FlowerVariationOds data
 #74
 FlowerVariationOds data
 	ID: 74
-	Species: hyacinth 14
+	Species: (hyacinth) 14 (6|12|18)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -7974,7 +7974,7 @@ FlowerVariationOds data
 #75
 FlowerVariationOds data
 	ID: 75
-	Species: hyacinth 14
+	Species: (hyacinth) 14 (6|12|18)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -8081,7 +8081,7 @@ FlowerVariationOds data
 #76
 FlowerVariationOds data
 	ID: 76
-	Species: hyacinth 14
+	Species: (hyacinth) 14 (6|12|18)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -8194,7 +8194,7 @@ FlowerVariationOds data
 #77
 FlowerVariationOds data
 	ID: 77
-	Species: hyacinth 14
+	Species: (hyacinth) 14 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -8301,7 +8301,7 @@ FlowerVariationOds data
 #78
 FlowerVariationOds data
 	ID: 78
-	Species: hyacinth 14
+	Species: (hyacinth) 14 (6|12|18)
 	Color
 		UInt8 color = 8 (Black)
 		Hyb?: N
@@ -9803,7 +9803,7 @@ FlowerVariationOds data
 #91
 FlowerVariationOds data
 	ID: 91
-	Species: azalea 20
+	Species: (azalea) 20 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -9901,7 +9901,7 @@ FlowerVariationOds data
 #92
 FlowerVariationOds data
 	ID: 92
-	Species: azalea 20
+	Species: (azalea) 20 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -9993,7 +9993,7 @@ FlowerVariationOds data
 #93
 FlowerVariationOds data
 	ID: 93
-	Species: azalea 20
+	Species: (azalea) 20 (6|12|18)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -10073,7 +10073,7 @@ FlowerVariationOds data
 #94
 FlowerVariationOds data
 	ID: 94
-	Species: azalea 20
+	Species: (azalea) 20 (6|12|18)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -10153,7 +10153,7 @@ FlowerVariationOds data
 #95
 FlowerVariationOds data
 	ID: 95
-	Species: azalea 20
+	Species: (azalea) 20 (6|12|18)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -10245,7 +10245,7 @@ FlowerVariationOds data
 #96
 FlowerVariationOds data
 	ID: 96
-	Species: azalea 20
+	Species: (azalea) 20 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -10429,7 +10429,7 @@ FlowerVariationOds data
 #98
 FlowerVariationOds data
 	ID: 98
-	Species: morning glory 22
+	Species: (morning glory) 22 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -10524,7 +10524,7 @@ FlowerVariationOds data
 #99
 FlowerVariationOds data
 	ID: 99
-	Species: morning glory 22
+	Species: (morning glory) 22 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -10616,7 +10616,7 @@ FlowerVariationOds data
 #100
 FlowerVariationOds data
 	ID: 100
-	Species: morning glory 22
+	Species: (morning glory) 22 (6|12|18)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -10708,7 +10708,7 @@ FlowerVariationOds data
 #101
 FlowerVariationOds data
 	ID: 101
-	Species: morning glory 22
+	Species: (morning glory) 22 (6|12|18)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -10791,7 +10791,7 @@ FlowerVariationOds data
 #102
 FlowerVariationOds data
 	ID: 102
-	Species: morning glory 22
+	Species: (morning glory) 22 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -18522,7 +18522,7 @@ FlowerVariationOds data
 #169
 FlowerVariationOds data
 	ID: 169
-	Species: hibiscus 6
+	Species: hibiscus 6 (6|12|18)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -23046,7 +23046,7 @@ FlowerVariationOds data
 #216
 FlowerVariationOds data
 	ID: 216
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -23168,7 +23168,7 @@ FlowerVariationOds data
 #217
 FlowerVariationOds data
 	ID: 217
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -23287,7 +23287,7 @@ FlowerVariationOds data
 #218
 FlowerVariationOds data
 	ID: 218
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -23409,7 +23409,7 @@ FlowerVariationOds data
 #219
 FlowerVariationOds data
 	ID: 219
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -23522,7 +23522,7 @@ FlowerVariationOds data
 #220
 FlowerVariationOds data
 	ID: 220
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -23635,7 +23635,7 @@ FlowerVariationOds data
 #221
 FlowerVariationOds data
 	ID: 221
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -44568,7 +44568,7 @@ FlowerVariationOds data
 #446
 FlowerVariationOds data
 	ID: 2000
-	Species: (hydrangea) 0
+	Species: (hydrangea) 0 (6|12|18)
 	Color
 		UInt8 color = 0 (pink x blue)
 		Hybrd: Y
@@ -44690,7 +44690,7 @@ FlowerVariationOds data
 #447
 FlowerVariationOds data
 	ID: 2001
-	Species: chrysanthemum 1
+	Species: (chrysanthemum) 1 (6|12|18)
 	Color
 		UInt8 color = 1 (pink x yelw)
 		Hybrd: Y
@@ -44827,7 +44827,7 @@ FlowerVariationOds data
 #448
 FlowerVariationOds data
 	ID: 2002
-	Species: cosmos 2
+	Species: (cosmos) 2 (2|4|6)
 	Color
 		UInt8 color = red x pink 2
 		Hybrd: Y
@@ -45260,7 +45260,7 @@ FlowerVariationOds data
 #452
 FlowerVariationOds data
 	ID: 2006
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = 6 (redx yellow)
 		Hybrd: Y
@@ -45385,7 +45385,7 @@ FlowerVariationOds data
 #453
 FlowerVariationOds data
 	ID: 2007
-	Species: tulips 4
+	Species: (tulips) 4 (6|12|18)
 	Color
 		UInt8 color = (purple x white) 7
 		Hybrd: Y
@@ -45501,7 +45501,7 @@ FlowerVariationOds data
 #454
 FlowerVariationOds data
 	ID: 2008
-	Species: (camellia)  5
+	Species: (camellia)  5 (6|12|18)
 	Color
 		UInt8 color = (rde x white) 8
 		Hybrd: Y
@@ -45615,7 +45615,7 @@ FlowerVariationOds data
 #455
 FlowerVariationOds data
 	ID: (plant) 2009
-	Species: (camellia)  5
+	Species: (camellia)  5 (6|12|18)
 	Color
 		UInt8 color = 9 (pink x white)
 		Hybrd: Y
@@ -45741,7 +45741,7 @@ FlowerVariationOds data
 #456
 FlowerVariationOds data
 	ID: (plant) 2010
-	Species: hibiscus 6
+	Species: hibiscus 6 (6|12|18)
 	Color
 		UInt8 color = red x ylw 10
 		Hybrd: Y
@@ -46101,7 +46101,7 @@ FlowerVariationOds data
 #459
 FlowerVariationOds data
 	ID: (plant) 2013
-	Species: azalea 20
+	Species: (azalea) 20 (6|12|18)
 	Color
 		UInt8 color = (red x white) 13
 		Hybrd: Y
@@ -46184,7 +46184,7 @@ FlowerVariationOds data
 #460
 FlowerVariationOds data
 	ID: 2014
-	Species: morning glory 22
+	Species: (morning glory) 22 (6|12|18)
 	Color
 		UInt8 color = (red x white) 14
 		Hybrd: Y
@@ -46276,7 +46276,7 @@ FlowerVariationOds data
 #461
 FlowerVariationOds data
 	ID: (plant) 2015
-	Species: morning glory 22
+	Species: (morning glory) 22 (6|12|18)
 	Color
 		UInt8 color = (purple x white) 15
 		Hybrd: Y
@@ -52753,7 +52753,7 @@ FlowerVariationOds data
 #523
 FlowerVariationOds data
 	ID: 2077
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = 78 (red x blue)
 		Hybrd: Y
@@ -52862,7 +52862,7 @@ FlowerVariationOds data
 #524
 FlowerVariationOds data
 	ID: 2078
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = 79 (red x pink)
 		Hybrd: Y
@@ -52965,7 +52965,7 @@ FlowerVariationOds data
 #525
 FlowerVariationOds data
 	ID: 2079
-	Species: anemone 56
+	Species: (anemone) 56 (6|12|18)
 	Color
 		UInt8 color = 80 (orange x whte)
 		Hybrd: Y
