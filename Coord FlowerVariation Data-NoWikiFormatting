@@ -1,7 +1,7 @@
 Legend:
 * FlowerVariationOds data: denotes what the section is defining; think of it as the subsection title
 * ID (first one): flower variation internal ID number
-* Species: plant species internal ID number
+* Species: plant species internal ID number; (X|X|X) indicates the multiple (see below)
 * Int8 color: 1-9 (mostly) for solid colors, 10+ for hybrids
 * probability: related to the color's chance to grow from seed? hybrids are all 0
 * HW hash (originally "LocalizationHash languageHash"), SInt64 longHash, int intHash: hash codes for the variation's hedgehog words; can ignore this
@@ -13,9 +13,11 @@ Legend:
 * All 1-AP data points are removed; plants that cannot be used in Coordinate are removed
 * ✔ means the variaion is tested. ❌ means the variation can't be tested. ✅✅ means the variation has had its value for the theme extrapolated from other themes' values. ? means the variation's tested value doesn't line up with its AP.
 
-* A | and number indicate the multiple of the AP value the plant's base points equal. For instance, "AP: 60|4" means the plant has a base value of 240 from an AP value of 60.
+Multiples
+* After an AP value: A | and number indicate the multiple of the AP value the plant's base points equal. For instance, "AP: 60|4" means the plant has a base value of 240 from an AP value of 60.
 ** This multiple appears to be based on the species of the plant and the "level" of the theme. The "level" also affects the theme's trimmin bonus.
-*** The multiple roughly decreases by an increment (TBD) with each level of theme. Level 1 (All-year colors, seasonal "four-kanji name" themes) will give a minimum of 6x the AP value; level 3 (All-year sentiment, seasonal color themes) give a minimum of 2x.
+*** The multiple decreases by an increment with each level of theme. Level 1 (All-year colors, seasonal "four-kanji name" themes) will give a minimum of 6x the AP value; level 3 (All-year sentiment, seasonal color themes) give a minimum of 2x.
+* On a species name/ID: A | and number indicate the amount of times the species's variations' AP value is multiplied to get its base value for a theme
 
 
 * As of 10/05/2026 not all themes have data checked off.
@@ -1075,7 +1077,7 @@ FlowerVariationOds data
 	AP:✔ 97|6
 -
 	theme: (autumn black) 725
-	AP: 75
+	AP:✔ 75|6
 -
 	theme: (autumn green) 726
 	AP:✔ 55
@@ -1762,7 +1764,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100|6
 -
 	theme: (Pure white) 6
 	AP: 5
@@ -2320,7 +2322,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -2341,7 +2343,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100|6
 -
 	theme: (Burning heart) 205
 	AP: 56
@@ -2460,7 +2462,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100|6
 -
 	theme: (Burning heart) 205
 	AP: 55
@@ -2781,7 +2783,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -2808,7 +2810,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100|6
 -
 	theme: (Burning heart) 205
 	AP: 55
@@ -3221,7 +3223,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Fresh Yellow) 4
 	AP: 5
@@ -3567,7 +3569,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Lovely Pink) 1
 	AP: 3
@@ -4354,7 +4356,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn red) 718
-	AP: 50
+	AP:✔ 50
 -
 	theme: (autumn blue) 720
 	AP:✔ 3
@@ -4933,7 +4935,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (Gift to lovers) 609
 	AP: 10
@@ -5022,7 +5024,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (Gift to lovers) 609
 	AP:✔ 55
@@ -5126,7 +5128,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (spring blue) 702
 	AP: 7
@@ -5225,7 +5227,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (Gift to lovers) 609
 	AP: 25
@@ -5326,7 +5328,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (Gift to lovers) 609
 	AP:✔ 35
@@ -5430,7 +5432,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (Gift to lovers) 609
 	AP: 20
@@ -5463,7 +5465,7 @@ FlowerVariationOds data
 #52
 FlowerVariationOds data
 	ID: 52
-	Species: (lantana) 10
+	Species: (lantana) 10 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -5505,7 +5507,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Let's send a cheer) 203
-	AP: 5
+	AP:✔ 5|4
 -
 	theme: (Prayer for peace) 204
 	AP: 33
@@ -5692,7 +5694,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Prayer for peace) 204
 	AP: 33
@@ -5778,7 +5780,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10|4
 -
 	theme: (Prayer for peace) 204
 	AP: 33
@@ -5867,7 +5869,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10|4
 -
 	theme: (Prayer for peace) 204
 	AP: 33
@@ -6404,7 +6406,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -6419,7 +6421,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100|6
 -
 	theme: (Let's send a cheer) 203
 	AP: 3
@@ -6657,7 +6659,7 @@ FlowerVariationOds data
 
 -
 	theme: (Cool Blue) 2
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mys.Purple) 3
 	AP: 33
@@ -6782,7 +6784,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Rich Black) 7
 	AP: 74
@@ -6803,7 +6805,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Let's send a cheer) 203
-	AP: 50
+	AP:✔ 50|6
 -
 	theme: (Prayer for peace) 204
 	AP: 44
@@ -6937,7 +6939,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Let's send a cheer) 203
-	AP: 50
+	AP:✔ 50|6
 -
 	theme: (Prayer for peace) 204
 	AP:✔ 91
@@ -7342,7 +7344,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100|6
 -
 	theme: (Prayer for peace) 204
 	AP: 44
@@ -7426,7 +7428,7 @@ FlowerVariationOds data
 	AP:✔ 93
 -
 	theme: (autumn black) 725
-	AP: 95
+	AP:✔ 95
  
 #70
 FlowerVariationOds data
@@ -7883,7 +7885,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -8014,7 +8016,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Let's send a cheer) 203
-	AP: 12
+	AP:✔ 12|6
 -
 	theme: (Happiness w'in you) 207
 	AP:✔ 100
@@ -8403,7 +8405,7 @@ FlowerVariationOds data
 #79
 FlowerVariationOds data
 	ID: 79
-	Species: (carnation1) 15
+	Species: (carnation1) 15 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -8415,7 +8417,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|12
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -8439,7 +8441,7 @@ FlowerVariationOds data
 	AP: 88
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100|4
 -
 	theme: (Full of gratitude) 202
 	AP:✔ 75
@@ -8531,7 +8533,7 @@ FlowerVariationOds data
 #80
 FlowerVariationOds data
 	ID: 80
-	Species: (carnation1) 15
+	Species: (carnation1) 15 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -8653,7 +8655,7 @@ FlowerVariationOds data
 #81
 FlowerVariationOds data
 	ID: 81
-	Species: (carnation1) 15
+	Species: (carnation1) 15 (4|8|12)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -8775,7 +8777,7 @@ FlowerVariationOds data
 #82
 FlowerVariationOds data
 	ID: 82
-	Species: (carnation1) 15
+	Species: (carnation1) 15 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -8814,7 +8816,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|4
 -
 	theme: (Burning heart) 205
 	AP: 65
@@ -8900,7 +8902,7 @@ FlowerVariationOds data
 #83
 FlowerVariationOds data
 	ID: 83
-	Species: (carnation1) 15
+	Species: (carnation1) 15 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -8936,7 +8938,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100|4
 -
 	theme: (Full of gratitude) 202
 	AP:✔ 50
@@ -9028,7 +9030,7 @@ FlowerVariationOds data
 #84
 FlowerVariationOds data
 	ID: 84
-	Species: (carnation1) 15
+	Species: (carnation1) 15 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -9040,7 +9042,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -9070,7 +9072,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Let's send a cheer) 203
-	AP: 12
+	AP:✔ 12|4
 -
 	theme: (Burning heart) 205
 	AP: 77
@@ -9156,7 +9158,7 @@ FlowerVariationOds data
 #85
 FlowerVariationOds data
 	ID: 85
-	Species: (carnation1) 15
+	Species: (carnation1) 15 (4|8|12)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -9201,7 +9203,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Happiness w'in you) 207
-	AP: 31
+	AP:✔ 31|4
 -
 	theme: (Believe in eternity) 208
 	AP:✔ 11
@@ -9269,7 +9271,7 @@ FlowerVariationOds data
 #86
 FlowerVariationOds data
 	ID: 86
-	Species: canola flower/16
+	Species: canola flower/16 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -9359,7 +9361,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (Gift to lovers) 609
 	AP: 5
@@ -9376,7 +9378,7 @@ FlowerVariationOds data
 #87
 FlowerVariationOds data
 	ID: 87
-	Species: white clover 18
+	Species: white clover 18 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -9406,10 +9408,10 @@ FlowerVariationOds data
 	AP: 44
 -
 	theme: (Fresh) 108
-	AP:✔ 100
+	AP:✔ 100|8
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100|4
 -
 	theme: (Don't forget/kind) 206
 	AP: 3
@@ -9483,7 +9485,7 @@ FlowerVariationOds data
 #88
 FlowerVariationOds data
 	ID: 88
-	Species: white clover 18
+	Species: white clover 18 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -9495,7 +9497,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 83
+	AP:✔ 83|12
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -9510,13 +9512,13 @@ FlowerVariationOds data
 	AP:✔ 68
 -
 	theme: (Fresh) 108
-	AP:✔ 100
+	AP:✔ 100|8
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10 4
 -
 	theme: (Prayer for peace) 204
-	AP: 10
+	AP:✔ 10|4
 -
 	theme: (Happiness w'in you) 207
 	AP: 91
@@ -9584,7 +9586,7 @@ FlowerVariationOds data
 #89
 FlowerVariationOds data
 	ID: 89
-	Species: (dandelion) 19
+	Species: (dandelion) 19 (2|4|6)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -9596,7 +9598,7 @@ FlowerVariationOds data
 
 -
 	theme: (Fresh Yellow) 4
-	AP:✔ 73
+	AP: 73
 -
 	theme: (Posiive Orange) 5
 	AP:✔ 33
@@ -9614,7 +9616,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Prayer for peace) 204
 	AP: 10
@@ -9694,7 +9696,7 @@ FlowerVariationOds data
 #90
 FlowerVariationOds data
 	ID: 90
-	Species: (dandelion) 19
+	Species: (dandelion) 19 (2|4|6)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -10365,7 +10367,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Let's send a cheer) 203
-	AP: 12
+	AP:✔ 12|2
 -
 	theme: (Happiness w'in you) 207
 	AP: 10
@@ -11160,7 +11162,7 @@ FlowerVariationOds data
 #106
 FlowerVariationOds data
 	ID: 106
-	Species: (zinnia) 24
+	Species: (zinnia) 24 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -11294,7 +11296,7 @@ FlowerVariationOds data
 #107
 FlowerVariationOds data
 	ID: 107
-	Species: (zinnia) 24
+	Species: (zinnia) 24 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -11428,7 +11430,7 @@ FlowerVariationOds data
 #108
 FlowerVariationOds data
 	ID: 108
-	Species: (zinnia) 24
+	Species: (zinnia) 24 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -11550,7 +11552,7 @@ FlowerVariationOds data
 #109
 FlowerVariationOds data
 	ID: 109
-	Species: (zinnia) 24
+	Species: (zinnia) 24 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -11586,7 +11588,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Let's send a cheer) 203
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Prayer for peace) 204
 	AP: 22
@@ -11672,7 +11674,7 @@ FlowerVariationOds data
 #110
 FlowerVariationOds data
 	ID: 110
-	Species: (zinnia) 24
+	Species: (zinnia) 24 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -11797,7 +11799,7 @@ FlowerVariationOds data
 -
 FlowerVariationOds data
 	ID: 111
-	Species: (zinnia) 24
+	Species: (zinnia) 24 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -12151,7 +12153,7 @@ FlowerVariationOds data
 -
 FlowerVariationOds data
 	ID: 114
-	Species: (plumeria) 25
+	Species: (plumeria) 25 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -12255,7 +12257,7 @@ FlowerVariationOds data
 -
 FlowerVariationOds data
 	ID: 115
-	Species: (plumeria) 25
+	Species: (plumeria) 25 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -12294,7 +12296,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Let's send a cheer) 203
-	AP: 16
+	AP:✔ 16|4
 -
 	theme: (Happiness w'in you) 207
 	AP: 36
@@ -13361,7 +13363,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP:✔ 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -13373,10 +13375,10 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Chic) 107
-	AP:✔ 100
+	AP:✔ 100|12
 -
 	theme: (Let's send a cheer) 203
-	AP: 5
+	AP:✔ 5|6
 -
 	theme: (Believe in eternity) 208
 	AP: 15
@@ -14149,7 +14151,7 @@ FlowerVariationOds data
 #132
 FlowerVariationOds data
 	ID: 132
-	Species: (lavender) 28
+	Species: (lavender) 28 (2|4|6)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -14241,7 +14243,7 @@ FlowerVariationOds data
 #133
 FlowerVariationOds data
 	ID: 133
-	Species: (lavender) 28
+	Species: (lavender) 28 (2|4|6)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -14327,7 +14329,7 @@ FlowerVariationOds data
 #134
 FlowerVariationOds data
 	ID: 134
-	Species: (lavender) 28
+	Species: (lavender) 28 (2|4|6)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -16539,7 +16541,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|6
 -
 	theme: (Prayer for peace) 204
 	AP: 5
@@ -16843,7 +16845,7 @@ FlowerVariationOds data
 #154
 FlowerVariationOds data
 	ID: 154
-	Species: sasanqua 36
+	Species: sasanqua 36 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -16879,7 +16881,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10|4
 -
 	theme: (Believe in eternity) 208
 	AP:✔ 53
@@ -17234,7 +17236,7 @@ FlowerVariationOds data
 	AP:✔ 30
 -
 	theme: (Let's send a cheer) 203
-	AP: 5
+	AP:✔ 5|4
 -
 	theme: (Burning heart) 205
 	AP: 78
@@ -17356,7 +17358,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Let's send a cheer) 203
-	AP: 3
+	AP:✔ 3|4
 -
 	theme: (Burning heart) 205
 	AP: 55
@@ -18004,7 +18006,7 @@ FlowerVariationOds data
 #164
 FlowerVariationOds data
 	ID: 164
-	Species: (holly) 39
+	Species: (holly) 39 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -18034,7 +18036,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Let's send a cheer) 203
-	AP: 16
+	AP:✔ 16|4
 -
 	theme: (Prayer for peace) 204
 	AP: s75
@@ -18099,7 +18101,7 @@ FlowerVariationOds data
 #165
 FlowerVariationOds data
 	ID: 165
-	Species: (holly) 39
+	Species: (holly) 39 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -18135,7 +18137,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10|4
 -
 	theme: (Prayer for peace) 204
 	AP: s65
@@ -18717,7 +18719,7 @@ FlowerVariationOds data
 #171
 FlowerVariationOds data
 	ID: 171
-	Species: rose balsam 41
+	Species: rose balsam 41 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -18750,7 +18752,7 @@ FlowerVariationOds data
 	AP: 44
 -
 	theme: (Let's send a cheer) 203
-	AP: 56
+	AP:✔ 56|4
 -
 	theme: (TMF-September-) 308
 	AP:✔ 80
@@ -18797,7 +18799,7 @@ FlowerVariationOds data
 #172
 FlowerVariationOds data
 	ID: 172
-	Species: rose balsam 41
+	Species: rose balsam 41  (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -18880,7 +18882,7 @@ FlowerVariationOds data
 #173
 FlowerVariationOds data
 	ID: 173
-	Species: rose balsam 41
+	Species: rose balsam 41 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -18948,7 +18950,7 @@ FlowerVariationOds data
 #174
 FlowerVariationOds data
 	ID: 174
-	Species: rose balsam 41
+	Species: rose balsam 41 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -19118,7 +19120,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (autumn red) 718
-	AP: 60
+	AP:✔ 60|6
 -
 	theme: (autumn pink) 719
 	AP: 25
@@ -19156,7 +19158,7 @@ FlowerVariationOds data
 	AP: 74
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|6
 -
 	theme: (Prayer for peace) 204
 	AP: 76
@@ -19875,7 +19877,7 @@ FlowerVariationOds data
 #183
 FlowerVariationOds data
 	ID: 183
-	Species: (salvia) 43
+	Species: (salvia) 43 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -19908,7 +19910,7 @@ FlowerVariationOds data
 	AP: 60
 -
 	theme: (Let's send a cheer) 203
-	AP: 56
+	AP:✔ 56|4
 -
 	theme: (Burning heart) 205
 	AP:✔ 99
@@ -19988,7 +19990,7 @@ FlowerVariationOds data
 #184
 FlowerVariationOds data
 	ID: 184
-	Species: (salvia) 43
+	Species: (salvia) 43 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -20018,7 +20020,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|4
 -
 	theme: (Prayer for peace) 204
 	AP: 55
@@ -20101,7 +20103,7 @@ FlowerVariationOds data
 #185
 FlowerVariationOds data
 	ID: 185
-	Species: (salvia) 43
+	Species: (salvia) 43 (4|8|12)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -20137,7 +20139,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (Let's send a cheer) 203
-	AP: 54
+	AP:✔ 54|4
 -
 	theme: (Burning heart) 205
 	AP: 6
@@ -20214,7 +20216,7 @@ FlowerVariationOds data
 #186
 FlowerVariationOds data
 	ID: 186
-	Species: (salvia) 43
+	Species: (salvia) 43 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -20847,7 +20849,7 @@ FlowerVariationOds data
 	AP: 48
 -
 	theme: (Let's send a cheer) 203
-	AP: 16
+	AP:✔ 16|6
 -
 	theme: (Burning heart) 205
 	AP: 100
@@ -22247,7 +22249,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (autumn red) 718
-	AP: 51
+	AP:✔ 51|4
 -
 	theme: (autumn blue) 720
 	AP:✅✅ 3
@@ -22339,7 +22341,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (autumn red) 718
-	AP: 52
+	AP:✔ 52|4
 -
 	theme: (autumn blue) 720
 	AP:✅✅ 3
@@ -22351,7 +22353,7 @@ FlowerVariationOds data
 	AP:✔ 100|4
 -
 	theme: (autumn black) 725
-	AP: 88
+	AP:✔ 88
  
 #207
 FlowerVariationOds data
@@ -22881,7 +22883,7 @@ FlowerVariationOds data
 	AP: 88
 -
 	theme: (Let's send a cheer) 203
-	AP: 3
+	AP:✔ 3|6
 -
 	theme: (Autumn Roman) 314
 	AP:✔ 99
@@ -22929,7 +22931,7 @@ FlowerVariationOds data
 #214
 FlowerVariationOds data
 	ID: 214
-	Species: (wintergreen) 55
+	Species: (wintergreen) 55 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -22959,7 +22961,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10
 -
 	theme: (healthy growth) 411
 	AP: 5
@@ -22977,7 +22979,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (autumn red) 718
-	AP:✔ 52
+	AP:✔ 52|4
 -
 	theme: (winter red) 727
 	AP:✔ 65
@@ -22988,7 +22990,7 @@ FlowerVariationOds data
 #215
 FlowerVariationOds data
 	ID: 215
-	Species: (wintergreen) 55
+	Species: (wintergreen) 55   (4|8|12)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -23015,7 +23017,7 @@ FlowerVariationOds data
 	AP: 66
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Burning heart) 205
 	AP: 5
@@ -23056,7 +23058,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Posiive Orange) 5
 	AP:✔ 30
@@ -23083,7 +23085,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (Let's send a cheer) 203
-	AP: 8
+	AP:✔ 8|6
 -
 	theme: (Prayer for peace) 204
 	AP: 33
@@ -23422,7 +23424,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -23449,7 +23451,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Let's send a cheer) 203
-	AP: 56
+	AP:✔ 56|6
 -
 	theme: (Prayer for peace) 204
 	AP: 88
@@ -23556,7 +23558,7 @@ FlowerVariationOds data
 	AP: 33
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|6
 -
 	theme: (Prayer for peace) 204
 	AP: 10
@@ -23749,7 +23751,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Rich Black) 7
 	AP: 5
@@ -25611,7 +25613,7 @@ FlowerVariationOds data
 	AP:✔ 65
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|4
 -
 	theme: (Burning heart) 205
 	AP: 65
@@ -27112,7 +27114,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|4
 -
 	theme: (Burning heart) 205
 	AP: 15
@@ -27796,7 +27798,7 @@ FlowerVariationOds data
 	AP: 16
 -
 	theme: (autumn red) 718
-	AP: 41
+	AP:✔ 41|4
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -30388,7 +30390,7 @@ FlowerVariationOds data
 	AP: 22
 -
 	theme: (Let's send a cheer) 203
-	AP: 56
+	AP:✔ 56|4
 -
 	theme: (Happiness w'in you) 207
 	AP: 50
@@ -30655,7 +30657,7 @@ FlowerVariationOds data
 	AP: 56
 -
 	theme: (Let's send a cheer) 203
-	AP: 15
+	AP:✔ 15|4
 -
 	theme: (Don't forget/kind) 206
 	AP: 15
@@ -32271,7 +32273,7 @@ FlowerVariationOds data
 	AP:✔ 54
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|6
 -
 	theme: (TMF-March-) 302
 	AP: 88
@@ -32497,7 +32499,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (autumn red) 718
-	AP: 5
+	AP:✔ 5|4
  
 #308
 FlowerVariationOds data
@@ -34008,7 +34010,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Fresh Yellow) 4
 	AP: 10
@@ -34249,7 +34251,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Fresh Yellow) 4
 	AP: 10
@@ -35150,7 +35152,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Let's send a cheer) 203
-	AP: 11
+	AP:✔ 11|4
 -
 	theme: (TMF-February-) 301
 	AP: 78
@@ -35266,7 +35268,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10|4
 -
 	theme: (TMF-February-) 301
 	AP: 78
@@ -35356,7 +35358,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -35497,7 +35499,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|4
 -
 	theme: (Don't forget/kind) 206
 	AP: 26
@@ -35580,7 +35582,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -35697,7 +35699,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -36264,6 +36266,7 @@ FlowerVariationOds data
 -
 	theme: (autumn black) 725
 	AP: 64
+
 #345
 FlowerVariationOds data
 	ID: 346
@@ -36655,7 +36658,7 @@ FlowerVariationOds data
 	AP: 54
 -
 	theme: (Let's send a cheer) 203
-	AP: 55
+	AP:✔ 55|4
 -
 	theme: (Burning heart) 205
 	AP: 15
@@ -37525,7 +37528,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (autumn red) 718
-	AP: 80
+	AP:✔ 80
 -
 	theme: (autumn pink) 719
 	AP: 29
@@ -37813,6 +37816,7 @@ FlowerVariationOds data
 -
 	theme: (winter orange) 732
 	AP: 6
+
 #361
 FlowerVariationOds data
 	ID: 362
@@ -37936,7 +37940,7 @@ FlowerVariationOds data
 	AP:✔ 76
 -
 	theme: (autumn red) 718
-	AP: 3
+	AP: ✅✅3
 -
 	theme: (autumn blue) 720
 	AP: 3
@@ -38213,7 +38217,7 @@ FlowerVariationOds data
 	AP: 69
 -
 	theme: (Let's send a cheer) 203
-	AP: 57
+	AP:✔ 57|4
 -
 	theme: (Spring bright) 312
 	AP: 5
@@ -38304,7 +38308,7 @@ FlowerVariationOds data
 	AP: 69
 -
 	theme: (Let's send a cheer) 203
-	AP: 56
+	AP:✔ 56|4
 -
 	theme: (Spring bright) 312
 	AP: 10
@@ -38453,10 +38457,7 @@ FlowerVariationOds data
 -
 	theme: (winter blue) 729
 	AP: 50
-- 
- 
-	theme: (winter black) 734
-	AP: 1
+
 #367
 FlowerVariationOds data
 	ID: 368
@@ -38542,7 +38543,7 @@ FlowerVariationOds data
 #368
 FlowerVariationOds data
 	ID: 369
-	Species: frost aster 93
+	Species: frost aster 93 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -38607,7 +38608,7 @@ FlowerVariationOds data
 #369
 FlowerVariationOds data
 	ID: 370
-	Species: frost aster 93
+	Species: frost aster 93 (4|8|12)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -38681,7 +38682,7 @@ FlowerVariationOds data
 #370
 FlowerVariationOds data
 	ID: 371
-	Species: frost aster 93
+	Species: frost aster 93 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -38758,7 +38759,7 @@ FlowerVariationOds data
 #371
 FlowerVariationOds data
 	ID: 372
-	Species: frost aster 93
+	Species: frost aster 93 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -38912,7 +38913,7 @@ FlowerVariationOds data
 #373
 FlowerVariationOds data
 	ID: 500
-	Species: wisteria 13
+	Species: wisteria 13 (8|16|24)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -39010,7 +39011,7 @@ FlowerVariationOds data
 #374
 FlowerVariationOds data
 	ID: 501
-	Species: wisteria 13
+	Species: wisteria 13 (8|16|24)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -39096,7 +39097,7 @@ FlowerVariationOds data
 #375
 FlowerVariationOds data
 	ID: 502
-	Species: wisteria 13
+	Species: wisteria 13 (8|16|24)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -39167,7 +39168,7 @@ FlowerVariationOds data
 #376
 FlowerVariationOds data
 	ID: 503
-	Species: cherry blossom/17
+	Species: cherry blossom/17 (8|16|24)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -39259,7 +39260,7 @@ FlowerVariationOds data
 #377
 FlowerVariationOds data
 	ID: 504
-	Species: cherry blossom/17
+	Species: cherry blossom/17 (8|16|24)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -39354,7 +39355,7 @@ FlowerVariationOds data
 #378
 FlowerVariationOds data
 	ID: 505
-	Species: cherry blossom/17
+	Species: cherry blossom/17 (8|16|24)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -39591,7 +39592,7 @@ FlowerVariationOds data
 #381
 FlowerVariationOds data
 	ID: 508
-	Species: maple 30
+	Species: maple 30 (8|16|24)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -39677,7 +39678,7 @@ FlowerVariationOds data
 #382
 FlowerVariationOds data
 	ID: 509
-	Species: maple 30
+	Species: maple 30 (8|16|24)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -39751,7 +39752,7 @@ FlowerVariationOds data
 #383
 FlowerVariationOds data
 	ID: 510
-	Species: maple 30
+	Species: maple 30 (8|16|24)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -39828,7 +39829,7 @@ FlowerVariationOds data
 #384
 FlowerVariationOds data
 	ID: 511
-	Species: maple 30
+	Species: maple 30 (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -39846,7 +39847,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Let's send a cheer) 203
-	AP: 50
+	AP:✔ 50|8
 -
 	theme: (Happiness w'in you) 207
 	AP: 55
@@ -39899,7 +39900,7 @@ FlowerVariationOds data
 #385
 FlowerVariationOds data
 	ID: 512
-	Species: (fragrant olive) 31
+	Species: (fragrant olive) 31 (8|16|24)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -39988,7 +39989,7 @@ FlowerVariationOds data
 #386
 FlowerVariationOds data
 	ID: 513
-	Species: (plum blossom) 34
+	Species: (plum blossom) 34 (8|16|24)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -40000,7 +40001,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|24
 -
 	theme: (Lovely Pink) 1
 	AP: 25
@@ -40089,7 +40090,7 @@ FlowerVariationOds data
 #387
 FlowerVariationOds data
 	ID: 514
-	Species: (plum blossom) 34
+	Species: (plum blossom) 34 (8|16|24)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -40193,7 +40194,7 @@ FlowerVariationOds data
 #388
 FlowerVariationOds data
 	ID: 515
-	Species: (plum blossom) 34
+	Species: (plum blossom) 34 (8|16|24)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -40286,7 +40287,7 @@ FlowerVariationOds data
 #389
 FlowerVariationOds data
 	ID: 516
-	Species: (mistletoe) 51
+	Species: (mistletoe) 51 (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -40339,7 +40340,7 @@ FlowerVariationOds data
 #390
 FlowerVariationOds data
 	ID: 517
-	Species: (weeping cherry) 58
+	Species: (weeping cherry) 58 (8|16|24)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -40372,7 +40373,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Let's send a cheer) 203
-	AP: 5
+	AP:✔ 5|8
 -
 	theme: (Prayer for peace) 204
 	AP: 22
@@ -40437,7 +40438,7 @@ FlowerVariationOds data
 #391
 FlowerVariationOds data
 	ID: 518
-	Species: (weeping cherry) 58
+	Species: (weeping cherry) 58 (8|16|24)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -40532,7 +40533,7 @@ FlowerVariationOds data
 #392
 FlowerVariationOds data
 	ID: 519
-	Species: (weeping cherry) 58
+	Species: (weeping cherry) 58 (8|16|24)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -40615,7 +40616,7 @@ FlowerVariationOds data
 #393
 FlowerVariationOds data
 	ID: 800
-	Species: pine tree 1000
+	Species: pine tree 1000 (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -40665,7 +40666,7 @@ FlowerVariationOds data
 #394
 FlowerVariationOds data
 	ID: 801
-	Species: birch 1001
+	Species: birch 1001 (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -40792,7 +40793,7 @@ FlowerVariationOds data
 #396
 FlowerVariationOds data
 	ID: 803
-	Species: cedar 1003
+	Species: cedar 1003 (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -40830,7 +40831,7 @@ FlowerVariationOds data
 #397
 FlowerVariationOds data
 	ID: 804
-	Species: cypress 1004
+	Species: cypress 1004 (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -40871,7 +40872,7 @@ FlowerVariationOds data
 #398
 FlowerVariationOds data
 	ID: 805
-	Species: fir 1005
+	Species: fir 1005 (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -40918,7 +40919,7 @@ FlowerVariationOds data
 #399
 FlowerVariationOds data
 	ID: 806
-	Species: (willow) 1006 
+	Species: (willow) 1006  (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -40977,7 +40978,7 @@ FlowerVariationOds data
 #400
 FlowerVariationOds data
 	ID: 807
-	Species: palm 1007
+	Species: palm 1007 (8|16|24)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -41045,7 +41046,7 @@ FlowerVariationOds data
 #401
 FlowerVariationOds data
 	ID: 808
-	Species: nanten 1008
+	Species: nanten 1008 (6|12|18)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -41057,7 +41058,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100|18
 -
 	theme: (Lovely Pink) 1
 	AP: 100
@@ -41139,14 +41140,11 @@ FlowerVariationOds data
 -
 	theme: (winter red) 727
 	AP:✔ 80
-- 
- 
-	theme: (winter black) 734
-	AP: 1
+
 #402
 FlowerVariationOds data
 	ID: 809
-	Species: nanten 1008
+	Species: nanten 1008 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -41173,7 +41171,7 @@ FlowerVariationOds data
 	AP: 77
 -
 	theme: (Let's send a cheer) 203
-	AP: 10
+	AP:✔ 10|6
 -
 	theme: (Prayer for peace) 204
 	AP: 22
@@ -41225,15 +41223,12 @@ FlowerVariationOds data
 -
 	theme: (winter red) 727
 	AP:✔ 80
-- 
- 
-	theme: (winter black) 734
-	AP: 1
+
 
 #403
 FlowerVariationOds data
 	ID: 810
-	Species: nanten 1008
+	Species: nanten 1008 (6|12|18)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -41319,7 +41314,7 @@ FlowerVariationOds data
 #404
 FlowerVariationOds data
 	ID: 970
-	Species: (slender grass) 1100
+	Species: (slender grass) 1100 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -41351,7 +41346,7 @@ FlowerVariationOds data
 #405
 FlowerVariationOds data
 	ID: 990
-	Species: (open grass) 1101
+	Species: (open grass) 1101 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -41398,7 +41393,7 @@ FlowerVariationOds data
 	AP:✔ 30
 -
 	theme: (Let's send a cheer) 203
-	AP: 20
+	AP:✔ 20|2
 -
 	theme: (Unbeaten by Rain) 320
 	AP: 3
@@ -41415,7 +41410,7 @@ FlowerVariationOds data
 #407
 FlowerVariationOds data
 	ID: 995
-	Species: (thick grass) 1103
+	Species: (thick grass) 1103 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -41430,7 +41425,7 @@ FlowerVariationOds data
 	AP:✔ 33
 -
 	theme: (Let's send a cheer) 203
-	AP: 20
+	AP:✔ 20|2
 -
 	theme: (Unbeaten by Rain) 320
 	AP: 3
@@ -41646,7 +41641,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Natural Green) 8
-	AP:✔ 15
+	AP:✔ 15|30
 -
 	theme: (Cute) 100
 	AP: 10
@@ -41738,7 +41733,7 @@ FlowerVariationOds data
 
 -
 	theme: (Rich Black) 7
-	AP:✔ 7
+	AP:✔ 7|30
 -
 	theme: (Natural Green) 8
 	AP: 6
@@ -41818,7 +41813,7 @@ FlowerVariationOds data
 #412
 FlowerVariationOds data
 	ID: 1000
-	Species: mock strawberry 1106
+	Species: mock strawberry 1106 (2|4|6)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -41881,7 +41876,7 @@ FlowerVariationOds data
 #413
 FlowerVariationOds data
 	ID: 1001
-	Species: (chickweed) 1107
+	Species: (chickweed) 1107 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -41967,7 +41962,7 @@ FlowerVariationOds data
 #414
 FlowerVariationOds data
 	ID: 1002
-	Species: kidney weed 1108
+	Species: kidney weed 1108 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -42029,7 +42024,7 @@ FlowerVariationOds data
 #415
 FlowerVariationOds data
 	ID: 1003
-	Species: 1109 plantain
+	Species: 1109 plantain (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -42093,8 +42088,8 @@ FlowerVariationOds data
  
 #416
 FlowerVariationOds data
-	ID:  (1004
-	Species: rumex 1110
+	ID: 1004
+	Species: rumex 1110 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -42118,7 +42113,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Let's send a cheer) 203
-	AP: 20
+	AP:✔ 20|4
 -
 	theme: (Summer Glass) 313
 	AP:✔ 14
@@ -42156,7 +42151,7 @@ FlowerVariationOds data
 #417
 FlowerVariationOds data
 	ID: 1005
-	Species: sowthistle 1111
+	Species: sowthistle 1111 (2|4|6)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -42230,7 +42225,7 @@ FlowerVariationOds data
 #418
 FlowerVariationOds data
 	ID: 1006
-	Species: green bristle grass 1112
+	Species: green bristle grass 1112 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -42340,7 +42335,7 @@ FlowerVariationOds data
 #419
 FlowerVariationOds data
 	ID: 1007
-	Species: green bristle grass 1112
+	Species: green bristle grass 1112 (2|4|6)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -42444,7 +42439,7 @@ FlowerVariationOds data
 #420
 FlowerVariationOds data
 	ID: 1008
-	Species: horsetail 1113
+	Species: horsetail 1113 (2|4|6)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -42518,7 +42513,7 @@ FlowerVariationOds data
 #421
 FlowerVariationOds data
 	ID: 1009
-	Species: Persian speedwell 1114
+	Species: Persian speedwell 1114 (2|4|6)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -42629,7 +42624,7 @@ FlowerVariationOds data
 #422
 FlowerVariationOds data
 	ID: 1010
-	Species: chameleon plant 1115
+	Species: chameleon plant 1115 (2|4|6)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -42697,7 +42692,7 @@ FlowerVariationOds data
 #423
 FlowerVariationOds data
 	ID: 1011
-	Species: dayflower 1116
+	Species: dayflower 1116 (2|4|6)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -42801,7 +42796,7 @@ FlowerVariationOds data
 #424
 FlowerVariationOds data
 	ID: 1012
-	Species: mugwort 1117
+	Species: mugwort 1117 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -42866,7 +42861,7 @@ FlowerVariationOds data
 #425
 FlowerVariationOds data
 	ID: 1013
-	Species: tufted knotweed 1118
+	Species: tufted knotweed 1118 (2|4|6)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -42902,7 +42897,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Let's send a cheer) 203
-	AP: 25
+	AP:✔ 25|2
 -
 	theme: (Prayer for peace) 204
 	AP: 52
@@ -42986,7 +42981,7 @@ FlowerVariationOds data
 #426
 FlowerVariationOds data
 	ID: 1014
-	Species: red deadnettle 1119
+	Species: red deadnettle 1119 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -43051,7 +43046,7 @@ FlowerVariationOds data
 #427
 FlowerVariationOds data
 	ID: 1015
-	Species: Annual bluegrass 1120
+	Species: Annual bluegrass 1120 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -43113,7 +43108,7 @@ FlowerVariationOds data
 #428
 FlowerVariationOds data
 	ID: 1016
-	Species: Bush Clover 1121
+	Species: Bush Clover 1121 (2|4|6)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -43211,7 +43206,7 @@ FlowerVariationOds data
 #429
 FlowerVariationOds data
 	ID: 1017
-	Species: pampas grass 1122
+	Species: pampas grass 1122 (2|4|6)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -43325,7 +43320,7 @@ FlowerVariationOds data
 #430
 FlowerVariationOds data
 	ID: 1018
-	Species:  (pampas grass) 1122
+	Species:  (pampas grass) 1122 (2|4|6)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -43429,7 +43424,7 @@ FlowerVariationOds data
 #431
 FlowerVariationOds data
 	ID: 1019
-	Species: pampas grass 1122
+	Species: pampas grass 1122 (2|4|6)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -44797,7 +44792,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (autumn red) 718
-	AP: 0
+	AP:✔✔ 0
 -
 	theme: (autumn pink) 719
 	AP:✔ 47|6
@@ -45044,7 +45039,7 @@ FlowerVariationOds data
 	AP: 33
 -
 	theme: (autumn red) 718
-	AP: 0
+	AP:✔✔ 0
 -
 	theme: (autumn pink) 719
 	AP:✔ 50|2
@@ -45949,7 +45944,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (Gift to lovers) 609
 	AP:✔ 100
@@ -46077,7 +46072,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (SFB Spring) 606
-	AP: 100
+	AP:✔ 100|8
 -
 	theme: (Gift to lovers) 609
 	AP:✔ 100
@@ -49831,7 +49826,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100|12
 -
 	theme: (Pure white) 6
 	AP: 25
@@ -50897,7 +50892,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mys.Purple) 3
-	AP: 100
+	AP:✔ 100|12
 -
 	theme: (Pure white) 6
 	AP: 5
@@ -52236,10 +52231,7 @@ FlowerVariationOds data
 -
 	theme: (winter white) 733
 	AP: 6
-- 
- 
-	theme: (winter black) 734
-	AP: 1
+
 
 #518
 FlowerVariationOds data
@@ -53423,7 +53415,7 @@ FlowerVariationOds data
 #530
 FlowerVariationOds data
 	ID: |3000
-	Species: cherry blossom/17
+	Species: cherry blossom/17 (8|16|24)
 	Color
 		UInt8 color = 200 (red x white)
 		Hybrd: Y
@@ -53605,7 +53597,7 @@ FlowerVariationOds data
 #532
 FlowerVariationOds data
 	ID: 3002
-	Species: (weeping cherry) 58
+	Species: (weeping cherry) 58 (8|16|24)
 	Color
 		UInt8 color = (red x white) 202 
 		Hybrd: Y
@@ -53682,7 +53674,7 @@ FlowerVariationOds data
 #533
 FlowerVariationOds data
 	ID: 3500
-	Species: nanten 1008
+	Species: nanten 1008 (6|12|18)
 	Color
 		UInt8 color = 203 (red x red)
 		Hybrd: Y
@@ -53694,7 +53686,7 @@ FlowerVariationOds data
 
 -
 	theme: (Passion Red) 0
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Lovely Pink) 1
 	AP: 100
@@ -53780,7 +53772,7 @@ FlowerVariationOds data
 	ID: 3501
 	Species: sanseveria 1301
 	Color
-		UInt8 color = (whtxgrn) 61
+		UInt8 color = (wht x grn) 61
 		Hybrd: Y
 	probability: 0
 	HW hash (ignore this):
@@ -53838,7 +53830,7 @@ FlowerVariationOds data
 	AP: 55
 #535
 FlowerVariationOds data
-	ID: |5000
+	ID: 5000
 	Species: holly bell 4003
 	Color
 		UInt8 color = 5 (Yellow)
@@ -54236,7 +54228,7 @@ FlowerVariationOds data
  
 #540
 FlowerVariationOds data
-	ID: (theme N/A) 5005
+	ID: 5005
 	Species: heart's chocolate pop 4005
 	Color
 		UInt8 color = 7 (White)
@@ -54838,7 +54830,7 @@ FlowerVariationOds data
 	AP:✔ 25
 -
 	theme: (Let's send a cheer) 203
-	AP: 5
+	AP:✔ 5|8
 -
 	theme: (Don't forget/kind) 206
 	AP: 15
@@ -55126,7 +55118,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Manmaru moon) 404
-	AP:✔ 75|12
+	AP:✔ 75|16
 -
 	theme: (SFB Spring) 606
 	AP: 15
@@ -55710,7 +55702,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (autumn red) 718
-	AP: 12
+	AP:✔ 12
 -
 	theme: (autumn yellow) 722
 	AP: 3
