@@ -1,7 +1,7 @@
 Legend:
 * FlowerVariationOds data: denotes what the section is defining; think of it as the subsection title
 * ID (first one): flower variation internal ID number
-* Species: plant species internal ID number; (X|X|X) indicates the multiple (see below)
+* Species: (species name;) plant species internal ID number; (X|X|X) indicates the multiplier (see below)
 * Int8 color: 1-9 (mostly) for solid colors, 10+ for hybrids
 * probability: related to the color's chance to grow from seed? hybrids are all 0
 * HW hash (originally "LocalizationHash languageHash"), SInt64 longHash, int intHash: hash codes for the variation's hedgehog words; can ignore this
@@ -11,15 +11,17 @@ Legend:
 
 * "Theme N/A" themes do not appear in-game; based on localization files they would be named "Annual Grass," ("一年草の花") "Year-End Grass," ("越年草の花") and "Perennial Grass," ("多年草の花.")
 * All 1-AP data points are removed; plants that cannot be used in Coordinate are removed
-* ✔ means the variaion is tested. ❌ means the variation can't be tested. ✅✅ means the variation has had its value for the theme extrapolated from other themes' values. ? means the variation's tested value doesn't line up with its AP.
+* ✔ means the variation is tested. ❌ means the variation can't be tested. ✅✅ means the variation has had its value for the theme extrapolated from other themes' values. ? means the variation's tested value doesn't line up with its AP.
 
 Multiples
-* After an AP value: A | and number indicate the multiple of the AP value the plant's base points equal. For instance, "AP: 60|4" means the plant has a base value of 240 from an AP value of 60.
-** This multiple appears to be based on the species of the plant and the "level" of the theme. The "level" also affects the theme's trimmin bonus.
-*** The multiple decreases by an increment with each level of theme. Level 1 (All-year colors, seasonal "four-kanji name" themes) will give a minimum of 6x the AP value; level 3 (All-year sentiment, seasonal color themes) give a minimum of 2x.
+* A | and number indicate the multiple of the AP value the plant's base points equal. For instance, "AP: 60|4" means the plant has been found to have a base value of 240 from an AP value of 60.
 * On a species name/ID: A | and number indicate the amount of times the species's variations' AP value is multiplied to get its base value for a theme
+** This multiplier appears to be based on the species of the plant and the "level" of the theme. The "level" also affects the theme's trimmin bonus.
+*** The multiple decreases by an increment with each level of theme. Level 1 (All-year colors, seasonal "four-kanji name" themes) will give a minimum of 6x the AP value; level 3 (All-year sentiment, seasonal color themes) give a minimum of 2x.
 
 
+Checking off
+* A variation with no check or ❌ is either unmentioned in the guide or under "testing needed." As of c. 10/06/2026, we knoww the multipliers for most plants, therefore testing is no longer necessary.
 * As of 10/05/2026 not all themes have data checked off.
 ** Themes unchecked: Red (90s and below), pink (90s and below), blue, purple, white all-year; Burning Heart; Color in the Room (partial) Gift to Lovers (partial) winter themes (poetic +color); partial completion of others
 
@@ -13931,7 +13933,7 @@ FlowerVariationOds data
 	AP:✔ 66
 -
 	theme: (Pure white) 6
-	AP: 120
+	AP:✔ 120
 -
 	theme: (Natural Green) 8
 	AP: 5
@@ -23082,7 +23084,7 @@ FlowerVariationOds data
 	AP: 87
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Let's send a cheer) 203
 	AP:✔ 8|6
@@ -24879,7 +24881,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (W/love/heart) 200
-	AP: 30
+	AP:✔ 30
 -
 	theme: (Don't forget/kind) 206
 	AP: 10
@@ -25078,7 +25080,7 @@ FlowerVariationOds data
 
 -
 	theme: (Pure white) 6
-	AP: 85
+	AP:✔ 85|12
 -
 	theme: (Natural Green) 8
 	AP: 18
@@ -25182,7 +25184,7 @@ FlowerVariationOds data
 	AP: 59
 -
 	theme: (W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Prayer for peace) 204
 	AP: 10
@@ -26826,7 +26828,7 @@ FlowerVariationOds data
 	AP:✔ 30
 -
 	theme: (Happiness w'in you) 207
-	AP: 55
+	AP:✅✅ 55
 -
 	theme: (TMF-October-) 309
 	AP:✔ 50|8
@@ -26918,7 +26920,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Happiness w'in you) 207
-	AP: 64
+	AP:✅✅ 64
 -
 	theme: (TMF-October-) 309
 	AP:✔ 50|8
@@ -27515,7 +27517,7 @@ FlowerVariationOds data
 	AP: 36
 -
 	theme: (Happiness w'in you) 207
-	AP: 10
+	AP:✅✅ 10
 -
 	theme: (Believe in eternity) 208
 	AP:✔  3
@@ -28124,7 +28126,7 @@ FlowerVariationOds data
 	AP: 76
 -
 	theme: (Happiness w'in you) 207
-	AP: 10
+	AP:✅✅ 10
 -
 	theme: (Spring bright) 312
 	AP: 10
@@ -28311,7 +28313,7 @@ FlowerVariationOds data
 	AP: 44
 -
 	theme: (Happiness w'in you) 207
-	AP: 30
+	AP:✅✅ 30
 -
 	theme: (Spring bright) 312
 	AP: 5
@@ -28427,7 +28429,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Happiness w'in you) 207
-	AP: 10
+	AP:✅✅ 10
 -
 	theme: (Autumn Roman) 314
 	AP:✔ 98
@@ -29065,7 +29067,7 @@ FlowerVariationOds data
 	AP: 12
 -
 	theme: (Happiness w'in you) 207
-	AP: 5
+	AP:✅✅ 5
 -
 	theme: (TMF-January-) 300
 	AP: 10
@@ -29172,7 +29174,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Happiness w'in you) 207
-	AP: 33
+	AP:✅✅ 33
 -
 	theme: (TMF-January-) 300
 	AP: 10
@@ -29276,7 +29278,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Happiness w'in you) 207
-	AP: 34
+	AP:✅✅ 34
 -
 	theme: (TMF-January-) 300
 	AP: 10
@@ -29475,7 +29477,7 @@ FlowerVariationOds data
 	AP: 98
 -
 	theme: (Happiness w'in you) 207
-	AP: 41
+	AP:✅✅ 41
 -
 	theme: (TMF-January-) 300
 	AP: 10
@@ -29583,7 +29585,7 @@ FlowerVariationOds data
 	AP: 61
 -
 	theme: (Happiness w'in you) 207
-	AP: 10
+	AP:✅✅ 10
 -
 	theme: (TMF-January-) 300
 	AP: 10
@@ -30021,7 +30023,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Happiness w'in you) 207
-	AP: 30
+	AP:✅✅ 30
 -
 	theme: (TMF-January-) 300
 	AP: 8
@@ -30126,7 +30128,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Happiness w'in you) 207
-	AP: 5
+	AP:✅✅ 5
 -
 	theme: (TMF-January-) 300
 	AP: 8
@@ -30225,7 +30227,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Happiness w'in you) 207
-	AP: 50
+	AP:✅✅ 50
 -
 	theme: (TMF-January-) 300
 	AP: 31
@@ -30309,13 +30311,13 @@ FlowerVariationOds data
 	AP:✔ 36
 -
 	theme: (Prayer for peace) 204
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Don't forget/kind) 206
 	AP: 10
 -
 	theme: (Happiness w'in you) 207
-	AP: 91
+	AP:✔ 91
 -
 	theme: (TMF-January-) 300
 	AP: 31
@@ -30393,7 +30395,7 @@ FlowerVariationOds data
 	AP:✔ 56|4
 -
 	theme: (Happiness w'in you) 207
-	AP: 50
+	AP:✅✅ 50
 -
 	theme: (TMF-January-) 300
 	AP: 31
@@ -30470,7 +30472,7 @@ FlowerVariationOds data
 	AP:✔ 76
 -
 	theme: (Happiness w'in you) 207
-	AP: 93
+	AP:✅✅ 93
 -
 	theme: (Believe in eternity) 208
 	AP:✔ 23
@@ -30556,7 +30558,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Friends forever) 201
-	AP: 20
+	AP:✔ 20
 -
 	theme: (Full of gratitude) 202
 	AP:✔ 30
@@ -30568,7 +30570,7 @@ FlowerVariationOds data
 	AP: 38
 -
 	theme: (Happiness w'in you) 207
-	AP: 56
+	AP:✅✅ 56
 -
 	theme: (TMF-January-) 300
 	AP: 5
@@ -30663,7 +30665,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Happiness w'in you) 207
-	AP:✔ 88
+	AP:✔ 88|4
 -
 	theme: (TMF-January-) 300
 	AP: 5
@@ -30856,7 +30858,7 @@ FlowerVariationOds data
 	AP:✔ 65
 -
 	theme: (Happiness w'in you) 207
-	AP: 50
+	AP:✔ 50
 -
 	theme: (TMF-January-) 300
 	AP: 5
@@ -55710,77 +55712,6 @@ FlowerVariationOds data
 	theme: (autumn orange) 723
 	AP: 5
 
-#557
-FlowerVariationOds data
-	ID: 5022
-	Species: lollipop/4009
-	Color
-		UInt8 color = pink 2
-		Hyb?: N
-	probability: 200
-	HW hash (ignore this):
-		SInt64 longHash = 1709183207866831247
-		int intHash =-558053553
-	int recievePrice = 1
-
--
-	theme: (Lovely Pink) 1
-	AP: 5
--
-	theme: (Fresh Yellow) 4
-	AP: 5
--
-	theme: (Posiive Orange) 5
-	AP:✔ 20
--
-	theme: (Rich Black) 7
-	AP: 3
--
-	theme: (Mixed color) 9
-	AP: 5
--
-	theme: (Pop) 104
-	AP: 25
--
-	theme: (Vivid) 105
-	AP: 10
--
-	theme: (Innocence) 106
-	AP: 3
--
-	theme: (TMF-October-) 309
-	AP:✔ 25
--
-	theme: (Autumn Roman) 314
-	AP:✔ 20
--
-	theme: (Autumn in the air) 318
-	AP:✔ 20
--
-	theme: (Autumn of appetite) 326
-	AP:✔ 25
--
-	theme: (Colored Trees) 327
-	AP: 25
--
-	theme: (Pumpkin and creepy night) 405
-	AP: 25
--
-	theme: (SFB Autumn) 608
-	AP:✔ 5
--
-	theme: (Gift to friends) 610
-	AP: 25
--
-	theme: (autumn red) 718
-	AP: 12
--
-	theme: (autumn yellow) 722
-	AP: 3
--
-	theme: (autumn orange) 723
-	AP: 5
-
 #558
 FlowerVariationOds data
 	ID: 5023
@@ -56227,7 +56158,7 @@ FlowerVariationOds data
 	int recievePrice = 1
 
 -
-	theme: 0
+	theme: (Passion Red) 0
 	AP: 20
 -
 	theme: (Cool Blue) 2
@@ -56759,7 +56690,7 @@ FlowerVariationOds data
 	int recievePrice = 1
 
 -
-	theme: 0
+	theme: (Passion Red) 0
 	AP: 5
 -
 	theme: (Mys.Purple) 3
@@ -57248,7 +57179,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Pop) 104
-	AP:✅ 75
+	AP:✔ 75
 -
 	theme: (Vivid) 105
 	AP: 35
