@@ -14,15 +14,18 @@ Legend:
 * ✔ means the variation is tested. ❌ means the variation can't be tested. ✅✅ means the variation has had its value for the theme extrapolated from other themes' values. ? means the variation's tested value doesn't line up with its AP.
 
 Multiples
-* A | and number indicate the multiple of the AP value the plant's base points equal. For instance, "AP: 60|4" means the plant has been found to have a base value of 240 from an AP value of 60.
-* On a species name/ID: A | and number indicate the amount of times the species's variations' AP value is multiplied to get its base value for a theme
-** This multiplier appears to be based on the species of the plant and the "level" of the theme. The "level" also affects the theme's trimmin bonus.
-*** The multiple decreases by an increment with each level of theme. Level 1 (All-year colors, seasonal "four-kanji name" themes) will give a minimum of 6x the AP value; level 3 (All-year sentiment, seasonal color themes) give a minimum of 2x.
+* Base value (maximum points one of the given variation can score on a Coordinate) is equivalent to 2-30x the AP values listed here.
+** This multiplier is based on the species of the plant and the "level" of the theme. The "level" also affects the theme's trimmin bonus.
+*** The multiple decreases by an increment with each level of theme. Level 1 (Green Day, All-year colors, seasonal "four-kanji name" poetic themes) will give a minimum of 6x the AP value; level 3 (Mixed Color, All-year sentiment, seasonal color themes) give a minimum of 2x.
 
-
+READ:
+* On a species name/ID: Three numbers separated with |s  indicate the amount of times the species's variations' AP value is multiplied to get its base value for a theme level
+* On a theme name: "Mult#1" etc indicate which multiplier on the species name that the AP should be multiplied by
+** A | and number after an AP value are leftovers from when the patterns were being figured out. They indicate the multiple of the AP value the plant's base points equal. For instance, "AP: 60|4" means the plant has been found to have a base value of 240 from an AP value of 60.
 Checking off
 * A variation with no check or ❌ is either unmentioned in the guide or under "testing needed." As of c. 10/06/2026, we knoww the multipliers for most plants, therefore testing is no longer necessary.
-* As of 10/05/2026 not all themes have data checked off.
+
+* As of 10/13/2026 not all themes have data checked off.
 ** Themes unchecked: Red (90s and below), pink (90s and below), blue, purple, white all-year; Burning Heart; Color in the Room (partial) Gift to Lovers (partial) winter themes (poetic +color); partial completion of others
 
 
@@ -367,7 +370,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: TMF-June-) 305
 	AP:✔ 96
@@ -4809,7 +4812,7 @@ FlowerVariationOds data
 	AP:✔ 78
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Mult#2: TMF-July-) 306
 	AP:✔ 90
@@ -5091,7 +5094,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP: 3
@@ -5392,7 +5395,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 15
+	AP:✔ 15
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP:✔ 81
@@ -5512,7 +5515,7 @@ FlowerVariationOds data
 	AP:✔ 5|4
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP: 10
@@ -5610,7 +5613,7 @@ FlowerVariationOds data
 	AP:✔ 60
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP: 42
@@ -5699,7 +5702,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP: 10
@@ -5785,7 +5788,7 @@ FlowerVariationOds data
 	AP:✔ 10|4
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Mult#3: Autumn Roman) 314
 	AP:✔ 19
@@ -5874,7 +5877,7 @@ FlowerVariationOds data
 	AP:✔ 10|4
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Mult#3: Autumn Roman) 314
 	AP:✔ 19
@@ -5954,7 +5957,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 7✔6
+	AP: ✔76
 -
 	theme: (Mult#3: Autumn Roman) 314
 	AP:✔ 19
@@ -7084,7 +7087,7 @@ FlowerVariationOds data
 	AP:✔ 61
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 44
+	AP:✔ 44
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 50
@@ -7349,7 +7352,7 @@ FlowerVariationOds data
 	AP:✔ 100|6
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 44
+	AP:✔ 44
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 60
@@ -7462,7 +7465,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 44
+	AP:✔ 44
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 50
@@ -10470,7 +10473,7 @@ FlowerVariationOds data
 	AP:✔ 15
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 12
+	AP:✔ 12
 -
 	theme: (Mult#1: Burning heart) 205
 	AP:✔  95
@@ -10565,7 +10568,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 12
+	AP:✔ 12
 -
 	theme: (Mult#2: TMF-July-) 306
 	AP:✔ 95
@@ -10660,7 +10663,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 12
+	AP:✔ 12
 -
 	theme: (Mult#2: TMF-July-) 306
 	AP:✔ 95
@@ -12720,7 +12723,7 @@ FlowerVariationOds data
 	AP:✔ 3
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 44
+	AP:✔ 44
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 60
@@ -12958,7 +12961,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 44
+	AP:✔ 44
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP:✔ 66
@@ -13065,7 +13068,7 @@ FlowerVariationOds data
 	AP: 76
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 44
+	AP:✔ 44
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP:✔ 79
@@ -13285,7 +13288,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 60
@@ -18041,7 +18044,7 @@ FlowerVariationOds data
 	AP:✔ 16|4
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: s75
+	AP:✔ 75
 -
 	theme: (Mult #1: Believe in eternity) 208
 	AP:✔  5
@@ -18142,7 +18145,7 @@ FlowerVariationOds data
 	AP:✔ 10|4
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: s65
+	AP:✔ 65
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP: 10
@@ -18339,7 +18342,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP:✔ 88
@@ -19377,7 +19380,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 16
+	AP:✔ 16
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP: 31
@@ -21208,7 +21211,7 @@ FlowerVariationOds data
 	AP:✔ 36
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 11
+	AP:✔ 11
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 55
@@ -27633,7 +27636,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult #1: Believe in eternity) 208
 	AP:✔ 91
@@ -27740,10 +27743,10 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#1: Friends forever) 201
-	AP: 100✔
+	AP:✔ 100
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult #1: Believe in eternity) 208
 	AP: 5
@@ -32367,7 +32370,7 @@ FlowerVariationOds data
 	AP: 12
 -
 	theme: (Mult#1: Prayer for peace) 204
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP:✔ 70
