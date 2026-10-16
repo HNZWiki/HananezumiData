@@ -536,7 +536,7 @@ FlowerVariationOds data
 	AP: 48
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 65
+	AP:✔ 65
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP: 3
@@ -3296,8 +3296,8 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 55
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 88
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 88
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 11
@@ -3412,8 +3412,8 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 51
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 88
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 88
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 11
@@ -3525,8 +3525,8 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 56
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 88
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 88
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 11
@@ -3627,8 +3627,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 51
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 51
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 10
@@ -3713,8 +3713,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 51
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 51
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 10
@@ -3729,7 +3729,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Mult#1: autumn red) 718
-	AP:✅✅ 40
+	AP:✅ 40
 -
 	theme: (Mult#1: autumn pink) 719
 	AP: 5
@@ -3793,8 +3793,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 51
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 51
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 10
@@ -3879,8 +3879,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 51
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 51
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 10
@@ -3968,8 +3968,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 51
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 51
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 10
@@ -6488,7 +6488,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 91
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -6619,7 +6619,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 90
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -6744,7 +6744,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 95
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -6866,7 +6866,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP: 82
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -7003,7 +7003,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 86
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -7146,7 +7146,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP: 84
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -7280,7 +7280,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 87
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -7408,7 +7408,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 88
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -7524,7 +7524,7 @@ FlowerVariationOds data
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 89
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 77
 -
 	theme: (Mult#2: Color in the room) 603
@@ -7549,7 +7549,7 @@ FlowerVariationOds data
 	AP:✔ 93
 -
 	theme: (Mult#1: autumn green) 726
-	AP: 95
+	AP:✅ 95
  
 #71
 FlowerVariationOds data
@@ -7870,7 +7870,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 5
+	AP:✅ 5
  
 #74
 FlowerVariationOds data
@@ -8777,7 +8777,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 5
+	AP:✅ 5
  
 #82
 FlowerVariationOds data
@@ -9876,11 +9876,11 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 81
 -
 	theme: (Mult#2: Sprout/roadside) 601
-	AP: 51
+	AP:✅ 51
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 31
@@ -9968,11 +9968,11 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 81
 -
 	theme: (Mult#2: Sprout/roadside) 601
-	AP: 51
+	AP:✅ 51
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 31
@@ -10051,11 +10051,11 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 81
 -
 	theme: (Mult#2: Sprout/roadside) 601
-	AP: 51
+	AP:✅ 51
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 31
@@ -10131,11 +10131,11 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 81
 -
 	theme: (Mult#2: Sprout/roadside) 601
-	AP: 51
+	AP:✅ 51
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 31
@@ -10220,11 +10220,11 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 81
 -
 	theme: (Mult#2: Sprout/roadside) 601
-	AP: 51
+	AP:✅ 51
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 31
@@ -10315,11 +10315,11 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 81
 -
 	theme: (Mult#2: Sprout/roadside) 601
-	AP: 51
+	AP:✅ 51
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 31
@@ -10633,7 +10633,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 2
@@ -12128,7 +12128,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 86
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 99
 -
 	theme: (Mult#2: Color in the room) 603
@@ -12232,7 +12232,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 87
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 99
 -
 	theme: (Mult#2: Color in the room) 603
@@ -12330,7 +12330,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 88
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 99
 -
 	theme: (Mult#2: Color in the room) 603
@@ -12419,7 +12419,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 81
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 99
 -
 	theme: (Mult#2: Color in the room) 603
@@ -12801,7 +12801,7 @@ FlowerVariationOds data
 	AP:✔ 5
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 5
+	AP:✅ 5
  
 -
 FlowerVariationOds data
@@ -15262,7 +15262,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 22
@@ -16936,7 +16936,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 89
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Color in the room) 603
@@ -17058,7 +17058,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 81
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Color in the room) 603
@@ -17177,7 +17177,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 83
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Color in the room) 603
@@ -17712,7 +17712,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 83
+	AP:✔ 83
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -17829,7 +17829,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 92
+	AP:✔ 92
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 18
@@ -17931,7 +17931,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 75
+	AP:✔ 75
 -
 	theme: (Mult#3: Natural Green) 8
 	AP:✔ 60
@@ -18076,7 +18076,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 55
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Color in the room) 603
@@ -18118,7 +18118,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 67
+	AP:✔ 67
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -18174,7 +18174,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 55
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Color in the room) 603
@@ -18282,7 +18282,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 41
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Color in the room) 603
@@ -18389,7 +18389,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 41
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Color in the room) 603
@@ -18431,7 +18431,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 85
+	AP:✔ 85
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -18493,7 +18493,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 55
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Color in the room) 603
@@ -18539,7 +18539,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 3
@@ -18589,8 +18589,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 51
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 51
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 10
@@ -18967,7 +18967,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 75
+	AP:✔ 75
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -19190,7 +19190,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: Autumn in the air) 318
-	AP:✔ 15|180|12
+	AP:✔ 15|12
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 78
@@ -19291,7 +19291,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: Autumn in the air) 318
-	AP:✔ 15|180|12
+	AP:✔ 15|12
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 78
@@ -19407,7 +19407,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: Autumn in the air) 318
-	AP:✔ 15|180|12
+	AP:✔ 15|12
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 78
@@ -19517,7 +19517,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: Autumn in the air) 318
-	AP:✔ 15|180|12
+	AP:✔ 15|12
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 78
@@ -19594,7 +19594,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 63
+	AP:✔ 63
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -20120,7 +20120,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 55
@@ -20233,7 +20233,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 65
+	AP:✔ 65
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -21312,7 +21312,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 61
+	AP:✔ 61
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -21395,7 +21395,7 @@ FlowerVariationOds data
 #197
 FlowerVariationOds data
 	ID: 197
-	Species: (Mult#1: summer cypress) 46 (4|8|12)
+	Species: (summer cypress) 46 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -21475,7 +21475,7 @@ FlowerVariationOds data
 #198
 FlowerVariationOds data
 	ID: 198
-	Species: (Mult#1: summer cypress) 46 (4|8|12)
+	Species: (summer cypress) 46 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -21564,7 +21564,7 @@ FlowerVariationOds data
 #199
 FlowerVariationOds data
 	ID: 199
-	Species: (Mult#1: summer cypress) 46 (4|8|12)
+	Species: (summer cypress) 46 (4|8|12)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -21769,7 +21769,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 66
@@ -21838,7 +21838,7 @@ FlowerVariationOds data
 	AP:✔ 50|4
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
 -
 	theme: (Mult#1: autumn orange) 723
 	AP: 28
@@ -21954,7 +21954,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
 -
 	theme: (Mult#1: autumn orange) 723
 	AP: 5
@@ -22055,7 +22055,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
 -
 	theme: (Mult#1: autumn purpl) 721
 	AP:✔ 96
@@ -22081,7 +22081,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 82
+	AP:✔ 82
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -22200,7 +22200,7 @@ FlowerVariationOds data
 	AP: 77
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 66
@@ -22238,8 +22238,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 30
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 30
 -
 	theme: (Mult#2: Bonsai day) 600
 	AP:✔ 95
@@ -22257,7 +22257,7 @@ FlowerVariationOds data
 	AP:✔ 51|4
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
 -
 	theme: (Mult#1: autumn yellow) 722
 	AP:✔ 50
@@ -22330,8 +22330,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 30
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 30
 -
 	theme: (Mult#2: Bonsai day) 600
 	AP:✔ 95
@@ -22349,7 +22349,7 @@ FlowerVariationOds data
 	AP:✔ 52|4
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
 -
 	theme: (Mult#1: autumn yellow) 722
 	AP:✔ 50
@@ -22381,7 +22381,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 95
+	AP:✔ 95
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 14
@@ -22438,7 +22438,7 @@ FlowerVariationOds data
 	AP: 43
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
 -
 	theme: (Mult#1: winter red) 727
 	AP: 72
@@ -22468,7 +22468,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 50
@@ -22870,7 +22870,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 76
+	AP:✔ 76
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -22918,7 +22918,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
 -
 	theme: (Mult#1: winter red) 727
 	AP: 65
@@ -23652,7 +23652,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 62
+	AP:✔ 62
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 78
@@ -24540,7 +24540,7 @@ FlowerVariationOds data
 	AP:✔ 66
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
 -
 	theme: (Mult#1: autumn white) 724
 	AP: 48
@@ -24682,7 +24682,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 15
@@ -24789,7 +24789,7 @@ FlowerVariationOds data
 	AP: 9
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 99
+	AP:✔ 99
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 26
@@ -24857,7 +24857,7 @@ FlowerVariationOds data
 #231
 FlowerVariationOds data
 	ID: 231
-	Species: rudbeckia 61
+	Species: rudbeckia 61 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -24958,7 +24958,7 @@ FlowerVariationOds data
 #232
 FlowerVariationOds data
 	ID: 232
-	Species: rudbeckia 61
+	Species: rudbeckia 61 (4|8|12)
 	Color
 		UInt8 color = 8 (Black)
 		Hyb?: N
@@ -25071,7 +25071,7 @@ FlowerVariationOds data
 #233
 FlowerVariationOds data
 	ID: 233
-	Species: (gardenia) 62
+	Species: (gardenia) 62 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -25154,7 +25154,7 @@ FlowerVariationOds data
 #234
 FlowerVariationOds data
 	ID: 234
-	Species:  (Mirabilis jalapa) 63
+	Species: (Mirabilis jalapa) 63 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -25276,7 +25276,7 @@ FlowerVariationOds data
 #235
 FlowerVariationOds data
 	ID: 235
-	Species:  (Mirabilis jalapa) 63
+	Species: (Mirabilis jalapa) 63 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -25377,7 +25377,7 @@ FlowerVariationOds data
 #236
 FlowerVariationOds data
 	ID: 236
-	Species:  (Mirabilis jalapa) 63
+	Species: (Mirabilis jalapa) 63 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -25475,7 +25475,7 @@ FlowerVariationOds data
 #237
 FlowerVariationOds data
 	ID: 237
-	Species:  (Mirabilis jalapa) 63
+	Species: (Mirabilis jalapa) 63 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -25579,7 +25579,7 @@ FlowerVariationOds data
 #238
 FlowerVariationOds data
 	ID: 238
-	Species:  (Mirabilis jalapa) 63
+	Species: (Mirabilis jalapa) 63 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -25701,7 +25701,7 @@ FlowerVariationOds data
 #239
 FlowerVariationOds data
 	ID: 239
-	Species:  (Mirabilis jalapa) 63
+	Species: (Mirabilis jalapa) 63 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -25713,7 +25713,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 65
+	AP:✔ 65
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -25791,12 +25791,12 @@ FlowerVariationOds data
 	AP:✔ 39
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 3
+	AP:✅ 3
  
 #240
 FlowerVariationOds data
 	ID: 240
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -25912,7 +25912,7 @@ FlowerVariationOds data
 #241
 FlowerVariationOds data
 	ID: 241
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -26028,7 +26028,7 @@ FlowerVariationOds data
 #242
 FlowerVariationOds data
 	ID: 242
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -26138,7 +26138,7 @@ FlowerVariationOds data
 #243
 FlowerVariationOds data
 	ID: 243
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -26263,7 +26263,7 @@ FlowerVariationOds data
 #244
 FlowerVariationOds data
 	ID: 244
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -26299,7 +26299,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP: 10
@@ -26388,7 +26388,7 @@ FlowerVariationOds data
 #245
 FlowerVariationOds data
 	ID: 245
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -26400,7 +26400,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 63
+	AP:✔ 63
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -26498,7 +26498,7 @@ FlowerVariationOds data
 #246
 FlowerVariationOds data
 	ID: 246
-	Species: (husk tomato) 65
+	Species: (husk tomato) 65 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -26599,7 +26599,7 @@ FlowerVariationOds data
 #247
 FlowerVariationOds data
 	ID: 247
-	Species: (husk tomato) 65
+	Species: (husk tomato) 65 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -26703,7 +26703,7 @@ FlowerVariationOds data
 #248
 FlowerVariationOds data
 	ID: 248
-	Species: (husk tomato) 65
+	Species: (husk tomato) 65 (4|8|12)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -26831,7 +26831,7 @@ FlowerVariationOds data
 	AP:✔ 30
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 55
+	AP:✅ 55
 -
 	theme: (Mult#2: TMF-October-) 309
 	AP:✔ 50|8
@@ -26923,7 +26923,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 64
+	AP:✅ 64
 -
 	theme: (Mult#2: TMF-October-) 309
 	AP:✔ 50|8
@@ -26994,7 +26994,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 85
+	AP:✔ 85
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 7
@@ -27077,7 +27077,7 @@ FlowerVariationOds data
 #252
 FlowerVariationOds data
 	ID: 252
-	Species: (Japanese anemone) 67
+	Species: (Japanese anemone) 67 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -27175,7 +27175,7 @@ FlowerVariationOds data
 #253
 FlowerVariationOds data
 	ID: 253
-	Species: (Japanese anemone) 67
+	Species: (Japanese anemone) 67 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -27270,7 +27270,7 @@ FlowerVariationOds data
 #254
 FlowerVariationOds data
 	ID: 254
-	Species: (Japanese anemone) 67
+	Species: (Japanese anemone) 67 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -27285,7 +27285,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 65
+	AP:✔ 65
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -27520,7 +27520,7 @@ FlowerVariationOds data
 	AP: 36
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 10
+	AP:✅ 10
 -
 	theme: (Mult #1: Believe in eternity) 208
 	AP:✔  3
@@ -27832,7 +27832,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 92
+	AP:✔ 92
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -27986,8 +27986,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 50
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 50
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP: 3
@@ -28025,7 +28025,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 91
+	AP:✔ 91
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 7
@@ -28066,8 +28066,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 50
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 50
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP: 3
@@ -28090,7 +28090,7 @@ FlowerVariationOds data
 #262
 FlowerVariationOds data
 	ID: 262
-	Species: (ping pong mum) 70
+	Species: (ping pong mum) 70 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -28129,7 +28129,7 @@ FlowerVariationOds data
 	AP: 76
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 10
@@ -28200,7 +28200,7 @@ FlowerVariationOds data
 #263
 FlowerVariationOds data
 	ID: 263
-	Species: (ping pong mum) 70
+	Species: (ping pong mum) 70 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -28286,7 +28286,7 @@ FlowerVariationOds data
 #264
 FlowerVariationOds data
 	ID: 264
-	Species: (ping pong mum) 70
+	Species: (ping pong mum) 70 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -28316,7 +28316,7 @@ FlowerVariationOds data
 	AP: 44
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 30
+	AP:✅ 30
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 5
@@ -28393,7 +28393,7 @@ FlowerVariationOds data
 #265
 FlowerVariationOds data
 	ID: 265
-	Species: (ping pong mum) 70
+	Species: (ping pong mum) 70 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -28432,7 +28432,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Autumn Roman) 314
 	AP:✔ 98
@@ -28503,7 +28503,7 @@ FlowerVariationOds data
 #266
 FlowerVariationOds data
 	ID: 266
-	Species: (ping pong mum) 70
+	Species: (ping pong mum) 70 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -28515,7 +28515,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 65
+	AP:✔ 65
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 57
@@ -28601,7 +28601,7 @@ FlowerVariationOds data
 #267
 FlowerVariationOds data
 	ID: 267
-	Species: (ping pong mum) 70
+	Species: (ping pong mum) 70 (4|8|12)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -28954,7 +28954,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 64
+	AP:✔ 64
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -29070,7 +29070,7 @@ FlowerVariationOds data
 	AP: 12
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 10
@@ -29177,7 +29177,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 33
+	AP:✅ 33
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 10
@@ -29281,7 +29281,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 34
+	AP:✅ 34
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 10
@@ -29465,7 +29465,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 71
+	AP:✔ 71
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -29480,7 +29480,7 @@ FlowerVariationOds data
 	AP: 98
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 41
+	AP:✅ 41
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 10
@@ -29588,7 +29588,7 @@ FlowerVariationOds data
 	AP: 61
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 10
+	AP:✅ 10
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 10
@@ -30026,7 +30026,7 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 30
+	AP:✅ 30
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 8
@@ -30101,7 +30101,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 95
+	AP:✔ 95
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -30131,7 +30131,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 8
@@ -30194,7 +30194,7 @@ FlowerVariationOds data
 #283
 FlowerVariationOds data
 	ID: 283
-	Species: ornamental kale (74)
+	Species: (ornamental kale) 74 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -30230,7 +30230,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 31
@@ -30281,7 +30281,7 @@ FlowerVariationOds data
 #284
 FlowerVariationOds data
 	ID: 284
-	Species: ornamental kale (74)
+	Species: (ornamental kale) 74 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -30293,7 +30293,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 63
+	AP:✔ 63
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 7
@@ -30371,7 +30371,7 @@ FlowerVariationOds data
 #285
 FlowerVariationOds data
 	ID: 285
-	Species: ornamental kale (74)
+	Species: (ornamental kale) 74 (4|8|12)
 	Color
 		UInt8 color = 8 (Black)
 		Hyb?: N
@@ -30398,7 +30398,7 @@ FlowerVariationOds data
 	AP:✔ 56|4
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 31
@@ -30442,7 +30442,7 @@ FlowerVariationOds data
 #286
 FlowerVariationOds data
 	ID: 286
-	Species: kalanchoe 75
+	Species: (kalanchoe) 75 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -30475,7 +30475,7 @@ FlowerVariationOds data
 	AP:✔ 76
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 93
+	AP:✅ 93
 -
 	theme: (Mult #1: Believe in eternity) 208
 	AP:✔ 23
@@ -30528,7 +30528,7 @@ FlowerVariationOds data
 #287
 FlowerVariationOds data
 	ID: 287
-	Species: kalanchoe 75
+	Species: (kalanchoe) 75 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -30573,7 +30573,7 @@ FlowerVariationOds data
 	AP: 38
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP:✅✅ 56
+	AP:✅ 56
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 5
@@ -30626,7 +30626,7 @@ FlowerVariationOds data
 #288
 FlowerVariationOds data
 	ID: 288
-	Species: kalanchoe 75
+	Species: (kalanchoe) 75 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -30727,7 +30727,7 @@ FlowerVariationOds data
 #289
 FlowerVariationOds data
 	ID: 289
-	Species: kalanchoe 75
+	Species: (kalanchoe) 75 (4|8|12)
 	Color
 		UInt8 color = 6 (Orange)
 		Hyb?: N
@@ -30819,7 +30819,7 @@ FlowerVariationOds data
 #290
 FlowerVariationOds data
 	ID: 290
-	Species: kalanchoe 75
+	Species: (kalanchoe) 75 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -30834,7 +30834,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 67
+	AP:✔ 67
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 68
@@ -31034,7 +31034,7 @@ FlowerVariationOds data
 	AP:✔ 60
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 65
+	AP:✔ 65
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 36
@@ -31390,7 +31390,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 73
+	AP:✔ 73
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -31633,8 +31633,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 15
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 15
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 3
@@ -31728,8 +31728,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 15
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 15
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 3
@@ -31829,8 +31829,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 15
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 15
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 3
@@ -31927,8 +31927,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 15
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 15
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 3
@@ -32019,8 +32019,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 15
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 15
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 3
@@ -32114,8 +32114,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 15
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 15
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 3
@@ -32141,7 +32141,7 @@ FlowerVariationOds data
 #304
 FlowerVariationOds data
 	ID: 305
-	Species: nemophila 78
+	Species: (nemophila) 78 (6|12|18)
 	Color
 		UInt8 color = 3 (blue)
 		Hyb?: N
@@ -32153,7 +32153,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 50
@@ -32240,12 +32240,12 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 5
+	AP:✅ 5
  
 #305
 FlowerVariationOds data
 	ID: 306
-	Species: nemophila 78
+	Species: (nemophila) 78 (6|12|18)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -32257,7 +32257,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 8
@@ -32337,7 +32337,7 @@ FlowerVariationOds data
 #306
 FlowerVariationOds data
 	ID: 307
-	Species: nemophila 78
+	Species: (nemophila) 78 (6|12|18)
 	Color
 		UInt8 color = 8 (Black)
 		Hyb?: N
@@ -32508,7 +32508,7 @@ FlowerVariationOds data
  
 #308
 FlowerVariationOds data
-	ID: |309
+	ID: 309
 	Species: (aquilegia) 79 (4|8|12)
 	Color
 		UInt8 color = pink 2
@@ -33538,7 +33538,7 @@ FlowerVariationOds data
 	AP:✔ 30
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 5
+	AP:✅ 5
 -
 	theme: (Mult#1: autumn orange) 723
 	AP: 5
@@ -33682,7 +33682,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 41
@@ -34692,7 +34692,7 @@ FlowerVariationOds data
 #329
 FlowerVariationOds data
 	ID: 330
-	Species: erica 84
+	Species: (erica) 84 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -34772,8 +34772,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 49
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 49
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 55
@@ -34793,7 +34793,7 @@ FlowerVariationOds data
 #330
 FlowerVariationOds data
 	ID: 331
-	Species: erica 84
+	Species: (erica) 84 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -34876,8 +34876,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 49
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 49
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 55
@@ -34897,7 +34897,7 @@ FlowerVariationOds data
 #331
 FlowerVariationOds data
 	ID: 332
-	Species: erica 84
+	Species: (erica) 84 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -34989,8 +34989,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 49
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 49
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 55
@@ -35013,7 +35013,7 @@ FlowerVariationOds data
 #332
 FlowerVariationOds data
 	ID: 333
-	Species: erica 84
+	Species: (erica) 84 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -35096,8 +35096,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 49
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 49
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 55
@@ -35339,7 +35339,7 @@ FlowerVariationOds data
 	AP: 12
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 5
+	AP:✅ 5
 -
 	theme: (Mult#1: winter blue) 729
 	AP: 28
@@ -36183,7 +36183,7 @@ FlowerVariationOds data
 	AP: 32
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 5
+	AP:✅ 5
 
 #344
 FlowerVariationOds data
@@ -36741,7 +36741,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -36827,7 +36827,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -36883,7 +36883,7 @@ FlowerVariationOds data
 #352
 FlowerVariationOds data
 	ID: 353
-	Species: (denfare) 90
+	Species: (denfare) 90 (4|8|12)
 	Color
 		UInt8 color = (red) 1
 		Hyb?: N
@@ -36972,7 +36972,7 @@ FlowerVariationOds data
 #353
 FlowerVariationOds data
 	ID: 354
-	Species: (denfare) 90
+	Species: (denfare) 90 (4|8|12)
 	Color
 		UInt8 color = pink 2
 		Hyb?: N
@@ -37061,7 +37061,7 @@ FlowerVariationOds data
 #354
 FlowerVariationOds data
 	ID: 355
-	Species: (denfare) 90
+	Species: (denfare) 90 (4|8|12)
 	Color
 		UInt8 color = 4 (purple)
 		Hyb?: N
@@ -37147,7 +37147,7 @@ FlowerVariationOds data
 #355
 FlowerVariationOds data
 	ID: 356
-	Species: (denfare) 90
+	Species: (denfare) 90 (4|8|12)
 	Color
 		UInt8 color = 5 (Yellow)
 		Hyb?: N
@@ -37254,7 +37254,7 @@ FlowerVariationOds data
 #356
 FlowerVariationOds data
 	ID: 357
-	Species: (denfare) 90
+	Species: (denfare) 90 (4|8|12)
 	Color
 		UInt8 color = 7 (White)
 		Hyb?: N
@@ -37349,7 +37349,7 @@ FlowerVariationOds data
 #357
 FlowerVariationOds data
 	ID: 358
-	Species: (denfare) 90
+	Species: (denfare) 90 (4|8|12)
 	Color
 		UInt8 color = 9 (Green)
 		Hyb?: N
@@ -37988,7 +37988,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -38084,7 +38084,7 @@ FlowerVariationOds data
 	AP:✔ 40|6
 -
 	theme: (Mult#1: autumn blue) 720
-	AP:✅✅ 5
+	AP:✅ 5
 -
 	theme: (Mult#1: autumn yellow) 722
 	AP:✔ 10
@@ -38163,8 +38163,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌50
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 55
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 55
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 50
@@ -38254,8 +38254,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌50
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 55
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 55
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 50
@@ -38351,8 +38351,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌50
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 55
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 55
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 50
@@ -38436,8 +38436,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌50
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 55
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 55
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 50
@@ -38525,8 +38525,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌50
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 55
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 55
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 50
@@ -38992,7 +38992,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 51
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -39087,7 +39087,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 55
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -39120,7 +39120,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#2: Elegance) 101
 	AP: 79
@@ -39167,7 +39167,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 51
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -39241,7 +39241,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 53
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 97
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -39333,7 +39333,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 56
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 97
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -39378,7 +39378,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#2: Cute) 100
 	AP: 55
@@ -39434,7 +39434,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 51
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 97
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -39503,7 +39503,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (Mult#1: autumn red) 718
-	AP:✅✅ 71
+	AP:✅ 71
 -
 	theme: (Mult#1: autumn blue) 720
 	AP:✔ 31
@@ -39737,7 +39737,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (Mult#1: autumn red) 718
-	AP:✅✅ 76
+	AP:✅ 76
 -
 	theme: (Mult#1: autumn blue) 720
 	AP:✔ 33
@@ -39967,7 +39967,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 70
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 94
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -39995,7 +39995,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#1: autumn green) 726
-	AP: 100
+	AP:✅ 100
  
 #386
 FlowerVariationOds data
@@ -40074,7 +40074,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 88
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -40087,7 +40087,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#1: autumn red) 718
-	AP:✅✅ 48
+	AP:✅ 48
 -
 	theme: (Mult#1: autumn pink) 719
 	AP: 32
@@ -40175,7 +40175,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 88
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -40191,7 +40191,7 @@ FlowerVariationOds data
 	AP: 23
 -
 	theme: (Mult#1: autumn red) 718
-	AP:✅✅ 30
+	AP:✅ 30
 -
 	theme: (Mult#1: autumn pink) 719
 	AP: 63
@@ -40217,7 +40217,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#2: Cute) 100
 	AP: 60
@@ -40276,7 +40276,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 88
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -40336,7 +40336,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 50
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 50
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -40422,7 +40422,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 50
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 97
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -40438,7 +40438,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#1: autumn red) 718
-	AP:✅✅ 40
+	AP:✅ 40
 -
 	theme: (Mult#1: autumn pink) 719
 	AP: 40
@@ -40514,7 +40514,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 50
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 97
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -40533,7 +40533,7 @@ FlowerVariationOds data
 	AP:✔ 63|8
 -
 	theme: (Mult#1: autumn red) 718
-	AP:✅✅ 38
+	AP:✅ 38
 -
 	theme: (Mult#1: autumn pink) 719
 	AP: 85
@@ -40556,7 +40556,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Pure white) 6
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#2: Elegance) 101
 	AP:✔ 88
@@ -40609,7 +40609,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 50
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 97
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -41135,7 +41135,7 @@ FlowerVariationOds data
 	AP: ❌0
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: ❌99
+	AP:❌ 99
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 10
@@ -41224,7 +41224,7 @@ FlowerVariationOds data
 	AP: ❌0
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: ❌99
+	AP:❌ 99
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 10
@@ -41314,7 +41314,7 @@ FlowerVariationOds data
 	AP: ❌0
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: ❌99
+	AP:❌ 99
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 20
@@ -42341,7 +42341,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#1: autumn green) 726
-	AP: 100
+	AP:✅ 100
  
 #419
 FlowerVariationOds data
@@ -43595,7 +43595,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -43672,7 +43672,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 90
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -43844,7 +43844,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 60
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -43933,7 +43933,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 85
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -44155,7 +44155,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 55
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -44363,7 +44363,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: 15
+	AP:❌ 15
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 99
@@ -44428,7 +44428,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: 15
+	AP:❌ 15
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 99
@@ -44499,7 +44499,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: ❌77
+	AP:❌ 77
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP: 15
@@ -44563,7 +44563,7 @@ FlowerVariationOds data
 	AP:✔ 41
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: ❌56
+	AP:❌ 56
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 55
@@ -45595,8 +45595,8 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 56
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 88
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 88
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 100
@@ -45721,8 +45721,8 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 57
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 88
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 88
 -
 	theme: (Mult#2: Flwrbed/garden) 604
 	AP:✔ 100
@@ -45832,14 +45832,14 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌100
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 61
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 61
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 35
 -
 	theme: (Mult#1: autumn red) 718
-	AP:✅✅ 40
+	AP:✅ 40
 -
 	theme: (Mult#1: autumn pink) 719
 	AP: 20
@@ -46171,7 +46171,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: SFB Spring) 606
@@ -46902,7 +46902,7 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌50
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
@@ -47780,7 +47780,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 99
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Flwrbed/garden) 604
@@ -48116,7 +48116,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 91
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Flwrbed/garden) 604
@@ -48193,7 +48193,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 92
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 95
 -
 	theme: (Mult#2: Flwrbed/garden) 604
@@ -48295,7 +48295,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 55
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Color in the room) 603
@@ -48400,7 +48400,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 55
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Color in the room) 603
@@ -48633,7 +48633,7 @@ FlowerVariationOds data
 #483
 FlowerVariationOds data
 	ID: 2037
-	Species: (Mult#1: summer cypress) 46 (4|8|12)
+	Species: (summer cypress) 46 (4|8|12)
 	Color
 		UInt8 color = (red x green) 37
 		Hybrd: Y
@@ -49058,7 +49058,7 @@ FlowerVariationOds data
 #487
 FlowerVariationOds data
 	ID: 2041
-	Species: rudbeckia 61
+	Species: rudbeckia 61 (4|8|12)
 	Color
 		UInt8 color = (yellw x black) 41
 		Hybrd: Y
@@ -49165,7 +49165,7 @@ FlowerVariationOds data
 #488
 FlowerVariationOds data
 	ID: 2042
-	Species:  (Mirabilis jalapa) 63
+	Species: (Mirabilis jalapa) 63 (4|8|12)
 	Color
 		UInt8 color = (purple x yel) 42
 		Hybrd: Y
@@ -49269,7 +49269,7 @@ FlowerVariationOds data
 #489
 FlowerVariationOds data
 	ID: 2043
-	Species:  (Mirabilis jalapa) 63
+	Species: (Mirabilis jalapa) 63 (4|8|12)
 	Color
 		UInt8 color = (purple x white) 43
 		Hybrd: Y
@@ -49376,7 +49376,7 @@ FlowerVariationOds data
 #490
 FlowerVariationOds data
 	ID: 2044
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = (pink x white) 44
 		Hybrd: Y
@@ -49492,7 +49492,7 @@ FlowerVariationOds data
 #491
 FlowerVariationOds data
 	ID: 2045
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = 45 (yellow x white)
 		Hybrd: Y
@@ -49605,7 +49605,7 @@ FlowerVariationOds data
 #492
 FlowerVariationOds data
 	ID: 2046
-	Species: (portulaca) 64
+	Species: (portulaca) 64 (4|8|12)
 	Color
 		UInt8 color = (yellow x orange) 46
 		Hybrd: Y
@@ -49721,7 +49721,7 @@ FlowerVariationOds data
 #493
 FlowerVariationOds data
 	ID: 2047
-	Species: (husk tomato) 65
+	Species: (husk tomato) 65 (4|8|12)
 	Color
 		UInt8 color = (red x green) 47
 		Hybrd: Y
@@ -50983,7 +50983,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 80
+	AP:✔ 80
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 28
@@ -51651,7 +51651,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 60
+	AP:✔ 60
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 25
@@ -51910,7 +51910,7 @@ FlowerVariationOds data
 #515
 FlowerVariationOds data
 	ID: 2069
-	Species: (denfare) 90
+	Species: (denfare) 90 (4|8|12)
 	Color
 		UInt8 color = 70 (red x yellow)
 		Hybrd: Y
@@ -52014,7 +52014,7 @@ FlowerVariationOds data
 #516
 FlowerVariationOds data
 	ID: 2070
-	Species: (denfare) 90
+	Species: (denfare) 90 (4|8|12)
 	Color
 		UInt8 color = (purple x white) 71
 		Hybrd: Y
@@ -52315,8 +52315,8 @@ FlowerVariationOds data
 	theme: (theme N/A) 502
 	AP: ❌50
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 50
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 50
 -
 	theme: (Mult#2: Color in the room) 603
 	AP: 50
@@ -53483,7 +53483,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 51
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -53575,7 +53575,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 90
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -53662,7 +53662,7 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 50
 -
-	theme: (Mult#2: Flowering tree) 503
+	theme: (Mult#1: Flowering tree) 503
 	AP:✔ 100
 -
 	theme: (Mult#2: Bonsai day) 600
@@ -53758,7 +53758,7 @@ FlowerVariationOds data
 	AP: ❌0
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: ❌100
+	AP:❌ 100
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 30
@@ -53833,7 +53833,7 @@ FlowerVariationOds data
 	AP: ❌0
 -
 	theme: (Mult#2: Bonsai day) 600
-	AP: ❌50
+	AP:❌ 50
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 99
@@ -53909,8 +53909,8 @@ FlowerVariationOds data
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 50
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 10
+	theme: (Mult#1: Flowering tree) 503
+	AP:✅ 10
 -
 	theme: (Mult#1: winter pink) 728
 	AP: 10
@@ -56173,7 +56173,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 20
+	AP:✔ 20
 -
 	theme: (Mult#1: Mixed color) 9
 	AP: 10
@@ -58021,7 +58021,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Cool Blue) 2
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Mult#3: Mys.Purple) 3
 	AP: 15
@@ -58331,8 +58331,8 @@ FlowerVariationOds data
 	theme: (Mult#2: Dumpling over flowers ?) 409
 	AP: 5
 -
-	theme: (Mult#2: Flowering tree) 503
-	AP: 3
+	theme: (Mult#1: Flowering tree) 503
+	AP:✔ 3
 -
 	theme: (Mult#1: winter red) 727
 	AP: 20
