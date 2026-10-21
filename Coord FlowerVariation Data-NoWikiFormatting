@@ -1168,7 +1168,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 62
+	AP:✔ 62
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -1276,7 +1276,7 @@ FlowerVariationOds data
 	AP:✔ 25|18
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 68
+	AP:✔ 68
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -2160,7 +2160,7 @@ FlowerVariationOds data
 	AP: 81
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 61
+	AP:✔ 61
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -2261,7 +2261,7 @@ FlowerVariationOds data
 	AP: 81
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 62
+	AP:✔ 62
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -2762,7 +2762,7 @@ FlowerVariationOds data
 	AP:✔ 41
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: autumn red) 718
 	AP: 3
@@ -3282,7 +3282,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 5|12
@@ -3294,7 +3294,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#1: Flowering tree) 503
 	AP:✅ 88
@@ -3401,7 +3401,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 5|12
@@ -3514,7 +3514,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 5|12
@@ -3523,7 +3523,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 56
+	AP:✔ 56
 -
 	theme: (Mult#1: Flowering tree) 503
 	AP:✅ 88
@@ -3553,7 +3553,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#1: winter white) 733
-	AP: 99
+	AP:✔ 99
 - 
  
 	theme: (Mult#1: winter black) 734
@@ -4533,7 +4533,7 @@ FlowerVariationOds data
 	AP:✔ 51
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#2: healthy growth) 411
 	AP:✔ 30
@@ -4646,7 +4646,7 @@ FlowerVariationOds data
 	AP:✔ 51
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 20|12
@@ -4738,7 +4738,7 @@ FlowerVariationOds data
 	AP:✔ 51
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 80
@@ -4833,7 +4833,7 @@ FlowerVariationOds data
 	AP:✔ 51
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#2: healthy growth) 411
 	AP: 5
@@ -5392,7 +5392,7 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP:✔ 15
@@ -5494,7 +5494,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Mult#2: Dreamy)103
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Pop) 104
 	AP: 20
@@ -5598,7 +5598,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Mult#2: Dreamy)103
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Pop) 104
 	AP: 20
@@ -5684,7 +5684,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#2: Dreamy)103
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Pop) 104
 	AP: 20
@@ -5770,7 +5770,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#2: Dreamy)103
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Pop) 104
 	AP: 20
@@ -5859,7 +5859,7 @@ FlowerVariationOds data
 	AP: 75
 -
 	theme: (Mult#2: Dreamy)103
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Pop) 104
 	AP: 20
@@ -5942,7 +5942,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#2: Dreamy)103
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Pop) 104
 	AP: 20
@@ -6447,7 +6447,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 42
@@ -6456,7 +6456,7 @@ FlowerVariationOds data
 	AP: 42
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 95
@@ -6578,7 +6578,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP:✔ 55
@@ -6587,7 +6587,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 95
@@ -6706,7 +6706,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 50
@@ -6828,7 +6828,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 42
@@ -6837,7 +6837,7 @@ FlowerVariationOds data
 	AP: 42
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 95
@@ -6879,7 +6879,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: Gift to friends) 610
 	AP: 50
@@ -6962,7 +6962,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 55
@@ -6974,7 +6974,7 @@ FlowerVariationOds data
 	AP:✔ 1
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 95
@@ -7016,7 +7016,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 15
+	AP:✔ 15
 -
 	theme: (Mult#2: Gift to friends) 610
 	AP:✔ 100
@@ -7105,7 +7105,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 51
@@ -7114,7 +7114,7 @@ FlowerVariationOds data
 	AP: 51
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 95
@@ -7159,7 +7159,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to friends) 610
 	AP:✔ 100
@@ -7239,7 +7239,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 42
@@ -7248,7 +7248,7 @@ FlowerVariationOds data
 	AP: 42
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 95
@@ -7367,7 +7367,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 42
@@ -7376,7 +7376,7 @@ FlowerVariationOds data
 	AP: 42
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 95
@@ -7483,7 +7483,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 55
@@ -7492,7 +7492,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 95
@@ -8191,7 +8191,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: autumn red) 718
 	AP: 3
@@ -9615,7 +9615,7 @@ FlowerVariationOds data
 	AP: 85
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 5
@@ -9731,7 +9731,7 @@ FlowerVariationOds data
 	AP: 85
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Innocence) 106
 	AP:✔ 78
@@ -10402,7 +10402,7 @@ FlowerVariationOds data
 	AP:✔ 60
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 77
+	AP:✔ 77
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -10868,7 +10868,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: summer white) 715
 	AP:✔ 90
@@ -11212,7 +11212,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 3
@@ -11242,7 +11242,7 @@ FlowerVariationOds data
 	AP: 82
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: healthy growth) 411
 	AP: 5
@@ -11349,7 +11349,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 15
@@ -11379,7 +11379,7 @@ FlowerVariationOds data
 	AP: 82
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 33
@@ -11480,7 +11480,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -11602,7 +11602,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -11724,7 +11724,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -11781,7 +11781,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: summer yellow) 713
 	AP:✔ 50
@@ -11864,7 +11864,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -11888,7 +11888,7 @@ FlowerVariationOds data
 	AP: 82
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 10
@@ -11989,7 +11989,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -12013,7 +12013,7 @@ FlowerVariationOds data
 	AP: 82
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#3: Green day) 412
 	AP:✔ 25|12
@@ -13128,7 +13128,7 @@ FlowerVariationOds data
 	AP: 44
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: summer yellow) 713
 	AP:✔ 50
@@ -13285,7 +13285,7 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 90
+	AP:✅ 90
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP:✔ 10
@@ -13401,7 +13401,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 97
@@ -13526,7 +13526,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 97
@@ -13645,7 +13645,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 97
@@ -13755,7 +13755,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 97
@@ -13856,7 +13856,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 97
@@ -13871,7 +13871,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Mult#2: Pumpkin and creepy night) 405
 	AP: 50
@@ -13975,7 +13975,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 97
@@ -14094,7 +14094,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 97
@@ -14964,7 +14964,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 15
@@ -15048,10 +15048,10 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Autumn) 608
 	AP:✔ 95
@@ -15131,7 +15131,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 15
@@ -15206,10 +15206,10 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Autumn) 608
 	AP:✔ 95
@@ -15286,13 +15286,13 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 15
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 36
@@ -15367,7 +15367,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Autumn) 608
 	AP:✔ 95
@@ -15439,7 +15439,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 15
@@ -15514,10 +15514,10 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Autumn) 608
 	AP:✔ 95
@@ -15595,7 +15595,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 15
@@ -15676,10 +15676,10 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Autumn) 608
 	AP:✔ 95
@@ -15756,7 +15756,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 15
@@ -15828,10 +15828,10 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Autumn) 608
 	AP:✔ 95
@@ -15846,7 +15846,7 @@ FlowerVariationOds data
 	AP:✔ 32
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: autumn red) 718
 	AP: 35
@@ -15908,7 +15908,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 15
@@ -15986,10 +15986,10 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Autumn) 608
 	AP:✔ 95
@@ -16055,7 +16055,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 15
@@ -16133,10 +16133,10 @@ FlowerVariationOds data
 	AP: 30
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: SFB Autumn) 608
 	AP:✔ 95
@@ -16243,7 +16243,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 71
+	AP:✔ 71
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -16362,7 +16362,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 71
+	AP:✔ 71
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -16585,7 +16585,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 75
+	AP:✔ 75
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -16892,7 +16892,7 @@ FlowerVariationOds data
 	AP:✔ 53
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 70
+	AP:✅ 70
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 88
@@ -16916,7 +16916,7 @@ FlowerVariationOds data
 	AP: 97
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP: 70
@@ -17002,7 +17002,7 @@ FlowerVariationOds data
 	AP: 56
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: Let's send a cheer) 203
 	AP:✔ 66
@@ -17014,7 +17014,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 70
+	AP:✅ 70
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 88
@@ -17038,7 +17038,7 @@ FlowerVariationOds data
 	AP: 97
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP: 70
@@ -17136,7 +17136,7 @@ FlowerVariationOds data
 	AP:✔ 51
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 70
+	AP:✅ 70
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 88
@@ -17160,7 +17160,7 @@ FlowerVariationOds data
 	AP: 97
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP: 70
@@ -17259,7 +17259,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 85
+	AP:✅ 85
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 93
@@ -17384,7 +17384,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 85
+	AP:✅ 85
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 93
@@ -17497,7 +17497,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 85
+	AP:✅ 85
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 93
@@ -17614,7 +17614,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 85
+	AP:✅ 85
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 93
@@ -17745,7 +17745,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 85
+	AP:✅ 85
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 93
@@ -18691,7 +18691,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 80
+	AP:✔ 80
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -19062,7 +19062,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 20
@@ -19172,7 +19172,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 10
@@ -19279,7 +19279,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 20
@@ -19389,7 +19389,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 10
@@ -19505,7 +19505,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 20
@@ -19624,7 +19624,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 10
@@ -19731,7 +19731,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 20
@@ -19823,7 +19823,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 20
@@ -19924,10 +19924,10 @@ FlowerVariationOds data
 	AP: 21
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 5
@@ -20037,10 +20037,10 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 5
@@ -20156,10 +20156,10 @@ FlowerVariationOds data
 	AP: 23
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 5
@@ -20260,10 +20260,10 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 5
@@ -20364,10 +20364,10 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 5
@@ -20474,10 +20474,10 @@ FlowerVariationOds data
 	AP: 66
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 8
+	AP:✅ 8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 8
+	AP:✅ 8
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 8
@@ -20581,10 +20581,10 @@ FlowerVariationOds data
 	AP:✔ 78
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 8
+	AP:✅ 8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 8
+	AP:✅ 8
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 8
@@ -20679,10 +20679,10 @@ FlowerVariationOds data
 	AP: 33
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 8
+	AP:✅ 8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 8
+	AP:✅ 8
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 8
@@ -20771,10 +20771,10 @@ FlowerVariationOds data
 	AP:✔ 61
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 8
+	AP:✅ 8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 8
+	AP:✅ 8
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 8
@@ -20866,10 +20866,10 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 62
@@ -20896,7 +20896,7 @@ FlowerVariationOds data
 	AP:✔ 81
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 23
+	AP:✔ 23
 -
 	theme: (Mult#2: healthy growth) 411
 	AP: 5
@@ -20973,10 +20973,10 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 3
@@ -21098,10 +21098,10 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 3
@@ -21223,10 +21223,10 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 62
@@ -21253,7 +21253,7 @@ FlowerVariationOds data
 	AP:✔ 81
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 20
+	AP:✔ 20
 -
 	theme: (Mult#2: Pumpkin and creepy night) 405
 	AP: 80
@@ -21339,10 +21339,10 @@ FlowerVariationOds data
 	AP:✔ 98
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 62
@@ -21787,7 +21787,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
 	AP: 99
@@ -21903,7 +21903,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
 	AP: 99
@@ -22016,7 +22016,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
 	AP: 99
@@ -22117,7 +22117,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
 	AP: 99
@@ -22420,7 +22420,7 @@ FlowerVariationOds data
 	AP:✔ 10|8
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 22
+	AP:✔ 22
 -
 	theme: (theme N/A) 500
 	AP: ❌100
@@ -23120,7 +23120,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift/Day of Love) 401
 	AP: 15
@@ -23242,7 +23242,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2 Doll's Festival) 408
 	AP: 5
@@ -23272,7 +23272,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to friends) 610
 	AP: 50
@@ -23364,7 +23364,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Dumpling over flowers ?) 409
 	AP: 20
@@ -23483,7 +23483,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Dumpling over flowers ?) 409
 	AP: 20
@@ -23590,7 +23590,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Pumpkin and creepy night) 405
 	AP: 60
@@ -23632,7 +23632,7 @@ FlowerVariationOds data
 	AP:✔ 33
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: autumn red) 718
 	AP: 3
@@ -23694,7 +23694,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2 Doll's Festival) 408
 	AP: 5
@@ -23792,7 +23792,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 97
+	AP:✅ 97
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 97
@@ -23855,7 +23855,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP:✔ 50
@@ -23929,7 +23929,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 97
+	AP:✅ 97
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 97
@@ -23986,7 +23986,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 100
@@ -24060,7 +24060,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 97
+	AP:✅ 97
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 97
@@ -24117,7 +24117,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 5
@@ -24191,7 +24191,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 97
+	AP:✅ 97
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 97
@@ -24248,7 +24248,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 5
@@ -24325,7 +24325,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 97
+	AP:✅ 97
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 97
@@ -24385,7 +24385,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 5
@@ -24400,7 +24400,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: autumn red) 718
 	AP: 3
@@ -24465,7 +24465,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 97
+	AP:✅ 97
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 97
@@ -24525,7 +24525,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 5
@@ -24593,7 +24593,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 97
+	AP:✅ 97
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 97
@@ -24653,7 +24653,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 5
@@ -24807,7 +24807,7 @@ FlowerVariationOds data
 	AP: 77
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 7
+	AP:✅ 7
 -
 	theme: (Mult#2: TMF-October-) 309
 	AP: 7
@@ -24893,7 +24893,7 @@ FlowerVariationOds data
 	AP:✔ 13
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 13
+	AP:✅ 13
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 77
@@ -24997,7 +24997,7 @@ FlowerVariationOds data
 	AP:✔ 13
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 13
+	AP:✅ 13
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 77
@@ -25018,7 +25018,7 @@ FlowerVariationOds data
 	AP: 66
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 60|8
@@ -25119,7 +25119,7 @@ FlowerVariationOds data
 	AP: 35
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: two happiness) 413
 	AP:✔ 98
@@ -25128,7 +25128,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 80
+	AP:✔ 80
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -25178,7 +25178,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 20
@@ -25199,10 +25199,10 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 2
@@ -25229,7 +25229,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: Pumpkin and creepy night) 405
 	AP: 20
@@ -25297,7 +25297,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 20
@@ -25309,10 +25309,10 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 5
@@ -25336,7 +25336,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 60
@@ -25401,7 +25401,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 20
@@ -25410,10 +25410,10 @@ FlowerVariationOds data
 	AP: 41
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 2
@@ -25499,7 +25499,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 20
@@ -25514,10 +25514,10 @@ FlowerVariationOds data
 	AP: 33
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 3
@@ -25603,7 +25603,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 20
@@ -25627,10 +25627,10 @@ FlowerVariationOds data
 	AP: 44
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 3
@@ -25657,7 +25657,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 7
+	AP:✔ 7
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 50|8
@@ -25722,7 +25722,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 20
@@ -25734,10 +25734,10 @@ FlowerVariationOds data
 	AP: 64
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 3
@@ -25761,7 +25761,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 63
@@ -25835,7 +25835,7 @@ FlowerVariationOds data
 	AP:✔ 97
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 22
@@ -25862,7 +25862,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 33
+	AP:✔ 33
 -
 	theme: (Mult#2: healthy growth) 411
 	AP: 5
@@ -25951,7 +25951,7 @@ FlowerVariationOds data
 	AP:✔ 97
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 6
@@ -25984,7 +25984,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 43
@@ -26064,7 +26064,7 @@ FlowerVariationOds data
 	AP:✔ 97
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 22
@@ -26186,7 +26186,7 @@ FlowerVariationOds data
 	AP:✔ 97
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 15
@@ -26311,7 +26311,7 @@ FlowerVariationOds data
 	AP:✔ 97
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 22
@@ -26338,7 +26338,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#2: Pumpkin and creepy night) 405
 	AP: 50
@@ -26374,7 +26374,7 @@ FlowerVariationOds data
 	AP:✔ 50|4
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: summer yellow) 713
 	AP:✔ 50
@@ -26427,7 +26427,7 @@ FlowerVariationOds data
 	AP:✔ 97
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 22
@@ -26555,7 +26555,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 10|8
@@ -26665,7 +26665,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 45|8
@@ -26760,7 +26760,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 5|8
@@ -27149,7 +27149,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 56
+	AP:✔ 56
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -27776,7 +27776,7 @@ FlowerVariationOds data
 	AP: 16
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 56
+	AP:✔ 56
 -
 	theme: (theme N/A) 500
 	AP: ❌100
@@ -27883,7 +27883,7 @@ FlowerVariationOds data
 	AP: 19
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 57
+	AP:✔ 57
 -
 	theme: (theme N/A) 500
 	AP: ❌100
@@ -28111,13 +28111,13 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Innocence) 106
 	AP: 16
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Friends forever) 201
 	AP: 50
@@ -28224,7 +28224,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult #1: Believe in eternity) 208
 	AP: 5
@@ -28307,10 +28307,10 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP: 44
@@ -28417,7 +28417,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: Friends forever) 201
 	AP: 25
@@ -28524,7 +28524,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Innocence) 106
 	AP: 18
@@ -28619,7 +28619,7 @@ FlowerVariationOds data
 	AP: 80
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Innocence) 106
 	AP: 23
@@ -29118,7 +29118,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Wedd. bouquet) 611
 	AP:✔ 55
@@ -29168,7 +29168,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Friends forever) 201
 	AP: 50
@@ -29225,7 +29225,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Wedd. bouquet) 611
 	AP: 41
@@ -29335,7 +29335,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Wedd. bouquet) 611
 	AP: 56
@@ -29474,7 +29474,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#2: Chic) 107
 	AP: 98
@@ -29689,7 +29689,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#2: TMF-January-) 300
 	AP: 8
@@ -30218,7 +30218,7 @@ FlowerVariationOds data
 	AP: 88
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Let's send a cheer) 203
 	AP: 16
@@ -30263,7 +30263,7 @@ FlowerVariationOds data
 	AP:✔ 5
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 50
@@ -30350,7 +30350,7 @@ FlowerVariationOds data
 	AP:✔ 5
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 5
@@ -30434,7 +30434,7 @@ FlowerVariationOds data
 	AP:✔ 5
 -
 	theme: (Mult#2: Veranda garden) 605
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: winter pink) 728
 	AP: 10
@@ -31370,7 +31370,7 @@ FlowerVariationOds data
 	AP:✔ 31
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: autumn red) 718
 	AP: 3
@@ -31824,7 +31824,7 @@ FlowerVariationOds data
 	AP: 33
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 55
+	AP:✔ 55
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -32014,7 +32014,7 @@ FlowerVariationOds data
 	AP: 31
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 57
+	AP:✔ 57
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -32109,7 +32109,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 56
+	AP:✔ 56
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -32471,7 +32471,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: healthy growth) 411
 	AP: 5
@@ -32560,7 +32560,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: Thanks/mntns) 415
 	AP:✔ 26
@@ -32646,7 +32646,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 5
@@ -32794,7 +32794,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 53
+	AP:✔ 53
 -
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 38
@@ -32877,7 +32877,7 @@ FlowerVariationOds data
 	AP:✔ 80
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 22
+	AP:✔ 22
 -
 	theme: (Mult#2: healthy growth) 411
 	AP: 5
@@ -32972,7 +32972,7 @@ FlowerVariationOds data
 	AP:✔ 91|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 60
+	AP:✅ 60
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 15
@@ -33100,7 +33100,7 @@ FlowerVariationOds data
 	AP:✔ 91|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 60
+	AP:✅ 60
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 50
@@ -33216,7 +33216,7 @@ FlowerVariationOds data
 	AP:✔ 91|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 60
+	AP:✅ 60
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 50
@@ -33490,7 +33490,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP:✔ 60
@@ -33608,7 +33608,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 78
+	AP:✅ 78
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 82
@@ -33730,7 +33730,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 78
+	AP:✅ 78
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 82
@@ -33819,7 +33819,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: Let's send a cheer) 203
 	AP: 4
@@ -33852,7 +33852,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 78
+	AP:✅ 78
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 82
@@ -33959,7 +33959,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 78
+	AP:✅ 78
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 82
@@ -34033,7 +34033,7 @@ FlowerVariationOds data
 	AP: 35
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 100
@@ -34054,7 +34054,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -34182,7 +34182,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -34221,7 +34221,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: spring red) 700
 	AP: 25
@@ -34298,7 +34298,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -34409,7 +34409,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -34454,7 +34454,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: autumn red) 718
 	AP: 3
@@ -34528,7 +34528,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -34630,7 +34630,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -34734,7 +34734,7 @@ FlowerVariationOds data
 	AP: 78
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP:✔ 91
@@ -34936,7 +34936,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✔ 100
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP: 86
@@ -35190,7 +35190,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 61
+	AP:✔ 61
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -35426,7 +35426,7 @@ FlowerVariationOds data
 	AP:✔ 10|8
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 66
+	AP:✔ 66
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -35543,7 +35543,7 @@ FlowerVariationOds data
 	AP:✔ 55|8
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 61
+	AP:✔ 61
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -35659,7 +35659,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 61
+	AP:✔ 61
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -36059,7 +36059,7 @@ FlowerVariationOds data
 	AP: 94
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 99
+	AP:✅ 99
 -
 	theme: (Mult#2 Doll's Festival) 408
 	AP: 5
@@ -36144,7 +36144,7 @@ FlowerVariationOds data
 	AP: 94
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 99
+	AP:✅ 99
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 80|12
@@ -36224,7 +36224,7 @@ FlowerVariationOds data
 	AP:✔ 91
 -
 	theme: (Mult#1: Happiness w'in you) 207
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: TMF-May-) 304
 	AP:✔ 99
@@ -36236,7 +36236,7 @@ FlowerVariationOds data
 	AP: 94
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 99
+	AP:✅ 99
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 80|12
@@ -36328,7 +36328,7 @@ FlowerVariationOds data
 	AP: 94
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 99
+	AP:✅ 99
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 40|12
@@ -36416,7 +36416,7 @@ FlowerVariationOds data
 	AP: 94
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 99
+	AP:✅ 99
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 40|12
@@ -36504,7 +36504,7 @@ FlowerVariationOds data
 	AP: 71
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 99
+	AP:✅ 99
 -
 	theme: (Mult#2: Manmaru moon) 404
 	AP:✔ 30|12
@@ -37926,7 +37926,7 @@ FlowerVariationOds data
 	AP: 76
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 13
+	AP:✔ 13
 -
 	theme: (theme N/A) 500
 	AP: ❌50
@@ -38012,7 +38012,7 @@ FlowerVariationOds data
 	AP:✔ 92
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 100
@@ -38125,7 +38125,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 57
@@ -38222,7 +38222,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 69
@@ -38313,7 +38313,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 69
@@ -38404,7 +38404,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 68
@@ -38493,7 +38493,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 16
@@ -39497,7 +39497,7 @@ FlowerVariationOds data
 	AP:✔ 92
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 77
+	AP:✔ 77
 -
 	theme: (Mult#2: Bonsai day) 600
 	AP:✔ 80
@@ -39577,7 +39577,7 @@ FlowerVariationOds data
 	AP:✔ 22|24
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 77
+	AP:✔ 77
 -
 	theme: (Mult#2: Bonsai day) 600
 	AP:✔ 80
@@ -39636,7 +39636,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 40
+	AP:✅ 40
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP:✔ 99
@@ -39716,7 +39716,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 40
+	AP:✅ 40
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP:✔ 99
@@ -39793,7 +39793,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 40
+	AP:✅ 40
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP:✔ 99
@@ -39867,7 +39867,7 @@ FlowerVariationOds data
 	AP:✔ 20
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 40
+	AP:✅ 40
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP:✔ 99
@@ -40781,7 +40781,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 50
+	AP:✔ 50
 -
 	theme: (Mult#2: healthy growth) 411
 	AP: 90
@@ -40790,7 +40790,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 77
+	AP:✔ 77
 -
 	theme: (Mult#2: Bonsai day) 600
 	AP:✔ 80
@@ -41522,7 +41522,7 @@ FlowerVariationOds data
 	AP: 90
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Sprout/roadside) 601
 	AP:✔ 98
@@ -41614,7 +41614,7 @@ FlowerVariationOds data
 	AP:✔ 40
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Sprout/roadside) 601
 	AP:✔ 98
@@ -41869,7 +41869,7 @@ FlowerVariationOds data
 	AP: 11
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 60
+	AP:✔ 60
 -
 	theme: (Mult#2: Grass paradise) 602
 	AP:✔ 55
@@ -42278,7 +42278,7 @@ FlowerVariationOds data
 	AP:✔ 98|4
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 10
@@ -42302,7 +42302,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP: 98
@@ -42385,7 +42385,7 @@ FlowerVariationOds data
 	AP:✔ 98|4
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 98
+	AP:✅ 98
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 10
@@ -42409,7 +42409,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP: 98
@@ -42605,7 +42605,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 5
+	AP:✔ 5
 -
 	theme: (theme N/A) 501
 	AP: ❌100
@@ -42683,7 +42683,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 5
+	AP:✔ 5
 -
 	theme: (Mult#2: Sprout/roadside) 601
 	AP:✔ 75
@@ -42748,7 +42748,7 @@ FlowerVariationOds data
 	AP:✔ 10
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 12
@@ -42917,7 +42917,7 @@ FlowerVariationOds data
 	AP:✔ 55
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
 	AP:✔ 12
@@ -43152,7 +43152,7 @@ FlowerVariationOds data
 	AP: 3
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 90
@@ -43283,7 +43283,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 70
+	AP:✔ 70
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -43388,7 +43388,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 70
+	AP:✔ 70
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -43489,7 +43489,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 70
+	AP:✔ 70
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -44348,7 +44348,7 @@ FlowerVariationOds data
 	AP:✔ 15
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -44410,7 +44410,7 @@ FlowerVariationOds data
 	AP:✔ 15
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -44913,7 +44913,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 99
@@ -45023,7 +45023,7 @@ FlowerVariationOds data
 	AP:✔ 90
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 99
@@ -45142,7 +45142,7 @@ FlowerVariationOds data
 	AP: 81
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 70
+	AP:✔ 70
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -45229,7 +45229,7 @@ FlowerVariationOds data
 	AP: 81
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 70
+	AP:✔ 70
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -45367,7 +45367,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP:✔ 100
@@ -45489,7 +45489,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP: 30
@@ -45719,7 +45719,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 57
+	AP:✔ 57
 -
 	theme: (Mult#1: Flowering tree) 503
 	AP:✅ 88
@@ -45925,7 +45925,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Unbeaten by Hert) 322
 	AP: 15
@@ -46053,7 +46053,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Unbeaten by Hert) 322
 	AP: 15
@@ -46111,7 +46111,7 @@ FlowerVariationOds data
  
 #459
 FlowerVariationOds data
-	ID: (plant) 2013
+	ID: 2013
 	Species: (azalea) 20 (6|12|18)
 	Color
 		UInt8 color = (red x white) 13
@@ -46163,7 +46163,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: healthy growth) 411
 	AP:✔ 97
@@ -46433,7 +46433,7 @@ FlowerVariationOds data
 	AP:✔ 84
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 100
@@ -46528,7 +46528,7 @@ FlowerVariationOds data
 	AP:✔ 84
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 100
@@ -46623,7 +46623,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -46638,7 +46638,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 87
@@ -46757,7 +46757,7 @@ FlowerVariationOds data
 	AP:✔ 90|8
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 87
+	AP:✅ 87
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -46772,7 +46772,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP:✔ 87
@@ -47108,7 +47108,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 7
+	AP:✔ 7
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 81
@@ -47325,7 +47325,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 100
@@ -47429,7 +47429,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 100
@@ -47530,7 +47530,7 @@ FlowerVariationOds data
 	AP:✔ 46
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 100
@@ -47545,7 +47545,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 55
+	AP:✔ 55
 -
 	theme: (Mult#2: Rabbit and eggs) 410
 	AP: 99
@@ -47739,7 +47739,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 70
+	AP:✅ 70
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 88
@@ -47763,7 +47763,7 @@ FlowerVariationOds data
 	AP: 97
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Autumn of appetite) 326
 	AP: 70
@@ -47874,7 +47874,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 85
+	AP:✅ 85
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 93
@@ -47994,7 +47994,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 85
+	AP:✅ 85
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 93
@@ -48586,7 +48586,7 @@ FlowerVariationOds data
 	AP:✔ 25|16
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 10
@@ -48669,7 +48669,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Green day) 412
 	AP: 12
@@ -48755,10 +48755,10 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 100
@@ -48874,10 +48874,10 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 100
@@ -48996,10 +48996,10 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Ceremonial bonfire) 324
 	AP:✔ 100
@@ -49100,7 +49100,7 @@ FlowerVariationOds data
 	AP:✔ 13
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 13
+	AP:✅ 13
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 77
@@ -49118,7 +49118,7 @@ FlowerVariationOds data
 	AP:✔ 94
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Wish upon a star) 403
 	AP:✔ 77
@@ -49198,7 +49198,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 20
@@ -49207,10 +49207,10 @@ FlowerVariationOds data
 	AP: 56
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 5
@@ -49299,7 +49299,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Vivid) 105
 	AP: 20
@@ -49314,10 +49314,10 @@ FlowerVariationOds data
 	AP: 10
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 12
+	AP:✅ 12
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 5
@@ -49341,7 +49341,7 @@ FlowerVariationOds data
 	AP:✔ 96
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 15
+	AP:✔ 15
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 70
@@ -49418,7 +49418,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 10
@@ -49439,7 +49439,7 @@ FlowerVariationOds data
 	AP:✔ 19
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Unbeaten by Hert) 322
 	AP: 75
@@ -49478,7 +49478,7 @@ FlowerVariationOds data
 	AP: 50
 -
 	theme: (Mult#1: spring orange) 705
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: summer yellow) 713
 	AP:✔ 50
@@ -49540,7 +49540,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 10
@@ -49561,7 +49561,7 @@ FlowerVariationOds data
 	AP:✔ 19
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Unbeaten by Hert) 322
 	AP: 75
@@ -49656,7 +49656,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Spring bright) 312
 	AP: 10
@@ -49677,7 +49677,7 @@ FlowerVariationOds data
 	AP:✔ 19
 -
 	theme: (Mult#2: Unbeaten by Rain) 320
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Unbeaten by Hert) 322
 	AP: 75
@@ -49784,7 +49784,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 10
+	AP:✔ 10
 -
 	theme: (Mult#3: Green day) 412
 	AP: 12
@@ -49965,7 +49965,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 55
+	AP:✔ 55
 -
 	theme: (theme N/A) 502
 	AP: ❌100
@@ -49983,7 +49983,7 @@ FlowerVariationOds data
 	AP:✔ 15
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: summer yellow) 713
 	AP:✔ 5
@@ -50063,7 +50063,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 55
@@ -50180,7 +50180,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 55
@@ -50285,7 +50285,7 @@ FlowerVariationOds data
 	AP: 55
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Thanks/mntns) 415
 	AP: 55
@@ -50381,7 +50381,7 @@ FlowerVariationOds data
 	AP: 94
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift/Day of Love) 401
 	AP: 45
@@ -50491,7 +50491,7 @@ FlowerVariationOds data
 	AP: 99
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift/Day of Love) 401
 	AP: 45
@@ -50598,7 +50598,7 @@ FlowerVariationOds data
 	AP: 91
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift/Day of Love) 401
 	AP: 45
@@ -51025,7 +51025,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 78
+	AP:✅ 78
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 82
@@ -51126,7 +51126,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -51159,7 +51159,7 @@ FlowerVariationOds data
 	AP:✔ 65
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: spring red) 700
 	AP: 25
@@ -51236,7 +51236,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -51269,7 +51269,7 @@ FlowerVariationOds data
 	AP:✔ 65
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: spring red) 700
 	AP: 25
@@ -51355,7 +51355,7 @@ FlowerVariationOds data
 	AP:✔ 50
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 50
@@ -51388,7 +51388,7 @@ FlowerVariationOds data
 	AP:✔ 65
 -
 	theme: (Mult#2: Gift to lovers) 609
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: spring red) 700
 	AP: 25
@@ -52190,7 +52190,7 @@ FlowerVariationOds data
 	AP:✔ 99
 -
 	theme: (Mult#2: Thanks/mntns) 415
-	AP: 55
+	AP:✔ 55
 -
 	theme: (theme N/A) 500
 	AP: ❌50
@@ -52286,7 +52286,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#2: Pop) 104
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Innocence) 106
 	AP: 3
@@ -52375,10 +52375,10 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: TMF-September-) 308
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 5
@@ -52479,7 +52479,7 @@ FlowerVariationOds data
 	AP:✔ 5
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 5
+	AP:✅ 5
 -
 	theme: (Mult#2: TMF-November-) 310
 	AP: 5
@@ -52583,7 +52583,7 @@ FlowerVariationOds data
 	AP:✔ 11
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 62
@@ -52695,7 +52695,7 @@ FlowerVariationOds data
 	AP:✔ 11
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 11
+	AP:✅ 11
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 62
@@ -52722,7 +52722,7 @@ FlowerVariationOds data
 	AP:✔ 81
 -
 	theme: (Mult#2: Wish upon a star) 403
-	AP: 15
+	AP:✔ 15
 -
 	theme: (Mult#2: Thanks sea) 414
 	AP:✔ 99
@@ -52834,7 +52834,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Dumpling over flowers ?) 409
 	AP: 20
@@ -52855,7 +52855,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP:✔ 100
@@ -52919,7 +52919,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#1: Burning heart) 205
 	AP: 91
@@ -52943,7 +52943,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Dumpling over flowers ?) 409
 	AP: 20
@@ -52964,7 +52964,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP:✔ 100
@@ -53016,7 +53016,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 95
+	AP:✅ 95
 -
 	theme: (Mult#1: Friends forever) 201
 	AP: 10
@@ -53046,7 +53046,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift/Day of Love) 401
 	AP: 15
@@ -53070,7 +53070,7 @@ FlowerVariationOds data
 	AP:✔ 88
 -
 	theme: (Mult#2: SFB Spring) 606
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Gift to lovers) 609
 	AP:✔ 100
@@ -53116,7 +53116,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#1: Don't forget/kind) 206
 	AP:✔ 55
@@ -53201,7 +53201,7 @@ FlowerVariationOds data
 	AP: 25
 -
 	theme: (Mult#1: W/love/heart) 200
-	AP: 90
+	AP:✅ 90
 -
 	theme: (Mult#1: Prayer for peace) 204
 	AP: 56
@@ -53561,7 +53561,7 @@ FlowerVariationOds data
 	AP: 100
 -
 	theme: (Mult#2: Unbeaten by Wind) 323
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#2: Happy new year) 400
 	AP:✔ 99
@@ -53809,7 +53809,7 @@ FlowerVariationOds data
 	AP:✔ 15
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 10
+	AP:✅ 10
 -
 	theme: (Mult#3: Summer Glass) 313
 	AP:✔ 45
@@ -53963,7 +53963,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#3: Winter Moon) 315
 	AP: 75
@@ -54049,7 +54049,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#3: Winter Moon) 315
 	AP: 75
@@ -54127,7 +54127,7 @@ FlowerVariationOds data
 	AP: 15
 -
 	theme: (Mult#2: TMF-October-) 309
-	AP: 50
+	AP:✅ 50
 -
 	theme: (Mult#3: Winter Moon) 315
 	AP: 75
