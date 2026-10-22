@@ -4616,7 +4616,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 55
+	AP:✅ 55
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 100
@@ -7804,7 +7804,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 55
+	AP:✅ 55
 -
 	theme: (Mult#1: Let's send a cheer) 203
 	AP: 36
@@ -7908,7 +7908,7 @@ FlowerVariationOds data
 	AP: 5
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 55
+	AP:✅ 55
 -
 	theme: (Mult#2: Chic) 107
 	AP: 15
@@ -12387,7 +12387,7 @@ FlowerVariationOds data
 	AP: 20
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 76
+	AP:✅ 76
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 78
@@ -13377,7 +13377,7 @@ FlowerVariationOds data
 	AP:✔ 85
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 55
+	AP:✅ 55
 -
 	theme: (Mult#2: Chic) 107
 	AP:✔ 100|12
@@ -18751,7 +18751,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 76
+	AP:✅ 76
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 44
@@ -20848,7 +20848,7 @@ FlowerVariationOds data
 	AP:✔ 75
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 55
+	AP:✅ 55
 -
 	theme: (Mult#2: Chic) 107
 	AP: 48
@@ -44618,7 +44618,7 @@ FlowerVariationOds data
 	AP:✔ 100
 -
 	theme: (Mult#2: Innocence) 106
-	AP: 55
+	AP:✅ 55
 -
 	theme: (Mult#2: Fresh) 108
 	AP: 50
