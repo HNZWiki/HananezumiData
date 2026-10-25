@@ -1865,7 +1865,7 @@ FlowerVariationOds data
 	AP:✔ 70
 -
 	theme: (Mult#1: winter purple) 730
-	AP: 0
+	AP:✅ 0
 - 
  
 #17
@@ -22948,7 +22948,7 @@ FlowerVariationOds data
 
 -
 	theme: (Mult#3: Passion Red) 0
-	AP: 100
+	AP:✅ 100
 -
 	theme: (Mult#3: Natural Green) 8
 	AP: 5
@@ -42630,7 +42630,7 @@ FlowerVariationOds data
 	AP: 45
 -
 	theme: (Mult#1: winter purple) 730
-	AP: 23
+	AP:✅ 23
 - 
  
 #422
@@ -51742,7 +51742,7 @@ FlowerVariationOds data
 	AP: 14
 -
 	theme: (Mult#1: winter purple) 730
-	AP: 7
+	AP:✅ 7
 -
 	theme: (Mult#1: winter white) 733
 	AP: 14
